@@ -1,0 +1,502 @@
+,cik,name,ticker
+12,0001090872,Agilent Technologies Inc,A
+31,0000006201,American Airlines Group,AAL
+8,0001158449,Advance Auto Parts,AAP
+49,0000320193,Apple Inc.,AAPL
+2,0001551152,AbbVie Inc.,ABBV
+38,0001140859,AmerisourceBergen Corp,ABC
+3,0000815094,ABIOMED Inc,ABMD
+1,0000001800,Abbott Laboratories,ABT
+4,0001467373,Accenture plc,ACN
+6,0000796343,Adobe Systems Inc,ADBE
+42,0000006281,"Analog Devices, Inc.",ADI
+52,0000007084,Archer-Daniels-Midland Co,ADM
+60,0000008670,Automatic Data Processing,ADP
+22,0001101215,Alliance Data Systems,ADS
+59,0000769397,Autodesk Inc.,ADSK
+30,0001002910,Ameren Corp,AEE
+32,0000004904,American Electric Power,AEP
+9,0000874761,AES Corp,AES
+11,0000004977,AFLAC Inc,AFL
+21,0001578845,"Allergan, Plc",AGN
+34,0000005272,American International Group,AIG
+48,0000922864,Apartment Investment & Management,AIV
+56,0001267238,Assurant,AIZ
+55,0000354190,Arthur J. Gallagher & Co.,AJG
+14,0001086222,Akamai Technologies Inc,AKAM
+16,0000915913,Albemarle Corp,ALB
+19,0001097149,Align Technology,ALGN
+15,0000766421,Alaska Air Group Inc,ALK
+24,0000899051,Allstate Corp,ALL
+20,0001579241,Allegion,ALLE
+18,0000899866,Alexion Pharmaceuticals,ALXN
+50,0000006951,Applied Materials Inc.,AMAT
+29,0001748790,Amcor plc,AMCR
+7,0000002488,Advanced Micro Devices Inc,AMD
+39,0001037868,AMETEK Inc.,AME
+10,0001004434,Affiliated Managers Group Inc,AMG
+40,0000318154,Amgen Inc.,AMGN
+37,0000820027,Ameriprise Financial,AMP
+35,0001053507,American Tower Corp.,AMT
+28,0001018724,Amazon.com Inc.,AMZN
+54,0001596532,Arista Networks,ANET
+43,0001013462,ANSYS,ANSS
+44,0001156039,Anthem,ANTM
+45,0000315293,Aon plc,AON
+46,0000091142,A.O. Smith Corp,AOS
+47,0000006769,Apache Corporation,APA
+13,0000002969,Air Products & Chemicals Inc,APD
+41,0000820313,Amphenol Corp,APH
+51,0001521332,Aptiv Plc,APTV
+17,0001035443,Alexandria Real Estate Equities,ARE
+53,0000004281,Arconic Inc.,ARNC
+57,0000731802,Atmos Energy Corp,ATO
+5,0000718877,Activision Blizzard,ATVI
+62,0000915912,"AvalonBay Communities, Inc.",AVB
+82,0001730168,Broadcom Inc.,AVGO
+63,0000008818,Avery Dennison Corp,AVY
+36,0001410636,American Water Works Company Inc,AWK
+33,0000004962,American Express Co,AXP
+61,0000866787,AutoZone Inc,AZO
+76,0000012927,Boeing Company,BA
+66,0000070858,Bank of America Corp,BAC
+68,0000010456,Baxter International Inc.,BAX
+69,0000092230,BB&T Corporation,BBT
+72,0000764478,Best Buy Co. Inc.,BBY
+70,0000010795,Becton Dickinson,BDX
+210,0000038777,Franklin Resources,BEN
+84,0000014693,Brown-Forman Corp.,BF.B
+64,0001701605,"Baker Hughes, a GE Company",BHGE
+73,0000875045,Biogen Inc.,BIIB
+67,0001390777,The Bank of New York Mellon Corp.,BK
+77,0001075531,Booking Holdings Inc,BKNG
+74,0001364742,BlackRock,BLK
+65,0000009389,Ball Corp,BLL
+81,0000014272,Bristol-Myers Squibb,BMY
+83,0001383312,Broadridge Financial Solutions,BR
+71,0001067983,Berkshire Hathaway,BRK.B
+80,0000885725,Boston Scientific,BSX
+78,0000908255,BorgWarner,BWA
+79,0001037540,Boston Properties,BXP
+116,0000831001,Citigroup Inc.,C
+127,0000023217,Conagra Brands,CAG
+91,0000721371,Cardinal Health Inc.,CAH
+94,0000018230,Caterpillar Inc.,CAT
+109,0000896159,Chubb Limited,CB
+95,0001374310,Cboe Global Markets,CBOE
+96,0001138118,CBRE Group,CBRE
+97,0000813828,CBS Corp.,CBS
+138,0001051470,Crown Castle International Corp.,CCI
+93,0000815097,Carnival Corp.,CCL
+87,0000813672,Cadence Design Systems,CDNS
+98,0001306830,Celanese,CE
+99,0000816284,Celgene Corp.,CELG
+103,0000804753,Cerner,CERN
+104,0001324404,CF Industries Holdings Inc,CF
+117,0000759944,Citizens Financial Group,CFG
+110,0000313927,Church & Dwight,CHD
+85,0001043277,C. H. Robinson Worldwide,CHRW
+106,0001091667,Charter Communications,CHTR
+111,0000701221,CIGNA Corp.,CI
+113,0000020286,Cincinnati Financial,CINF
+124,0000021665,Colgate-Palmolive,CL
+119,0000021076,The Clorox Company,CLX
+126,0000028412,Comerica Inc.,CMA
+125,0001166691,Comcast Corp.,CMCSA
+120,0001156375,CME Group Inc.,CME
+108,0001058090,Chipotle Mexican Grill,CMG
+140,0000026172,Cummins Inc.,CMI
+121,0000811156,CMS Energy,CMS
+100,0001071739,Centene Corporation,CNC
+101,0001130310,CenterPoint Energy,CNP
+89,0000927628,Capital One Financial,COF
+86,0000858470,Cabot Oil & Gas,COG
+132,0000711404,The Cooper Companies,COO
+129,0001163165,ConocoPhillips,COP
+136,0000909832,Costco Wholesale Corp.,COST
+137,0001024305,"Coty, Inc",COTY
+88,0000016732,Campbell Soup,CPB
+90,0001530721,Capri Holdings,CPRI
+133,0000900075,Copart Inc,CPRT
+410,0001108524,Salesforce.com,CRM
+115,0000858877,Cisco Systems,CSCO
+139,0000277948,CSX Corp.,CSX
+114,0000723254,Cintas Corporation,CTAS
+102,0000018926,CenturyLink Inc,CTL
+123,0001058290,Cognizant Technology Solutions,CTSH
+135,0001755672,Corteva,CTVA
+118,0000877890,Citrix Systems,CTXS
+141,0000064803,CVS Health,CVS
+107,0000093410,Chevron Corp.,CVX
+128,0001358071,Concho Resources,CXO
+158,0000715957,Dominion Energy,D
+147,0000027904,Delta Air Lines Inc.,DAL
+164,0001666700,DuPont de Nemours Inc,DD
+146,0000315189,Deere & Co.,DE
+152,0001393612,Discover Financial Services,DFS
+156,0000029534,Dollar General,DG
+394,0001022079,Quest Diagnostics,DGX
+142,0000882184,D. R. Horton,DHI
+143,0000313616,Danaher Corp.,DHR
+482,0001001039,The Walt Disney Company,DIS
+154,0001437107,Discovery Inc. Class C,DISCK
+155,0001001082,Dish Network,DISH
+151,0001297996,Digital Realty Trust Inc,DLR
+157,0000935703,Dollar Tree,DLTR
+159,0000029905,Dover Corp.,DOV
+160,0001751788,Dow Inc.,DOW
+163,0000783280,Duke Realty Corp,DRE
+144,0000940944,Darden Restaurants,DRI
+161,0000936340,DTE Energy Co.,DTE
+162,0001326160,Duke Energy,DUK
+145,0000927066,DaVita Inc.,DVA
+149,0001090012,Devon Energy,DVN
+165,0001688568,DXC Technology,DXC
+173,0000712515,Electronic Arts,EA
+169,0001065088,eBay Inc.,EBAY
+170,0000031462,Ecolab Inc.,ECL
+130,0001047862,Consolidated Edison,ED
+177,0000033185,Equifax Inc.,EFX
+171,0000827052,Edison Int'l,EIX
+181,0001001250,Estee Lauder Cos.,EL
+167,0000915389,Eastman Chemical,EMN
+174,0000032604,Emerson Electric Company,EMR
+176,0000821189,EOG Resources,EOG
+178,0001101239,Equinix,EQIX
+179,0000906107,Equity Residential,EQR
+183,0000072741,Eversource Energy,ES
+180,0000920522,"Essex Property Trust, Inc.",ESS
+166,0001015780,E*Trade,ETFC
+168,0001551182,Eaton Corporation,ETN
+175,0000065984,Entergy Corp.,ETR
+182,0001711269,Evergy,EVRG
+172,0001099800,Edwards Lifesciences,EW
+185,0001109357,Exelon Corp.,EXC
+187,0000746515,Expeditors,EXPD
+186,0001324424,Expedia Group,EXPE
+188,0001289490,Extra Space Storage,EXR
+204,0000037996,Ford Motor,F
+150,0001539838,Diamondback Energy,FANG
+192,0000815556,Fastenal Co,FAST
+191,0001326801,"Facebook, Inc.",FB
+207,0001519751,Fortune Brands Home & Security,FBHS
+211,0000831259,Freeport-McMoRan Inc.,FCX
+194,0001048911,FedEx Corporation,FDX
+197,0001031296,FirstEnergy Corp,FE
+190,0001048695,F5 Networks,FFIV
+195,0001136893,Fidelity National Information Services,FIS
+199,0000798354,Fiserv Inc,FISV
+196,0000035527,Fifth Third Bancorp,FITB
+201,0000354908,FLIR Systems,FLIR
+202,0000030625,Flowserve Corporation,FLS
+200,0001175454,FleetCor Technologies Inc,FLT
+203,0000037785,FMC Corporation,FMC
+208,0001308161,Fox Corporation Class A,FOXA
+198,0001132979,First Republic Bank,FRC
+193,0000034903,Federal Realty Investment Trust,FRT
+440,0001681459,TechnipFMC,FTI
+205,0001262039,Fortinet,FTNT
+206,0001659166,Fortive Corp,FTV
+215,0000040533,General Dynamics,GD
+216,0000040545,General Electric,GE
+220,0000882095,Gilead Sciences,GILD
+217,0000040704,General Mills,GIS
+221,0000320335,Globe Life Inc.,GL
+134,0000024741,Corning Inc.,GLW
+218,0001467858,General Motors,GM
+26,0001652044,Alphabet Inc Class C,GOOG
+219,0000040987,Genuine Parts,GPC
+222,0001123360,Global Payments Inc.,GPN
+212,0000039911,Gap Inc.,GPS
+213,0001121788,Garmin Ltd.,GRMN
+223,0000886982,Goldman Sachs Group,GS
+224,0000277135,Grainger (W.W.) Inc.,GWW
+225,0000045012,Halliburton Co.,HAL
+229,0000046080,Hasbro Inc.,HAS
+246,0000049196,Huntington Bancshares,HBAN
+226,0001359841,Hanesbrands Inc,HBI
+230,0000860730,HCA Healthcare,HCA
+231,0000765880,HCP Inc.,HCP
+240,0000354950,Home Depot,HD
+235,0000004447,Hess Corporation,HES
+238,0000048039,HollyFrontier Corp,HFC
+228,0000874766,Hartford Financial Svc.Gp.,HIG
+247,0001501585,Huntington Ingalls Industries,HII
+237,0001585689,Hilton Worldwide Holdings Inc,HLT
+227,0000793952,Harley-Davidson,HOG
+239,0000859737,Hologic,HOLX
+241,0000773840,Honeywell Int'l Inc.,HON
+232,0000046765,Helmerich & Payne,HP
+236,0001645590,Hewlett Packard Enterprise,HPE
+244,0000047217,HP Inc.,HPQ
+75,0000012659,Block H&R,HRB
+242,0000048465,Hormel Foods Corp.,HRL
+233,0001000228,Henry Schein,HSIC
+243,0001070750,Host Hotels & Resorts,HST
+234,0000047111,The Hershey Company,HSY
+245,0000049071,Humana Inc.,HUM
+256,0000051143,International Business Machines,IBM
+255,0001571949,Intercontinental Exchange,ICE
+249,0000874716,IDEXX Laboratories,IDXX
+248,0000832101,IDEX Corporation,IEX
+260,0000051253,Intl Flavors & Fragrances,IFF
+252,0001110803,Illumina Inc,ILMN
+257,0000879169,Incyte,INCY
+250,0001598014,IHS Markit Ltd.,INFO
+254,0000050863,Intel Corp.,INTC
+261,0000896878,Intuit Inc.,INTU
+258,0000051434,International Paper,IP
+259,0000051644,Interpublic Group,IPG
+264,0001111928,IPG Photonics Corp.,IPGP
+265,0001478242,IQVIA Holdings Inc.,IQV
+253,0001466258,Ingersoll-Rand PLC,IR
+266,0001020569,Iron Mountain Incorporated,IRM
+262,0001035267,Intuitive Surgical Inc.,ISRG
+214,0000749251,Gartner Inc,IT
+251,0000049826,Illinois Tool Works,ITW
+263,0000914208,Invesco Ltd.,IVZ
+269,0000728535,J. B. Hunt Transport Services,JBHT
+273,0000833444,Johnson Controls International,JCI
+268,0000052988,Jacobs Engineering Group,JEC
+270,0000096223,Jefferies Financial Group,JEF
+267,0000779152,Jack Henry & Associates,JKHY
+272,0000200406,Johnson & Johnson,JNJ
+275,0001043604,Juniper Networks,JNPR
+274,0000019617,JPMorgan Chase & Co.,JPM
+351,0000072333,Nordstrom,JWN
+277,0000055067,Kellogg Co.,K
+278,0000091576,KeyCorp,KEY
+279,0001601046,Keysight Technologies,KEYS
+285,0001637459,Kraft Heinz Co,KHC
+281,0000879101,Kimco Realty,KIM
+283,0000319201,KLA Corporation,KLAC
+280,0000055785,Kimberly-Clark,KMB
+282,0001506307,Kinder Morgan,KMI
+92,0001170010,Carmax Inc,KMX
+122,0000021344,Coca-Cola Company,KO
+286,0000056873,Kroger Co.,KR
+284,0000885639,Kohl's Corp.,KSS
+276,0000054480,Kansas City Southern,KSU
+300,0000060086,Loews Corp.,L
+287,0000701985,L Brands Inc.,LB
+293,0001336920,Leidos Holdings,LDOS
+292,0000058492,Leggett & Platt,LEG
+294,0000920760,Lennar Corp.,LEN
+289,0000920148,Laboratory Corp. of America Holding,LH
+288,0000202058,L3Harris Technologies,LHX
+297,0001707925,Linde plc,LIN
+298,0001065696,LKQ Corporation,LKQ
+295,0000059478,Lilly (Eli) & Co.,LLY
+299,0000936468,Lockheed Martin Corp.,LMT
+296,0000059558,Lincoln National,LNC
+23,0000352541,Alliant Energy Corp,LNT
+301,0000060667,Lowe's Cos.,LOW
+290,0000707549,Lam Research,LRCX
+422,0000092380,Southwest Airlines,LUV
+291,0001679273,Lamb Weston Holdings Inc,LW
+302,0001489393,LyondellBasell,LYB
+305,0000794367,Macy's Inc.,M
+313,0001141391,Mastercard Inc.,MA
+326,0000912595,Mid-America Apartments,MAA
+304,0000912242,Macerich,MAC
+309,0001048286,Marriott Int'l.,MAR
+312,0000062996,Masco Corp.,MAS
+316,0000063908,McDonald's Corp.,MCD
+323,0000827054,Microchip Technology,MCHP
+317,0000927653,McKesson Corp.,MCK
+331,0001059556,Moody's Corp,MCO
+329,0001103982,Mondelez International,MDLZ
+318,0001613103,Medtronic plc,MDT
+320,0001099219,MetLife Inc.,MET
+322,0000789570,MGM Resorts International,MGM
+327,0000851968,Mohawk Industries,MHK
+314,0000063754,McCormick & Co.,MKC
+308,0001278021,MarketAxess,MKTX
+311,0000916076,Martin Marietta Materials,MLM
+310,0000062709,Marsh & McLennan,MMC
+0,0000066740,3M Company,MMM
+330,0000865752,Monster Beverage,MNST
+27,0000764180,Altria Group Inc,MO
+333,0001285785,The Mosaic Company,MOS
+307,0001510295,Marathon Petroleum,MPC
+319,0000310158,Merck & Co.,MRK
+306,0000101778,Marathon Oil Corp.,MRO
+332,0000895421,Morgan Stanley,MS
+335,0001408198,MSCI Inc,MSCI
+325,0000789019,Microsoft Corp.,MSFT
+334,0000068505,Motorola Solutions Inc.,MSI
+303,0000036270,M&T Bank Corp.,MTB
+321,0001037646,Mettler Toledo,MTD
+324,0000723125,Micron Technology,MU
+315,0000743316,Maxim Integrated Products Inc,MXIM
+336,0001623613,Mylan N.V.,MYL
+350,0000072207,Noble Energy Inc,NBL
+355,0001513761,Norwegian Cruise Line Holdings,NCLH
+337,0001120193,"Nasdaq, Inc.",NDAQ
+346,0000753308,NextEra Energy,NEE
+343,0001164727,Newmont Goldcorp,NEM
+341,0001065280,Netflix Inc.,NFLX
+349,0001111711,NiSource Inc.,NI
+348,0000320187,Nike,NKE
+339,0000906709,Nektar Therapeutics,NKTR
+347,0001492633,Nielsen Holdings,NLSN
+354,0001133421,Northrop Grumman,NOC
+338,0001021860,National Oilwell Varco Inc.,NOV
+356,0001013871,NRG Energy,NRG
+352,0000702165,Norfolk Southern Corp.,NSC
+340,0001002047,NetApp,NTAP
+353,0000073124,Northern Trust Corp.,NTRS
+357,0000073309,Nucor Corp.,NUE
+358,0001045810,Nvidia Corporation,NVDA
+342,0000814453,Newell Brands,NWL
+345,0001564708,News Corp. Class B,NWS
+398,0000726728,Realty Income Corporation,O
+711,,Owens-Illinois,OI
+362,0001039684,ONEOK,OKE
+361,0000029989,Omnicom Group,OMC
+363,0001341439,Oracle Corp.,ORCL
+359,0000898173,O'Reilly Automotive,ORLY
+360,0000797468,Occidental Petroleum,OXY
+367,0000723531,Paychex Inc.,PAYX
+370,0001378946,People's United Financial,PBCT
+364,0000075362,PACCAR Inc.,PCAR
+387,0000788784,Public Serv. Enterprise Inc.,PEG
+371,0000077476,PepsiCo Inc.,PEP
+374,0000078003,Pfizer Inc.,PFE
+382,0001126328,Principal Financial Group,PFG
+383,0000080424,Procter & Gamble,PG
+384,0000080661,Progressive Corp.,PGR
+366,0000076334,Parker-Hannifin,PH
+389,0000822416,Pulte Homes Inc.,PHM
+365,0000075677,Packaging Corporation of America,PKG
+372,0000031791,PerkinElmer,PKI
+385,0001045609,Prologis,PLD
+375,0001413329,Philip Morris International,PM
+379,0000713676,PNC Financial Services,PNC
+369,0000077360,Pentair plc,PNR
+377,0000764622,Pinnacle West Capital,PNW
+380,0000079879,PPG Industries,PPG
+381,0000922224,PPL Corp.,PPL
+373,0001585364,Perrigo,PRGO
+386,0001137774,Prudential Financial,PRU
+388,0001393311,Public Storage,PSA
+376,0001534701,Phillips 66,PSX
+390,0000078239,PVH Corp.,PVH
+392,0001050915,Quanta Services Inc.,PWR
+378,0001038357,Pioneer Natural Resources,PXD
+368,0001633917,PayPal,PYPL
+393,0000804328,QUALCOMM Inc.,QCOM
+391,0001604778,Qorvo,QRVO
+409,0000884887,Royal Caribbean Cruises Ltd,RCL
+184,0001095073,Everest Re Group Ltd.,RE
+399,0000910606,Regency Centers Corporation,REG
+400,0000872589,Regeneron Pharmaceuticals,REGN
+401,0001281761,Regions Financial Corp.,RF
+404,0000315213,Robert Half International,RHI
+396,0000720005,Raymond James Financial Inc.,RJF
+395,0001037038,Ralph Lauren Corporation,RL
+403,0000943819,ResMed,RMD
+405,0001024478,Rockwell Automation Inc.,ROK
+406,0000084839,Rollins Inc.,ROL
+407,0000882835,Roper Technologies,ROP
+408,0000745732,Ross Stores,ROST
+402,0001060391,Republic Services Inc,RSG
+397,0001047122,Raytheon Co.,RTN
+411,0001034054,SBA Communications,SBAC
+425,0000829224,Starbucks Corp.,SBUX
+105,0000316709,Charles Schwab Corporation,SCHW
+414,0001012100,Sealed Air,SEE
+416,0000089800,Sherwin-Williams,SHW
+429,0000719739,SVB Financial,SIVB
+271,0000091419,JM Smucker,SJM
+412,0000087347,Schlumberger Ltd.,SLB
+419,0001040971,SL Green Realty,SLG
+420,0000091440,Snap-on,SNA
+432,0000883241,Synopsys Inc.,SNPS
+421,0000092122,Southern Co.,SO
+417,0001063761,Simon Property Group Inc,SPG
+423,0000064040,"S&P Global, Inc.",SPGI
+415,0001032208,Sempra Energy,SRE
+428,0000750556,SunTrust Banks,STI
+426,0000093751,State Street Corp.,STT
+413,0001137789,Seagate Technology,STX
+131,0000016918,Constellation Brands,STZ
+424,0000093556,Stanley Black & Decker,SWK
+418,0000004127,Skyworks Solutions,SWKS
+431,0001601712,Synchrony Financial,SYF
+427,0000310764,Stryker Corp.,SYK
+430,0000849399,Symantec Corp.,SYMC
+433,0000096021,Sysco Corp.,SYY
+58,0000732717,AT&T Inc.,T
+328,0000024545,Molson Coors Brewing Company,TAP
+450,0001260221,TransDigm Group,TDG
+439,0001385157,TE Connectivity Ltd.,TEL
+441,0000096943,Teleflex,TFX
+438,0000027419,Target Corp.,TGT
+445,0000098246,Tiffany & Co.,TIF
+447,0000109198,TJX Companies Inc.,TJX
+444,0000097745,Thermo Fisher Scientific,TMO
+434,0001283699,T-Mobile US,TMUS
+437,0001116132,"Tapestry, Inc.",TPR
+452,0001526520,TripAdvisor,TRIP
+435,0001113169,T. Rowe Price Group,TROW
+451,0000086312,The Travelers Companies Inc.,TRV
+449,0000916365,Tractor Supply Company,TSCO
+453,0000100493,Tyson Foods,TSN
+448,0000721683,Total System Services,TSS
+436,0000946581,Take-Two Interactive,TTWO
+446,0001418091,"Twitter, Inc.",TWTR
+442,0000097476,Texas Instruments,TXN
+443,0000217346,Textron Inc.,TXT
+458,0001336917,Under Armour Class C,UA
+460,0000100517,United Airlines Holdings,UAL
+454,0000074208,"UDR, Inc.",UDR
+465,0000352915,"Universal Health Services, Inc.",UHS
+455,0001403568,Ulta Beauty,ULTA
+461,0000731766,United Health Group Inc.,UNH
+466,0000005513,Unum Group,UNM
+459,0000100885,Union Pacific Corp,UNP
+462,0001090727,United Parcel Service,UPS
+463,0001067701,"United Rentals, Inc.",URI
+456,0000036104,U.S. Bancorp,USB
+464,0000101829,United Technologies,UTX
+476,0001403161,Visa Inc.,V
+469,0000203527,Varian Medical Systems,VAR
+467,0000103379,V.F. Corp.,VFC
+475,0001339947,Viacom Inc.,VIAB
+468,0001035002,Valero Energy,VLO
+478,0001396009,Vulcan Materials,VMC
+477,0000899689,Vornado Realty Trust,VNO
+472,0001442145,Verisk Analytics,VRSK
+471,0001014473,Verisign Inc.,VRSN
+474,0000875320,Vertex Pharmaceuticals Inc,VRTX
+470,0000740260,Ventas Inc,VTR
+473,0000732712,Verizon Communications,VZ
+479,0000943452,Wabtec Corporation,WAB
+484,0001000697,Waters Corporation,WAT
+481,0001618921,Walgreens Boots Alliance,WBA
+486,0001279363,WellCare,WCG
+489,0000106040,Western Digital,WDC
+485,0000783325,Wec Energy Group Inc,WEC
+488,0000766704,Welltower Inc.,WELL
+487,0000072971,Wells Fargo,WFC
+493,0000106640,Whirlpool Corp.,WHR
+495,0001140536,Willis Towers Watson,WLTW
+483,0000823768,Waste Management Inc.,WM
+494,0000107263,Williams Cos.,WMB
+480,0000104169,Walmart,WMT
+491,0001636023,WestRock,WRK
+490,0001365135,Western Union Co,WU
+492,0000106535,Weyerhaeuser,WY
+496,0001174922,Wynn Resorts Ltd,WYNN
+112,0001168054,Cimarex Energy,XEC
+497,0000072903,Xcel Energy Inc,XEL
+499,0000743988,Xilinx,XLNX
+189,0000034088,Exxon Mobil Corp.,XOM
+148,0000818479,Dentsply Sirona,XRAY
+498,0000108772,Xerox,XRX
+500,0001524472,Xylem Inc.,XYL
+501,0001041061,Yum! Brands Inc,YUM
+502,0001136869,Zimmer Biomet Holdings,ZBH
+503,0000109380,Zions Bancorp,ZION
+504,0001555280,Zoetis,ZTS
