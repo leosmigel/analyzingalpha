@@ -1,0 +1,29 @@
+id,name,cik,sector,industry_category,industry_group,employees
+1,Apple Inc,0000320193,Consumer Goods,Consumer Durables,Electronic Equipment,132000
+2,American Express Co,0000004962,Financial,Financial Services,Credit Services,59000
+3,Boeing Co,0000012927,Industrial Goods,Aerospace/Defense,Aerospace/Defense Products & Services,153027
+4,Caterpillar Inc,0000018230,Industrial Goods,Manufacturing,Farm & Construction Machinery,104000
+5,Cisco Systems Inc,0000858877,Technology,Computer Hardware,Networking & Communication Devices,74200
+6,Chevron Corp,0000093410,Basic Materials,Energy,Major Integrated Oil & Gas,48600
+25,Visa Inc,0001403161,Financial,Financial Services,Credit Services,17000
+7,General Electric Co,0000040545,Industrial Goods,Manufacturing,Diversified Machinery,283000
+8,Goldman Sachs Group Inc,0000886982,Financial,Financial Services,Investment Brokerage - National,36600
+9,Home Depot Inc,0000354950,Services,Retail,Home Improvement Stores,413000
+10,International Business Machines Corp,0000051143,Technology,Computer Software & Services,Information Technology Services,350600
+11,Intel Corp,0000050863,Technology,Electronics,Semiconductor - Broad Line,107400
+24,United Technologies Corp,0000101829,Industrial Goods,Aerospace/Defense,Aerospace/Defense Products & Services,240000
+12,Johnson & Johnson,0000200406,Healthcare,Drugs,Drug Manufacturers - Major,135100
+13,JPMorgan Chase & Co,0000019617,Financial,Banking,Money Center Banks,256105
+14,Coca-Cola Co,0000021344,Consumer Goods,Food & Beverage,Beverages - Soft Drinks,62600
+15,McDonald's Corp,0000063908,Services,Leisure,Restaurants,210000
+16,3M Co,0000066740,Industrial Goods,Manufacturing,Diversified Machinery,93516
+17,Merck & Co Inc,0000310158,Healthcare,Drugs,Drug Manufacturers - Major,69000
+18,Microsoft Corp,0000789019,Technology,Computer Software & Services,Business Software & Services,131000
+19,Nike Inc,0000320187,Consumer Goods,Consumer NonDurables,Textile - Apparel Footwear & Accessories,73100
+20,Pfizer Inc,0000078003,Healthcare,Drugs,Drug Manufacturers - Major,92400
+21,Procter & Gamble Co,0000080424,Consumer Goods,Consumer NonDurables,Personal Products,92000
+22,Travelers Companies Inc,0000086312,Financial,Insurance,Property & Casualty Insurance,30400
+23,UnitedHealth Group Inc,0000731766,Healthcare,Health Services,Health Care Plans,300000
+26,Verizon Communications Inc,0000732712,Technology,Telecommunications,Telecom Services - Domestic,144500
+27,Walmart Inc,0000104169,Services,Retail,"Discount, Variety Stores",2200000
+28,Exxon Mobil Corp,0000034088,Basic Materials,Energy,Major Integrated Oil & Gas,71000
