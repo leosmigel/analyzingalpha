@@ -1,12 +1,12 @@
-ticker,name
-XLB,Materials Select Sector SPDR Fund (XLB)
-XLC,Communication Services Select Sector SPDR Fund (XLC)
-XLE,Energy Select Sector SPDR Fund (XLE)
-XLF,Financial Select Sector SPDR Fund (XLF)
-XLI,Industrial Select Sector SPDR Fund (XLI)
-XLK,The Technology Select Sector SPDR Fund (XLK)
-XLP,Consumer Staples Select Sector SPDR Fund (XLP)
-XLRE,The Real Estate Select Sector SPDR Fund (XLRE)
-XLU,Utilities Select Sector SPDR Fund (XLU)
-XLV,Health Care Select Sector SPDR Fund (XLV)
-XLY,Consumer Discretionary Select Sector SPDR Fund (XLY)
+ticker,name,figi
+XLB,SSgA Materials Select Sector SPDR,BBG000BHNSW7
+XLC,Communication Services Select Sector SPDR Fund,BBG00L5F9F83
+XLE,SSgA Energy Select Sector SPDR,BBG000BJ2H05
+XLF,SSgA Financial Select Sector SPDR,BBG000BJ2H05
+XLI,SSgA Industrial Select Sector SPDR,BBG000BJ2TK7
+XLK,SSgA Technology Select Sector SPDR,BBG000BJ7356
+XLP,SSgA Consumer Staples Select Sector SPDR,BBG000BJ13H9
+XLRE,SSgA Real Estate Select Sector SPDR Fund (The),BBG00B597191
+XLU,SSgA Utilities Select Sector SPDR,BBG000BJ7HX4
+XLV,SSgA Health Care Select Sector SPDR,BBG000BHVW68
+XLY,SSgA Consumer Discretionary Select Sector SPDR,BBG000BJ1NZ5
