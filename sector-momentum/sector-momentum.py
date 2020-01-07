@@ -68,7 +68,8 @@ class Strategy(bt.Strategy):
         )
 
         for security in self.securities:
-            self.inds[security] = self.p.momentum(security, period=self.p.momentum_period)
+            self.inds[security] = self.p.momentum(security,
+                                                  period=self.p.momentum_period)
 
     def notify_timer(self, timer, when, *args, **kwargs):
         if self._getminperstatus() < 0:
@@ -76,8 +77,7 @@ class Strategy(bt.Strategy):
 
     def rebalance(self):
         rankings = list(self.securities)
-        rankings.sort(key=lambda s: self.inds[s][0])
-        num_securities = len(rankings)
+        rankings.sort(key=lambda s: self.inds[s][0], reverse=True)
         pos_size = 1 / self.p.num_positions
 
         # Sell stocks no longer meeting ranking filter.
@@ -95,77 +95,14 @@ class Strategy(bt.Strategy):
 
     def stop(self):
         self.log('| %2d | %2d |  %.2f |' %
-                 (self.p.momentum_period, self.p.num_positions,  self.broker.getvalue()), doprint=True)
-
-
-
-
-class trade_list(bt.Analyzer):
-
-    def get_analysis(self):
-
-        return self.trades
-
-    def __init__(self):
-
-        self.trades = []
-        self.cumprofit = 0.0
-
-    def notify_trade(self, trade):
-
-        if trade.isclosed:
-
-            brokervalue = self.strategy.broker.getvalue()
-
-            dir = 'short'
-            if trade.history[0].event.size > 0: dir = 'long'
-
-            pricein = trade.history[len(trade.history) - 1].status.price
-            priceout = trade.history[len(trade.history) - 1].event.price
-            datein = bt.num2date(trade.history[0].status.dt)
-            dateout = bt.num2date(trade.history[len(trade.history) - 1].status.dt)
-            if trade.data._timeframe >= bt.TimeFrame.Days:
-                datein = datein.date()
-                dateout = dateout.date()
-
-            pcntchange = 100 * priceout / pricein - 100
-            pnl = trade.history[len(trade.history) - 1].status.pnlcomm
-            pnlpcnt = 100 * pnl / brokervalue
-            barlen = trade.history[len(trade.history) - 1].status.barlen
-            pbar = pnl / barlen
-            self.cumprofit += pnl
-
-            size = value = 0.0
-            for record in trade.history:
-                if abs(size) < abs(record.status.size):
-                    size = record.status.size
-                    value = record.status.value
-
-            highest_in_trade = max(trade.data.high.get(ago=0, size=barlen + 1))
-            lowest_in_trade = min(trade.data.low.get(ago=0, size=barlen + 1))
-            hp = 100 * (highest_in_trade - pricein) / pricein
-            lp = 100 * (lowest_in_trade - pricein) / pricein
-            if dir == 'long':
-                mfe = hp
-                mae = lp
-            if dir == 'short':
-                mfe = -lp
-                mae = -hp
-
-            self.trades.append({'ref': trade.ref, 'ticker': trade.data._name, 'dir': dir,
-                                'datein': datein, 'pricein': pricein, 'dateout': dateout, 'priceout': priceout,
-                                'chng%': round(pcntchange, 2), 'pnl': pnl, 'pnl%': round(pnlpcnt, 2),
-                                'size': size, 'value': value, 'cumpnl': self.cumprofit,
-                                'nbars': barlen, 'pnl/bar': round(pbar, 2),
-                                'mfe%': round(mfe, 2), 'mae%': round(mae, 2)})
-
-
+                 (self.p.momentum_period,
+                  self.p.num_positions,
+                  self.broker.getvalue()),
+                 doprint=True)
 
 
 if __name__ == '__main__':
     cerebro = bt.Cerebro()
-    #cerebro.runonce = False
-    #cerebro.preload = False
 
     # Create an SQLAlchemy conneciton to PostgreSQL and get ETF data
     db = setup_psql_environment.get_database()
@@ -176,9 +113,16 @@ if __name__ == '__main__':
         filter(SecurityPrice.date <= END_DATE). \
         filter(Security.code == 'ETF').statement
 
-    dataframe = pd.read_sql(query, db, index_col=['ticker', 'date'], parse_dates=['date'])
+    dataframe = pd.read_sql(query,
+                            db,
+                            index_col=['ticker', 'date'],
+                            parse_dates=['date'])
     dataframe.sort_index(inplace=True)
-    dataframe = dataframe[['adj_open', 'adj_high', 'adj_low', 'adj_close', 'adj_volume']]
+    dataframe = dataframe[['adj_open',
+                           'adj_high',
+                           'adj_low',
+                           'adj_close',
+                           'adj_volume']]
     dataframe.columns = ['open', 'high', 'low', 'close', 'volume']
 
     # Add Spy as datas0
@@ -191,43 +135,19 @@ if __name__ == '__main__':
     for ticker, data in dataframe.groupby(level=0):
         if ticker in ETF_TICKERS:
             print(f"Adding ticker: {ticker}")
-            data = bt.feeds.PandasData(dataname=data.droplevel(level=0), name=ticker, plot=False)
+            data = bt.feeds.PandasData(dataname=data.droplevel(level=0),
+                                       name=ticker,
+                                       plot=False)
             data.plotinfo.plotmaster = benchdata
             cerebro.adddata(data)
 
     print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
     # Add Strategy
-    #cerebro.addstrategy(Strategy)
     stop = len(ETF_TICKERS) + 1
-    cerebro.optstrategy(Strategy, momentum_period=range(50,300,50), num_positions=range(1,len(ETF_TICKERS) + 1))
+    cerebro.optstrategy(Strategy,
+                        momentum_period=range(50, 300, 50),
+                        num_positions=range(1, len(ETF_TICKERS) + 1))
 
-    # Add analyzers
-    #cerebro.addanalyzer(trade_list, _name='trade_list')
-
-    cerebro.addanalyzer(bt.analyzers.Returns)
-    cerebro.addanalyzer(bt.analyzers.TimeReturn, timeframe=bt.TimeFrame.Years, _name='strategy')
-    cerebro.addanalyzer(bt.analyzers.TimeReturn, timeframe=bt.TimeFrame.Years, _name='spy', data=benchdata)
-    cerebro.addobserver(bt.observers.Benchmark, timeframe=bt.TimeFrame.NoTimeFrame)
-    cerebro.addanalyzer(bt.analyzers.SharpeRatio, riskfreerate=0.0, timeframe=bt.TimeFrame.Years)
-    cerebro.addanalyzer(bt.analyzers.DrawDown)
-    cerebro.addanalyzer(bt.analyzers.TradeAnalyzer)
-    cerebro.addanalyzer(bt.analyzers.SQN)
-    cerebro.addanalyzer(bt.analyzers.Transactions)
-
-    results = cerebro.run(stdstats=True, tradehistory=True)
-    #trade_list = results[0].analyzers.trade_list.get_analysis()
-
-    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    print(f"SQN: {results[0].analyzers.sqn.get_analysis()}")
-    print(f"Sharpe: {results[0].analyzers.sharperatio.get_analysis()['sharperatio']:.3f}")
-    print(f"Max Drawdown: {results[0].analyzers.drawdown.get_analysis()['max']['drawdown']:.2f}%")
-    print(f"Annual Return: {results[0].analyzers.returns.get_analysis()['rnorm100']}")
-    print(f"Total Return: {results[0].analyzers.returns.get_analysis()['rtot']}")
-    # print(tabulate(trade_list, headers="keys"))
-
-    strategy_return = results[0].analyzers.getbyname('strategy').get_analysis()
-    benchmark_return = results[0].analyzers.getbyname('spy').get_analysis()
-
-    #figure(num=0, figsize=(18, 9), dpi=80, facecolor='w', edgecolor='k')
-    #cerebro.plot(iplot=False)
+    # Run the strategy. Results will be output from stop.
+    cerebro.run(stdstats=False, tradehistory=False)
