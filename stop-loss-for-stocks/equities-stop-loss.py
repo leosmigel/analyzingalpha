@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 import backtrader as bt
 from positions.securities import get_security_data, get_securities_data,\
                                                     get_sp500_tickers
@@ -14,7 +14,7 @@ EXCLUDE_WINDOW = 10
 MOMENTUM_WINDOW = 90
 MINIMUM_PERIOD = MOMENTUM_WINDOW + EXCLUDE_WINDOW
 POSITIONS = 20
-USE_ATR = False
+USE_ATR = True
 
 class Momentum(bt.ind.OperationN):
     lines = ('trend',)
@@ -46,10 +46,11 @@ class Strategy(bt.Strategy):
         self.d_with_len = []
         self.orders = {}
         self.inds = {}
+        self.rebalance_date = None
         self.add_timer(
             when=self.p.when,
-            weekdays=self.p.monthdays,
-            weekcarry=self.p.monthcarry
+            monthdays=self.p.monthdays,
+            monthcarry=self.p.monthcarry
         )
         for d in self.datas[1:]:
             self.orders[d] = []
@@ -75,24 +76,34 @@ class Strategy(bt.Strategy):
         self.next()
         print("All datas loaded")
 
+    def next(self):
+        if self.rebalance_date:
+            today = self.data.datetime.date(ago=0)
+            buy_date = self.rebalance_date + timedelta(days=1)
+            if today == buy_date:
+                self.rebalance_buy()
+
     def notify_timer(self, timer, when, *args, **kwargs):
         if len(self.d_with_len) >= self.p.num_positions:
-            self.rebalance()
+            self.rebalance_sell()
 
-    def rebalance(self):
+    def rebalance_sell(self):
+        self.rebalance_date = self.data.datetime.date(ago=0)
         self.rankings = list(self.d_with_len)
         self.rankings.sort(key=lambda s: self.inds[s]['momentum'][0],
                            reverse=True)
 
+        print(f"DATE: {self.data.datetime.date(ago=0)} CASH: {self.broker.get_cash()}")
+
         # Close all positions and cancel associated stop losses
         # that are no longer a top N momentum position
-        positions = 0
+        #positions = 0
         for i, d in enumerate(self.rankings):
             if self.getposition(d).size != 0:
-                positions += 1
+                #positions += 1
                 if i >= self.p.num_positions:
                     self.close(d, ticker=d.p.name)
-                    positions -= 1
+                    #positions -= 1
                     for o in self.orders[d]:
                         if o and o.status == o.Accepted and \
                                 (o.getordername() == 'Stop' or
@@ -101,6 +112,13 @@ class Strategy(bt.Strategy):
 
         # Rank according to momentum and return stock list
         # Buy stocks with remaining cash
+
+    def rebalance_buy(self):
+
+        positions = 0
+        for d in self.datas:
+            if self.getposition(d).size != 0:
+                positions += 1
 
         # todo buying top N vs X
         if positions < self.p.num_positions:
@@ -148,6 +166,81 @@ class Strategy(bt.Strategy):
         self.PnL = round(self.ending_value - startcash, 2)
     
 
+    def notify_order(self, order):
+        date = self.data.datetime.datetime().date()
+        if order.status == order.Submitted:
+            print('-'*32,' NOTIFY ORDER ','-'*32)
+            print(f'{order.info.ticker} Order Submitted')
+            print('{}, Status: {}, Type: {}-{}, Ref: {}, Size: {}, Price: {}'.format(
+                                                        date,
+                                                        order.status,
+                                                        order.ordtypename(),
+                                                        order.getordername(),
+                                                        order.ref,
+                                                        order.size,
+                                                        'NA' if not order.price else round(order.price,5)
+                                                        ))
+
+            print('-'*80)
+
+        if order.status == order.Accepted:
+            print('-'*32,' NOTIFY ORDER ','-'*32)
+            print(f'{order.info.ticker} Order Accepted')
+            print('{}, Status: {}, Type: {}-{}, Ref: {}, Size: {}, Price: {}'.format(
+                                                        date,
+                                                        order.status,
+                                                        order.ordtypename(),
+                                                        order.getordername(),
+                                                        order.ref,
+                                                        order.size,
+                                                        'NA' if not order.price else round(order.price,5)
+                                                        ))
+            print('-'*80)
+
+        if order.status == order.Completed:
+            print('-'*32,' NOTIFY ORDER ','-'*32)
+            print(f'{order.info.ticker} Completed')
+            print('{}, Status: {}, Type: {}-{}, Ref: {}, Size: {}, Price: {}'.format(
+                                                        date,
+                                                        order.status,
+                                                        order.getordername(),
+                                                        order.ordtypename(),
+                                                        order.ref,
+                                                        order.size,
+                                                        'NA' if not order.price else round(order.price,5)
+                                                        ))
+            print('Created: {} Price: {} Size: {}'.format(bt.num2date(order.created.dt), order.created.price,order.created.size))
+            print('-'*80)
+
+        if order.status == order.Canceled:
+            print('-'*32,' NOTIFY ORDER ','-'*32)
+            print(f'Order Canceled')
+            print('{}, Status {}: Type: {}-{}, Ref: {}, Size: {}, Price: {}'.format(
+                                                        date,
+                                                        order.status,
+                                                        order.getordername(),
+                                                        order.ordtypename(),
+                                                        order.ref,
+                                                        order.size,
+                                                        'NA' if not order.price else round(order.price,5)
+                                                        ))
+            print('-'*80)
+
+        if order.status == order.Rejected:
+            print('-'*32,' NOTIFY ORDER ','-'*32)
+            print(f'WARNING! {order.info.ticker} Order Rejected')
+            print('{}, Status: {}, Type: {}-{}, Ref: {}, Size: {}, Price: {}'.format(
+                                                        date,
+                                                        order.status,
+                                                        order.getordername(),
+                                                        order.ordtypename(),
+                                                        order.ref,
+                                                        order.size,
+                                                        'NA' if not order.price else round(order.price,5)
+                                                        ))
+            print('-'*80)
+ 
+
 if __name__ == '__main__':
     startcash = 10000
     #cerebro = bt.Cerebro(stdstats=False, optreturn=False, maxcpus=4)
@@ -184,7 +277,7 @@ if __name__ == '__main__':
     if USE_ATR:
         cerebro.optstrategy(Strategy, atr_factor=(1, 2, 3, 4, 5))
     else:
-        cerebro.optstrategy(Strategy, stop_loss=(0.95))
+        cerebro.optstrategy(Strategy, stop_loss=(0.05, 0.1, 0.15, 0.2, 0.25, 0.3))
 
     # Add observers & analyzers
     cerebro.addobserver(bt.observers.CashValue)
@@ -227,3 +320,7 @@ if __name__ == '__main__':
     print('Results: Ordered by Profit:')
     for result in by_PnL:
         print('Stop: {}, PnL: {} Drawdown: {}'.format(result[0], result[1], result[2]))
+    
+    cerebro.plot()
+
+        

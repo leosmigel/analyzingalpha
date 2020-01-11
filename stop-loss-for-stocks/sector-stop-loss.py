@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 import backtrader as bt
 from positions.securities import get_security_data, get_securities_data,\
                                                     get_sector_tickers
@@ -27,6 +27,7 @@ class Strategy(bt.Strategy):
         self.d_with_len = []
         self.orders = {}
         self.securities = self.datas[1:]
+        self.rebalance_date = None
         self.add_timer(
             when=self.p.when,
             monthdays=self.p.monthdays,
@@ -49,14 +50,22 @@ class Strategy(bt.Strategy):
         self.d_with_len = self.datas[1:]
         self.next()
         print("All datas loaded")
+    
+    def next(self):
+        if self.rebalance_date:
+            today = self.data.datetime.date(ago=0)
+            buy_date = self.rebalance_date + timedelta(days=1)
+            if today == buy_date:
+                self.rebalance_buy()
 
     def notify_timer(self, timer, when, *args, **kwargs):
         if len(self.d_with_len) >= self.p.num_positions:
-            self.rebalance()
+            self.rebalance_sell()
 
-    def rebalance(self):
+    def rebalance_sell(self):
         # Sell all securities that are above their target allocation
         # but cancel associated stop losses first
+        self.rebalance_date = self.data.datetime.date(ago=0)
         positions = len(self.d_with_len)
         target = (self.broker.get_value() / positions)
         for d in self.d_with_len:
@@ -110,8 +119,11 @@ class Strategy(bt.Strategy):
                         self.orders[d].append(stop_order)
 
 
+    def rebalance_buy(self):
         # Buy all securities that are below their target allocation
         # and attach a stop loss.
+        positions = len(self.d_with_len)
+        target = (self.broker.get_value() / positions)
         for d in self.d_with_len:
             value = self.getposition(d).size * d.close[0]
             if target > value:
@@ -174,7 +186,7 @@ print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
 # Add Strategy
 #cerebro.addstrategy(Strategy)
-cerebro.optstrategy(Strategy, stop_loss=(0.05, 0.1, 0.15, 0.2, 0.25, 0.3))
+cerebro.optstrategy(Strategy, stop_loss=(0.05))
 
 
 # Add observers
@@ -217,3 +229,5 @@ for result in by_stop:
 print('Results: Ordered by Profit:')
 for result in by_PnL:
     print('Stop: {}, PnL: {} Drawdown: {}'.format(result[0], result[1], result[2]))
+
+cerebro.plot()
