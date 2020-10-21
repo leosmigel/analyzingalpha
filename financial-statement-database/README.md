@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# How to Create a Financial Statement Database
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Financial Statement Database](https://analyzingalpha.com/financial-statement-database)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

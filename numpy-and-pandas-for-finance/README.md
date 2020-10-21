@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Numpy and Pandas for Finance
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Python for Finance](https://analyzingalpha.com/python-for-finance)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

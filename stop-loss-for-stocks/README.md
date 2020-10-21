@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Stop Loss
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Stop Loss](https://analyzingalpha.com/stop-loss-for-stocks)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

@@ -1,6 +1,12 @@
-# Algorithmic Chart Pattern Detection
+# Intrinio
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at:
+
+- [Quant Quickstart with Intrinio & Backtrader](https://intrinio.com/blog/a-quant-quickstart-with-intrinio-backtrader)
+- [Quant Quickstart II: WOrking with Multiple Securities](https://intrinio.com/blog/quant-quickstart-ii-working-with-multiple-securities)
+- [Quant Quickstart III: Mean Reversion Strategy](https://intrinio.com/blog/quant-quickstart-iii-mean-reversion-strategy)
+- [Quant Quickstart IV: Adding Fundamental Data](https://intrinio.com/blog/quant-quickstart-iv-adding-fundamental-data)
+- [Quant Quickstart V: A Value Strategy](https://intrinio.com/blog/quant-quickstart-v-a-value-strategy)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

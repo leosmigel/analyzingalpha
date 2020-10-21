@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Risk Reward Ratio for Stocks
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Risk Reward Ratio for Stocks](https://analyzingalpha.com/risk-reward-ratio-for-stocks)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

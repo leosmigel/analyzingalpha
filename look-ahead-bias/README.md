@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Look-Ahead Bias
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Look-Ahead Bias](https://analyzingalpha.com/look-ahead-bias)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Stock Sectors
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Stock Sectors](https://analyzingalpha.com/stock-sectors)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

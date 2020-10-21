@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Implied Equity Risk Premium
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Equity Risk Premium](https://analyzingalpha.com/equity-risk-premium)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

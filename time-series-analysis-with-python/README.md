@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Time Series Analysis with Python
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Python Time Series Analysis](https://analyzingalpha.com/time-series-analysis-with-python)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

@@ -1,6 +1,9 @@
-# Algorithmic Chart Pattern Detection
+# Alpaca
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at:
+
+- [Alpaca & Backtrader: Tools of the Trade (Part 1)](https://alpaca.markets/learn/backtrader-01/)
+- [Alpaca & Backtrader: Tools of the Trade (Part 2)](https://alpaca.markets/learn/backtrader-02/)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

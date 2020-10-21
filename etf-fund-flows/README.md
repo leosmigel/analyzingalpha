@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Timing the Markets with ETF Fund Flows
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [ETF Fund Flows](https://analyzingalpha.com/etf-fund-flows)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

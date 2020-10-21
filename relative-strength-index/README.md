@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Relative Strength Index (RSI)
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Relative Strength Index](https://analyzingalpha.com/relative-strength-index)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

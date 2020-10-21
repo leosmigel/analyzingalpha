@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Backtrader: Getting Started Backtesting
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Backtrader Backtesting Trading Strategies](https://analyzingalpha.com/backtrader-backtesting-trading-strategies)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

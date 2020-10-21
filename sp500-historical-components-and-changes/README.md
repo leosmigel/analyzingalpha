@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# S&P500 Historical Components & Changes
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [S&P500 Historical Components & Changes](https://analyzingalpha.com/sp500-historical-components-and-changes)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 

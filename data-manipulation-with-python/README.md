@@ -1,6 +1,6 @@
-# Algorithmic Chart Pattern Detection
+# Data Manipulation with Python & Pandas
 
-Associated content at [Algorithmic Chart Pattern Detection](https://analyzingalpha.com/algorithmic-chart-pattern-detection)
+Associated content at [Data Manipulation with Python & Pandas](https://analyzingalpha.com/data-manipulation-with-python-and-pandas)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 
