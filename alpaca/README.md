@@ -4,6 +4,8 @@ Associated content at:
 
 - [Alpaca & Backtrader: Tools of the Trade (Part 1)](https://alpaca.markets/learn/backtrader-01/)
 - [Alpaca & Backtrader: Tools of the Trade (Part 2)](https://alpaca.markets/learn/backtrader-02/)
+- [How to Use Unemployment Figures to Build a Trading Algorithm (Part 1)](https://alpaca.markets/learn/unemployment-algo/)
+- [How to Use Unemployment Figures to Build a Trading Algorithm (Part 2)](https://alpaca.markets/learn/unemployment-algo-2/)
 
 Please read the [disclaimer](https://analyzingalpha.com/disclaimer).
 
