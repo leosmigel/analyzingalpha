@@ -1,7 +1,7 @@
 import alpaca_trade_api as tradeapi
 
-api = tradeapi.REST(key_id="PK0OQNZNYD5OULFOXE81",
-                    secret_key="8WMMk9jWm5hCIRrxUwcn5KvE4hEcKA/5IllazT7K")
+api = tradeapi.REST(key_id="YOURKEY",
+                    secret_key="YOURSECRET")
 barset = api.get_barset('GOOG', 'day', limit=252)
 
 # Augemented Dickey-Fuller Test
