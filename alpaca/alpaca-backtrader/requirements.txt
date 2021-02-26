@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 alpaca-backtrader-api==0.9.5
 alpaca-trade-api==0.49.0
 alpha-vantage==2.2.0
