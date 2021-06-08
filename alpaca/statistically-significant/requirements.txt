@@ -15,7 +15,7 @@ multidict==4.7.6
 numpy==1.19.1
 pandas==1.1.1
 patsy==0.5.1
-Pillow==7.2.0
+Pillow==8.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
