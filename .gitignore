@@ -1,0 +1,46 @@
+# OS X
+.DS_Store
+
+# Algolia
+_algolia_api_key
+*.log
+
+# Firebase
+.firebase
+
+# Jekyll build
+/_site/
+.jekyll-metadata
+.jekyll-cache
+#Gemfile.lock
+
+# webstorm
+.idea/
+
+# others
+*.swp
+
+# site build
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+vendor
+Gemfile.lock
+node_modules
+
+# Jupyter
+.ipynb_checkpoints/
+
+~temp~*
+
+youtube/
