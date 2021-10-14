@@ -38,7 +38,7 @@ class MinuteBar(Base):
                                  onupdate="CASCADE",
                                  ondelete="CASCADE"),
                       nullable=False)
-    symbol = relationship('Symbol', backref='symbol')
+    symbol = relationship('Symbol', backref='minute_bars')
     UniqueConstraint(symbol_id, date)
 
 
