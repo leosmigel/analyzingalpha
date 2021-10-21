@@ -22,5 +22,5 @@ requests==2.24.0
 six==1.15.0
 urllib3==1.25.10
 websocket-client==0.57.0
-websockets==8.1
+websockets==9.1
 yarl==1.5.1
