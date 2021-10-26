@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 alpaca-trade-api==0.51.0
 alpha-vantage==2.2.0
 async-timeout==3.0.1
@@ -15,7 +15,7 @@ multidict==4.7.6
 numpy==1.19.1
 pandas==1.1.1
 patsy==0.5.1
-Pillow==7.2.0
+Pillow==8.3.2
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
@@ -23,7 +23,7 @@ requests==2.24.0
 scipy==1.5.4
 six==1.15.0
 statsmodels==0.12.1
-urllib3==1.25.10
+urllib3==1.26.5
 websocket-client==0.57.0
-websockets==8.1
+websockets==9.1
 yarl==1.5.1
