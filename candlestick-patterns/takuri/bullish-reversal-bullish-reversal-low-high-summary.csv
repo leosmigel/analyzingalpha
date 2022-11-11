@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTAKURI,bullish,reversal,bullish reversal,crypto,1,takuri,1,downtrend,229,3579,2692,8082,-0.11700000000000005,-0.11700000000000005,0.75,0.443,1193,1499,3.0,3.59,2.54,6,7
+CDLTAKURI,bullish,reversal,bullish reversal,crypto,2,takuri,1,downtrend,229,3501,2620,11060,-0.006000000000000005,-0.006000000000000005,0.75,0.332,869,1751,4.22,5.94,3.37,5,17
+CDLTAKURI,bullish,reversal,bullish reversal,crypto,3,takuri,1,downtrend,229,3444,2575,13165,0.08300000000000007,0.08300000000000007,0.75,0.271,697,1878,5.11,8.44,3.88,5,20
+CDLTAKURI,bullish,reversal,bullish reversal,crypto,4,takuri,1,downtrend,229,3402,2548,15918,0.18799999999999994,0.18799999999999994,0.75,0.237,605,1943,6.25,11.24,4.69,4,25
+CDLTAKURI,bullish,reversal,bullish reversal,crypto,5,takuri,1,downtrend,229,3370,2520,17578,0.24,0.24,0.75,0.206,518,2002,6.98,13.36,5.32,4,25
+CDLTAKURI,bullish,reversal,bullish reversal,forex,1,takuri,1,downtrend,1173,51853,42388,135336,-0.42,-0.42,0.82,0.29,12302,30086,3.19,3.66,3.0,16,41
+CDLTAKURI,bullish,reversal,bullish reversal,forex,2,takuri,1,downtrend,1173,50564,41383,191100,-0.34600000000000003,-0.34600000000000003,0.82,0.217,8970,32413,4.62,6.4,4.13,13,104
+CDLTAKURI,bullish,reversal,bullish reversal,forex,3,takuri,1,downtrend,1173,49711,40717,234814,-0.29500000000000004,-0.29500000000000004,0.82,0.175,7140,33577,5.77,9.59,4.95,12,104
+CDLTAKURI,bullish,reversal,bullish reversal,forex,4,takuri,1,downtrend,1173,49037,40164,271740,-0.258,-0.258,0.82,0.148,5940,34224,6.77,12.99,5.69,11,104
+CDLTAKURI,bullish,reversal,bullish reversal,forex,5,takuri,1,downtrend,1173,48497,39697,298144,-0.22499999999999998,-0.22499999999999998,0.82,0.129,5121,34576,7.51,16.93,6.12,11,118
+CDLTAKURI,bullish,reversal,bullish reversal,stock,1,takuri,1,downtrend,5963,160082,126867,315637,-0.07900000000000001,-0.07900000000000001,0.79,0.461,58463,68404,2.49,2.58,2.41,13,10
+CDLTAKURI,bullish,reversal,bullish reversal,stock,2,takuri,1,downtrend,5963,157170,124530,479323,0.027999999999999914,0.027999999999999914,0.79,0.344,42841,81689,3.85,4.85,3.32,8,20
+CDLTAKURI,bullish,reversal,bullish reversal,stock,3,takuri,1,downtrend,5963,155107,122857,632080,0.1140000000000001,0.1140000000000001,0.79,0.278,34130,88727,5.14,7.66,4.18,7,31
+CDLTAKURI,bullish,reversal,bullish reversal,stock,4,takuri,1,downtrend,5963,153413,121499,776143,0.16200000000000003,0.16200000000000003,0.79,0.233,28341,93158,6.39,11.01,4.98,5,31
+CDLTAKURI,bullish,reversal,bullish reversal,stock,5,takuri,1,downtrend,5963,152008,120387,917690,0.21500000000000008,0.21500000000000008,0.79,0.203,24453,95934,7.62,14.97,5.75,4,31

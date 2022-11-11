@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,crypto,1,morning_star,3,downtrend,62,181,172,908,-0.04300000000000004,-0.014333333333333345,0.95,0.477,82,90,5.28,5.34,5.22,4,4
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,crypto,2,morning_star,3,downtrend,62,181,171,1392,0.07399999999999995,0.024666666666666653,0.94,0.357,61,110,8.14,10.54,6.81,3,4
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,crypto,3,morning_star,3,downtrend,62,179,169,1817,0.15999999999999992,0.05333333333333331,0.94,0.29,49,120,10.75,15.29,8.9,2,6
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,crypto,4,morning_star,3,downtrend,62,179,168,2077,0.30800000000000005,0.10266666666666668,0.94,0.262,44,124,12.36,19.66,9.77,2,6
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,crypto,5,morning_star,3,downtrend,62,179,167,2200,0.40000000000000013,0.1333333333333334,0.93,0.234,39,128,13.17,23.08,10.16,2,6
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,forex,1,morning_star,3,downtrend,506,2160,2089,13359,-0.09700000000000003,-0.032333333333333346,0.97,0.453,947,1142,6.39,6.33,6.45,6,8
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,forex,2,morning_star,3,downtrend,506,2149,2071,23941,-0.136,-0.04533333333333334,0.96,0.287,594,1477,11.56,16.55,9.55,4,9
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,forex,3,morning_star,3,downtrend,506,2144,2062,35197,-0.15100000000000002,-0.05033333333333334,0.96,0.213,439,1623,17.07,31.51,13.16,3,9
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,forex,4,morning_star,3,downtrend,506,2141,2053,44059,-0.15399999999999991,-0.05133333333333331,0.96,0.169,347,1706,21.46,47.69,16.13,3,10
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,forex,5,morning_star,3,downtrend,506,2131,2038,53244,-0.16999999999999993,-0.05666666666666664,0.96,0.138,281,1757,26.13,75.09,18.29,3,10
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,stock,1,morning_star,3,downtrend,4034,31596,28290,205935,0.07500000000000001,0.025000000000000005,0.9,0.535,15135,13155,7.28,7.26,7.3,11,11
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,stock,2,morning_star,3,downtrend,4034,31292,27967,377994,0.16800000000000004,0.056000000000000015,0.89,0.389,10873,17094,13.52,17.64,10.89,10,14
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,stock,3,morning_star,3,downtrend,4034,31035,27692,549399,0.2430000000000001,0.08100000000000003,0.89,0.311,8600,19092,19.84,31.22,14.72,8,15
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,stock,4,morning_star,3,downtrend,4034,30780,27417,704974,0.30800000000000005,0.10266666666666668,0.89,0.262,7171,20246,25.71,46.73,18.27,6,15
+CDLMORNINGSTAR,bullish,reversal,bullish reversal,stock,5,morning_star,3,downtrend,4034,30525,27133,847077,0.365,0.12166666666666666,0.89,0.227,6163,20970,31.22,65.16,21.25,5,17

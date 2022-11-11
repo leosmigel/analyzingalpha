@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTHRUSTING,bearish,continuation,bearish continuation,crypto,1,thrusting,2,downtrend,3,6,6,29,0.337,0.1685,1.0,0.667,4,2,4.83,2.5,9.5,2,2
+CDLTHRUSTING,bearish,continuation,bearish continuation,crypto,2,thrusting,2,downtrend,3,6,6,73,-0.0040000000000000036,-0.0020000000000000018,1.0,0.333,2,4,12.17,2.5,17.0,1,2
+CDLTHRUSTING,bearish,continuation,bearish continuation,crypto,3,thrusting,2,downtrend,3,6,6,78,0.32900000000000007,0.16450000000000004,1.0,0.333,2,4,13.0,5.0,17.0,1,2
+CDLTHRUSTING,bearish,continuation,bearish continuation,crypto,4,thrusting,2,downtrend,3,6,6,78,0.662,0.331,1.0,0.333,2,4,13.0,5.0,17.0,1,2
+CDLTHRUSTING,bearish,continuation,bearish continuation,crypto,5,thrusting,2,downtrend,3,6,6,101,0.995,0.4975,1.0,0.333,2,4,16.83,16.5,17.0,1,2
+CDLTHRUSTING,bearish,continuation,bearish continuation,forex,1,thrusting,2,downtrend,57,144,141,655,0.12000000000000005,0.060000000000000026,0.98,0.56,79,62,4.65,5.33,3.77,3,3
+CDLTHRUSTING,bearish,continuation,bearish continuation,forex,2,thrusting,2,downtrend,57,142,139,1500,0.268,0.134,0.98,0.424,59,80,10.79,13.88,8.51,3,3
+CDLTHRUSTING,bearish,continuation,bearish continuation,forex,3,thrusting,2,downtrend,57,141,138,3062,0.44599999999999984,0.22299999999999992,0.98,0.362,50,88,22.19,34.58,15.15,3,6
+CDLTHRUSTING,bearish,continuation,bearish continuation,forex,4,thrusting,2,downtrend,57,140,136,4230,0.504,0.252,0.97,0.301,41,95,31.1,57.88,19.55,3,6
+CDLTHRUSTING,bearish,continuation,bearish continuation,forex,5,thrusting,2,downtrend,57,140,136,6031,0.5,0.25,0.97,0.25,34,102,44.35,82.79,31.53,3,6
+CDLTHRUSTING,bearish,continuation,bearish continuation,stock,1,thrusting,2,downtrend,4471,51618,46551,184282,-0.02400000000000002,-0.01200000000000001,0.9,0.486,22647,23904,3.96,3.88,4.04,18,13
+CDLTHRUSTING,bearish,continuation,bearish continuation,stock,2,thrusting,2,downtrend,4471,50799,45749,313988,-0.03400000000000003,-0.017000000000000015,0.9,0.323,14788,30961,6.86,8.61,6.03,14,17
+CDLTHRUSTING,bearish,continuation,bearish continuation,stock,3,thrusting,2,downtrend,4471,49933,44896,434028,-0.04600000000000004,-0.02300000000000002,0.9,0.238,10668,34228,9.67,14.29,8.23,12,22
+CDLTHRUSTING,bearish,continuation,bearish continuation,stock,4,thrusting,2,downtrend,4471,49191,44166,558834,-0.06600000000000006,-0.03300000000000003,0.9,0.186,8229,35937,12.65,21.84,10.55,11,28
+CDLTHRUSTING,bearish,continuation,bearish continuation,stock,5,thrusting,2,downtrend,4471,48554,43540,667988,-0.09499999999999997,-0.04749999999999999,0.9,0.151,6577,36963,15.34,30.13,12.71,10,28

@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3OUTSIDE,bearish,reversal,bearish reversal,crypto,1,three_outside_down,3,uptrend,142,884,594,6126,-0.064,-0.021333333333333333,0.67,0.466,277,317,10.31,8.65,11.76,7,5
+CDL3OUTSIDE,bearish,reversal,bearish reversal,crypto,2,three_outside_down,3,uptrend,142,841,555,11266,-0.16799999999999993,-0.05599999999999997,0.66,0.276,153,402,20.3,25.46,18.34,6,7
+CDL3OUTSIDE,bearish,reversal,bearish reversal,crypto,3,three_outside_down,3,uptrend,142,798,522,15520,-0.31399999999999995,-0.10466666666666664,0.65,0.172,90,432,29.73,39.22,27.75,5,9
+CDL3OUTSIDE,bearish,reversal,bearish reversal,crypto,4,three_outside_down,3,uptrend,142,762,496,17952,-0.396,-0.132,0.65,0.121,60,436,36.19,46.63,34.76,3,9
+CDL3OUTSIDE,bearish,reversal,bearish reversal,crypto,5,three_outside_down,3,uptrend,142,747,482,19430,-0.45500000000000007,-0.1516666666666667,0.65,0.091,44,438,40.31,77.93,36.53,3,9
+CDL3OUTSIDE,bearish,reversal,bearish reversal,forex,1,three_outside_down,3,uptrend,691,9856,7110,86612,-0.04300000000000004,-0.014333333333333345,0.72,0.477,3395,3715,12.18,12.75,11.66,16,12
+CDL3OUTSIDE,bearish,reversal,bearish reversal,forex,2,three_outside_down,3,uptrend,691,9646,6929,158684,-0.09599999999999997,-0.031999999999999994,0.72,0.302,2096,4833,22.9,31.32,19.25,11,13
+CDL3OUTSIDE,bearish,reversal,bearish reversal,forex,3,three_outside_down,3,uptrend,691,9372,6692,226156,-0.123,-0.041,0.71,0.219,1468,5224,33.79,55.19,27.78,11,17
+CDL3OUTSIDE,bearish,reversal,bearish reversal,forex,4,three_outside_down,3,uptrend,691,9137,6499,280585,-0.1499999999999999,-0.04999999999999997,0.71,0.17,1107,5392,43.17,87.62,34.05,10,20
+CDL3OUTSIDE,bearish,reversal,bearish reversal,forex,5,three_outside_down,3,uptrend,691,8878,6276,323976,-0.16499999999999992,-0.05499999999999997,0.71,0.139,873,5403,51.62,125.13,39.74,8,21
+CDL3OUTSIDE,bearish,reversal,bearish reversal,stock,1,three_outside_down,3,uptrend,4709,107189,77648,718732,-0.04300000000000004,-0.014333333333333345,0.72,0.477,37068,40580,9.26,9.18,9.33,27,12
+CDL3OUTSIDE,bearish,reversal,bearish reversal,stock,2,three_outside_down,3,uptrend,4709,103947,75037,1314280,-0.07799999999999996,-0.025999999999999985,0.72,0.306,22971,52066,17.52,22.61,15.27,21,26
+CDL3OUTSIDE,bearish,reversal,bearish reversal,stock,3,three_outside_down,3,uptrend,4709,100735,72391,1847693,-0.123,-0.041,0.72,0.219,15875,56516,25.52,40.74,21.25,16,29
+CDL3OUTSIDE,bearish,reversal,bearish reversal,stock,4,three_outside_down,3,uptrend,4709,97265,69519,2278696,-0.16599999999999993,-0.05533333333333331,0.71,0.166,11559,57960,32.78,60.57,27.23,13,31
+CDL3OUTSIDE,bearish,reversal,bearish reversal,stock,5,three_outside_down,3,uptrend,4709,94203,67046,2653815,-0.21499999999999997,-0.07166666666666666,0.71,0.131,8786,58260,39.58,82.83,33.06,11,41

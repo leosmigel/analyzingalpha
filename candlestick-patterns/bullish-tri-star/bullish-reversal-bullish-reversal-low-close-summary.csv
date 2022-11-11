@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTRISTAR,bullish,reversal,bullish reversal,crypto,1,bullish_tri_star,3,downtrend,10,28,28,39,-0.35900000000000004,-0.11966666666666669,1.0,0.321,9,19,1.39,1.22,1.47,2,4
+CDLTRISTAR,bullish,reversal,bullish reversal,crypto,2,bullish_tri_star,3,downtrend,10,28,28,48,-0.138,-0.046000000000000006,1.0,0.286,8,20,1.71,2.12,1.55,2,4
+CDLTRISTAR,bullish,reversal,bullish reversal,crypto,3,bullish_tri_star,3,downtrend,10,27,27,55,-0.265,-0.08833333333333333,1.0,0.185,5,22,2.04,2.4,1.95,2,4
+CDLTRISTAR,bullish,reversal,bullish reversal,crypto,4,bullish_tri_star,3,downtrend,10,27,27,55,-0.07999999999999996,-0.026666666666666655,1.0,0.185,5,22,2.04,2.4,1.95,2,4
+CDLTRISTAR,bullish,reversal,bullish reversal,crypto,5,bullish_tri_star,3,downtrend,10,27,27,55,0.1050000000000001,0.03500000000000003,1.0,0.185,5,22,2.04,2.4,1.95,2,4
+CDLTRISTAR,bullish,reversal,bullish reversal,forex,1,bullish_tri_star,3,downtrend,67,228,209,643,-0.37899999999999995,-0.12633333333333333,0.92,0.311,65,144,3.08,2.66,3.26,3,15
+CDLTRISTAR,bullish,reversal,bullish reversal,forex,2,bullish_tri_star,3,downtrend,67,228,209,974,-0.33,-0.11,0.92,0.225,47,162,4.66,7.19,3.93,2,21
+CDLTRISTAR,bullish,reversal,bullish reversal,forex,3,bullish_tri_star,3,downtrend,67,228,209,1350,-0.31399999999999995,-0.10466666666666664,0.92,0.172,36,173,6.46,8.86,5.96,2,21
+CDLTRISTAR,bullish,reversal,bullish reversal,forex,4,bullish_tri_star,3,downtrend,67,228,209,1445,-0.18799999999999994,-0.06266666666666665,0.92,0.163,34,175,6.91,11.18,6.09,2,21
+CDLTRISTAR,bullish,reversal,bullish reversal,forex,5,bullish_tri_star,3,downtrend,67,226,207,2071,-0.135,-0.045000000000000005,0.92,0.145,30,177,10.0,31.5,6.36,2,21
+CDLTRISTAR,bullish,reversal,bullish reversal,stock,1,bullish_tri_star,3,downtrend,2137,11155,8087,29027,-0.041000000000000036,-0.01366666666666668,0.72,0.479,3877,4210,3.59,3.6,3.58,8,7
+CDLTRISTAR,bullish,reversal,bullish reversal,stock,2,bullish_tri_star,3,downtrend,2137,10987,7955,43947,0.15000000000000002,0.05000000000000001,0.72,0.385,3061,4894,5.52,6.12,5.15,7,11
+CDLTRISTAR,bullish,reversal,bullish reversal,stock,3,bullish_tri_star,3,downtrend,2137,10885,7876,54696,0.31700000000000006,0.10566666666666669,0.72,0.329,2588,5288,6.94,9.07,5.9,7,11
+CDLTRISTAR,bullish,reversal,bullish reversal,stock,4,bullish_tri_star,3,downtrend,2137,10806,7810,65112,0.43799999999999994,0.146,0.72,0.287,2241,5569,8.34,11.59,7.03,7,13
+CDLTRISTAR,bullish,reversal,bullish reversal,stock,5,bullish_tri_star,3,downtrend,2137,10751,7763,75224,0.55,0.18333333333333335,0.72,0.258,2000,5763,9.69,15.06,7.83,5,13

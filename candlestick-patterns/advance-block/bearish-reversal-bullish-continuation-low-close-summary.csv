@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,crypto,1,advance_block,3,uptrend,178,1154,1094,2054,-0.08000000000000002,-0.026666666666666672,0.95,0.46,503,591,1.88,1.85,1.9,7,7
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,crypto,2,advance_block,3,uptrend,178,1135,1076,3260,0.07999999999999996,0.026666666666666655,0.95,0.36,387,689,3.03,3.96,2.51,3,10
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,crypto,3,advance_block,3,uptrend,178,1120,1061,4090,0.20900000000000007,0.0696666666666667,0.95,0.303,322,739,3.85,5.25,3.25,3,12
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,crypto,4,advance_block,3,uptrend,178,1107,1047,4744,0.3420000000000001,0.11400000000000003,0.95,0.268,281,766,4.53,6.92,3.66,3,12
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,crypto,5,advance_block,3,uptrend,178,1098,1039,5557,0.43999999999999995,0.14666666666666664,0.95,0.24,249,790,5.35,9.46,4.05,3,12
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,forex,1,advance_block,3,uptrend,1072,20135,17750,53868,-0.14399999999999996,-0.04799999999999999,0.88,0.426,7570,10180,3.03,2.93,3.12,7,20
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,forex,2,advance_block,3,uptrend,1072,19748,17386,79055,-0.10999999999999999,-0.03666666666666666,0.88,0.295,5123,12263,4.55,5.54,4.13,6,45
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,forex,3,advance_block,3,uptrend,1072,19543,17191,98471,-0.07999999999999996,-0.026666666666666655,0.88,0.23,3950,13241,5.73,8.54,4.89,6,45
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,forex,4,advance_block,3,uptrend,1072,19386,17045,119089,-0.04200000000000004,-0.014000000000000012,0.88,0.192,3277,13768,6.99,12.72,5.62,6,45
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,forex,5,advance_block,3,uptrend,1072,19203,16859,137931,-0.019999999999999907,-0.006666666666666636,0.88,0.164,2772,14087,8.18,17.45,6.36,6,45
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,stock,1,advance_block,3,uptrend,4086,60850,55929,110831,-0.10100000000000003,-0.03366666666666668,0.92,0.449,25120,30809,1.98,2.04,1.93,11,12
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,stock,2,advance_block,3,uptrend,4086,59917,55012,166833,-0.01200000000000001,-0.0040000000000000036,0.92,0.329,18096,36916,3.03,3.75,2.68,7,25
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,stock,3,advance_block,3,uptrend,4086,59475,54580,217910,0.040000000000000036,0.013333333333333345,0.92,0.26,14201,40379,3.99,5.95,3.3,7,25
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,stock,4,advance_block,3,uptrend,4086,59109,54218,266134,0.08799999999999997,0.029333333333333322,0.92,0.217,11751,42467,4.91,8.59,3.89,7,29
+CDLADVANCEBLOCK,bearish,reversal,bullish continuation,stock,5,advance_block,3,uptrend,4086,58768,53886,310034,0.11999999999999988,0.03999999999999996,0.92,0.186,10005,43881,5.75,11.5,4.44,6,29

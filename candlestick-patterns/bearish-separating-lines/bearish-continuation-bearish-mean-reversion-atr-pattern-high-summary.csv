@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,crypto,1,bearish_separating_lines,2,downtrend,191,2585,662,1889,-0.07900000000000001,-0.03950000000000001,0.26,0.461,305,357,2.85,2.78,2.92,9,5
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,crypto,2,bearish_separating_lines,2,downtrend,191,2490,635,4456,-0.0020000000000000018,-0.0010000000000000009,0.26,0.334,212,423,7.02,9.86,5.59,6,8
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,crypto,3,bearish_separating_lines,2,downtrend,191,2398,613,7240,-0.01200000000000001,-0.006000000000000005,0.26,0.246,151,462,11.81,18.99,9.46,5,11
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,crypto,4,bearish_separating_lines,2,downtrend,191,2260,582,10581,-0.04200000000000004,-0.02100000000000002,0.26,0.192,112,470,18.18,28.79,15.65,4,11
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,crypto,5,bearish_separating_lines,2,downtrend,191,2207,572,12244,-0.07999999999999996,-0.03999999999999998,0.26,0.154,88,484,21.41,30.25,19.8,4,11
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,forex,1,bearish_separating_lines,2,downtrend,1239,80080,37595,155559,0.319,0.1595,0.47,0.659,24761,12834,4.14,4.49,3.46,279,7
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,forex,2,bearish_separating_lines,2,downtrend,1239,68173,29311,332079,0.256,0.128,0.43,0.418,12243,17068,11.33,14.73,8.89,85,28
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,forex,3,bearish_separating_lines,2,downtrend,1239,62063,25483,429608,0.15999999999999992,0.07999999999999996,0.41,0.29,7394,18089,16.86,25.68,13.25,56,33
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,forex,4,bearish_separating_lines,2,downtrend,1239,59228,23678,493687,0.134,0.067,0.4,0.226,5340,18338,20.85,38.75,15.64,41,62
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,forex,5,bearish_separating_lines,2,downtrend,1239,57197,22436,542134,0.1050000000000001,0.05250000000000005,0.39,0.185,4160,18276,24.16,50.18,18.24,33,79
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,stock,1,bearish_separating_lines,2,downtrend,4213,39961,9853,36941,0.06400000000000006,0.03200000000000003,0.25,0.534,5265,4588,3.75,3.74,3.76,14,8
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,stock,2,bearish_separating_lines,2,downtrend,4213,39579,9750,74394,0.04799999999999993,0.023999999999999966,0.25,0.349,3401,6349,7.63,9.06,6.87,8,12
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,stock,3,bearish_separating_lines,2,downtrend,4213,39291,9657,106656,0.03700000000000003,0.018500000000000016,0.25,0.259,2505,7152,11.04,16.11,9.27,7,14
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,stock,4,bearish_separating_lines,2,downtrend,4213,39058,9573,137087,0.0040000000000000036,0.0020000000000000018,0.25,0.201,1928,7645,14.32,23.78,11.94,7,14
+CDLSEPARATINGLINES,bearish,continuation,bearish mean reversion,stock,5,bearish_separating_lines,2,downtrend,4213,38774,9514,168278,-0.014999999999999902,-0.007499999999999951,0.25,0.165,1571,7943,17.69,33.8,14.5,6,14

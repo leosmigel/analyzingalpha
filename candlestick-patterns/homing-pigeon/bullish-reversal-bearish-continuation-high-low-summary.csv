@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,crypto,1,homing_pigeon,2,downtrend,97,331,202,902,-0.338,-0.169,0.61,0.332,67,135,4.47,6.63,3.39,4,4
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,crypto,2,homing_pigeon,2,downtrend,97,318,194,1561,-0.36800000000000005,-0.18400000000000002,0.61,0.211,41,153,8.05,17.05,5.63,3,4
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,crypto,3,homing_pigeon,2,downtrend,97,314,190,1959,-0.30799999999999994,-0.15399999999999997,0.61,0.174,33,157,10.31,20.88,8.09,3,4
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,crypto,4,homing_pigeon,2,downtrend,97,314,190,2387,-0.416,-0.208,0.61,0.116,22,168,12.56,35.09,9.61,3,4
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,crypto,5,homing_pigeon,2,downtrend,97,308,183,3219,-0.44500000000000006,-0.22250000000000003,0.59,0.093,17,166,17.59,21.53,17.19,3,4
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,forex,1,homing_pigeon,2,downtrend,380,1888,1167,5680,-0.317,-0.1585,0.62,0.343,400,767,4.87,5.75,4.41,10,15
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,forex,2,homing_pigeon,2,downtrend,380,1851,1139,9549,-0.314,-0.157,0.62,0.228,260,879,8.38,11.22,7.54,5,15
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,forex,3,homing_pigeon,2,downtrend,380,1832,1126,12115,-0.2739999999999999,-0.13699999999999996,0.61,0.182,205,921,10.76,21.91,8.28,4,15
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,forex,4,homing_pigeon,2,downtrend,380,1813,1116,15680,-0.262,-0.131,0.62,0.147,164,952,14.05,33.93,10.62,4,15
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,forex,5,homing_pigeon,2,downtrend,380,1806,1113,18889,-0.26,-0.13,0.62,0.124,138,975,16.97,48.59,12.5,4,15
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,stock,1,homing_pigeon,2,downtrend,5103,101364,70368,191803,-0.12500000000000006,-0.06250000000000003,0.69,0.435,30645,39723,2.73,2.88,2.6,27,17
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,stock,2,homing_pigeon,2,downtrend,5103,99554,69041,307353,-0.10799999999999998,-0.05399999999999999,0.69,0.296,20415,48626,4.45,5.85,3.86,22,28
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,stock,3,homing_pigeon,2,downtrend,5103,97970,67916,416535,-0.11699999999999999,-0.058499999999999996,0.69,0.221,15001,52915,6.13,9.52,5.17,16,28
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,stock,4,homing_pigeon,2,downtrend,5103,96675,66945,522175,-0.138,-0.069,0.69,0.173,11595,55350,7.8,13.93,6.52,13,31
+CDLHOMINGPIGEON,bullish,reversal,bearish continuation,stock,5,homing_pigeon,2,downtrend,5103,95498,66091,622574,-0.15999999999999992,-0.07999999999999996,0.69,0.14,9243,56848,9.42,19.3,7.81,12,32

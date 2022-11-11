@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLENGULFING,bearish,reversal,bullish mean reversion,crypto,1,bearish_engulfing,2,uptrend,211,2386,1456,8651,0.184,0.092,0.61,0.594,865,591,5.94,5.57,6.49,7,4
+CDLENGULFING,bearish,reversal,bullish mean reversion,crypto,2,bearish_engulfing,2,uptrend,211,2231,1351,13638,0.32799999999999996,0.16399999999999998,0.61,0.444,600,751,10.09,11.22,9.19,7,5
+CDLENGULFING,bearish,reversal,bullish mean reversion,crypto,3,bearish_engulfing,2,uptrend,211,2107,1273,16497,0.3909999999999999,0.19549999999999995,0.6,0.347,442,831,12.96,15.98,11.35,4,14
+CDLENGULFING,bearish,reversal,bullish mean reversion,crypto,4,bearish_engulfing,2,uptrend,211,2046,1234,18655,0.55,0.275,0.6,0.31,383,851,15.12,19.97,12.93,4,14
+CDLENGULFING,bearish,reversal,bullish mean reversion,crypto,5,bearish_engulfing,2,uptrend,211,1982,1189,19861,0.575,0.2875,0.6,0.263,313,876,16.7,23.64,14.23,3,17
+CDLENGULFING,bearish,reversal,bullish mean reversion,forex,1,bearish_engulfing,2,uptrend,847,30351,19356,88434,0.19499999999999995,0.09749999999999998,0.64,0.595,11519,7837,4.57,4.28,5.0,17,7
+CDLENGULFING,bearish,reversal,bullish mean reversion,forex,2,bearish_engulfing,2,uptrend,847,27927,17774,182558,0.16600000000000004,0.08300000000000002,0.64,0.388,6896,10878,10.27,12.18,9.06,8,13
+CDLENGULFING,bearish,reversal,bullish mean reversion,forex,3,bearish_engulfing,2,uptrend,847,26146,16624,256368,0.135,0.0675,0.64,0.285,4741,11883,15.42,22.77,12.49,4,20
+CDLENGULFING,bearish,reversal,bullish mean reversion,forex,4,bearish_engulfing,2,uptrend,847,24717,15679,314477,0.14600000000000002,0.07300000000000001,0.63,0.229,3598,12081,20.06,35.23,15.54,4,25
+CDLENGULFING,bearish,reversal,bullish mean reversion,forex,5,bearish_engulfing,2,uptrend,847,23612,14932,368806,0.1299999999999999,0.06499999999999995,0.63,0.188,2809,12123,24.7,51.92,18.39,4,27
+CDLENGULFING,bearish,reversal,bullish mean reversion,stock,1,bearish_engulfing,2,uptrend,5246,267208,168692,705799,0.179,0.0895,0.63,0.589,99353,69339,4.18,3.96,4.5,17,10
+CDLENGULFING,bearish,reversal,bullish mean reversion,stock,2,bearish_engulfing,2,uptrend,5246,248845,156593,1234191,0.22599999999999998,0.11299999999999999,0.63,0.408,63947,92646,7.88,9.24,6.94,9,16
+CDLENGULFING,bearish,reversal,bullish mean reversion,stock,3,bearish_engulfing,2,uptrend,5246,235005,147499,1647555,0.277,0.1385,0.63,0.319,47111,100388,11.17,15.61,9.09,6,29
+CDLENGULFING,bearish,reversal,bullish mean reversion,stock,4,bearish_engulfing,2,uptrend,5246,224111,140315,2008078,0.32000000000000006,0.16000000000000003,0.63,0.265,37199,103116,14.31,23.44,11.02,6,32
+CDLENGULFING,bearish,reversal,bullish mean reversion,stock,5,bearish_engulfing,2,uptrend,5246,214991,134351,2317605,0.375,0.1875,0.62,0.229,30783,103568,17.25,32.38,12.75,5,32

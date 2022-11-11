@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,crypto,1,dark_cloud_cover,2,uptrend,1,2,2,3,-1.0,-0.5,1.0,0.0,0,2,1.5,,1.5,0,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,crypto,2,dark_cloud_cover,2,uptrend,1,2,2,3,-1.0,-0.5,1.0,0.0,0,2,1.5,,1.5,0,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,crypto,3,dark_cloud_cover,2,uptrend,1,2,2,3,-1.0,-0.5,1.0,0.0,0,2,1.5,,1.5,0,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,crypto,4,dark_cloud_cover,2,uptrend,1,2,2,3,-1.0,-0.5,1.0,0.0,0,2,1.5,,1.5,0,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,crypto,5,dark_cloud_cover,2,uptrend,1,2,2,3,-1.0,-0.5,1.0,0.0,0,2,1.5,,1.5,0,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,forex,1,dark_cloud_cover,2,uptrend,32,72,71,94,-0.12300000000000005,-0.06150000000000003,0.99,0.437,31,40,1.32,1.55,1.15,2,3
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,forex,2,dark_cloud_cover,2,uptrend,32,72,71,122,0.05399999999999994,0.02699999999999997,0.99,0.352,25,46,1.72,2.2,1.46,2,3
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,forex,3,dark_cloud_cover,2,uptrend,32,72,71,229,0.01200000000000001,0.006000000000000005,0.99,0.254,18,53,3.23,3.72,3.06,2,3
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,forex,4,dark_cloud_cover,2,uptrend,32,72,71,256,0.266,0.133,0.99,0.254,18,53,3.61,5.22,3.06,2,3
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,forex,5,dark_cloud_cover,2,uptrend,32,72,71,274,0.43499999999999983,0.21749999999999992,0.99,0.239,17,54,3.86,6.47,3.04,2,3
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,stock,1,dark_cloud_cover,2,uptrend,3834,32259,29816,38820,-0.34400000000000003,-0.17200000000000001,0.92,0.326,9728,20088,1.3,1.44,1.24,6,17
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,stock,2,dark_cloud_cover,2,uptrend,3834,32236,29793,47307,-0.15799999999999992,-0.07899999999999996,0.92,0.281,8384,21409,1.59,1.92,1.46,6,17
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,stock,3,dark_cloud_cover,2,uptrend,3834,32205,29763,55342,-0.0030000000000000027,-0.0015000000000000013,0.92,0.249,7403,22360,1.86,2.53,1.64,6,17
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,stock,4,dark_cloud_cover,2,uptrend,3834,32173,29730,63008,0.11599999999999999,0.057999999999999996,0.92,0.224,6667,23063,2.12,3.19,1.81,5,20
+CDLDARKCLOUDCOVER,bearish,reversal,bullish continuation,stock,5,dark_cloud_cover,2,uptrend,3834,32149,29706,70495,0.22499999999999987,0.11249999999999993,0.92,0.205,6084,23622,2.37,3.89,1.98,5,20

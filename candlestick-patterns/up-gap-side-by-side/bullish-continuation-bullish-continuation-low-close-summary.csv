@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,crypto,1,up_gap_side_by_side,3,uptrend,34,88,82,353,0.21999999999999997,0.07333333333333332,0.93,0.61,50,32,4.3,5.28,2.78,3,2
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,crypto,2,up_gap_side_by_side,3,uptrend,34,87,81,508,0.44199999999999995,0.14733333333333332,0.93,0.481,39,42,6.27,8.15,4.52,2,3
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,crypto,3,up_gap_side_by_side,3,uptrend,34,86,81,634,0.529,0.17633333333333334,0.94,0.383,31,50,7.83,8.87,7.18,2,3
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,crypto,4,up_gap_side_by_side,3,uptrend,34,86,81,826,0.484,0.16133333333333333,0.94,0.296,24,57,10.2,11.42,9.68,2,3
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,crypto,5,up_gap_side_by_side,3,uptrend,34,86,81,956,0.7,0.2333333333333333,0.94,0.284,23,58,11.8,16.43,9.97,2,3
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,forex,1,up_gap_side_by_side,3,uptrend,515,2208,2078,21668,-0.19699999999999995,-0.06566666666666665,0.94,0.403,838,1240,10.43,7.0,12.74,7,25
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,forex,2,up_gap_side_by_side,3,uptrend,515,2176,2045,30397,-0.21199999999999997,-0.07066666666666666,0.94,0.264,540,1505,14.86,17.91,13.77,4,33
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,forex,3,up_gap_side_by_side,3,uptrend,515,2146,2013,37026,-0.24,-0.08,0.94,0.19,383,1630,18.39,31.35,15.35,4,33
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,forex,4,up_gap_side_by_side,3,uptrend,515,2132,1998,44888,-0.258,-0.08600000000000001,0.94,0.148,296,1702,22.47,51.4,17.44,4,33
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,forex,5,up_gap_side_by_side,3,uptrend,515,2118,1984,48417,-0.22499999999999998,-0.075,0.94,0.129,255,1729,24.4,66.33,18.22,4,33
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,stock,1,up_gap_side_by_side,3,uptrend,4120,43078,27709,178252,0.040000000000000036,0.013333333333333345,0.64,0.52,14403,13306,6.43,6.46,6.4,9,10
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,stock,2,up_gap_side_by_side,3,uptrend,4120,41753,27032,284055,0.17800000000000005,0.05933333333333335,0.65,0.394,10657,16375,10.51,13.24,8.73,9,12
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,stock,3,up_gap_side_by_side,3,uptrend,4120,40676,26484,376596,0.29500000000000004,0.09833333333333334,0.65,0.325,8618,17866,14.22,20.82,11.03,6,13
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,stock,4,up_gap_side_by_side,3,uptrend,4120,39880,26045,457076,0.40000000000000013,0.1333333333333334,0.65,0.28,7296,18749,17.55,29.31,12.97,4,19
+CDLGAPSIDESIDEWHITE,bullish,continuation,bullish continuation,stock,5,up_gap_side_by_side,3,uptrend,4120,39171,25668,533656,0.4849999999999999,0.16166666666666663,0.66,0.247,6351,19317,20.79,38.7,14.9,4,19

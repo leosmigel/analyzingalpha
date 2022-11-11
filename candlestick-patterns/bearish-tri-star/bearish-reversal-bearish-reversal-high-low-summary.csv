@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTRISTAR,bearish,reversal,bearish reversal,crypto,1,bearish_tri_star,3,uptrend,4,11,6,21,0.337,0.11233333333333334,0.55,0.667,4,2,3.5,3.5,3.5,2,1
+CDLTRISTAR,bearish,reversal,bearish reversal,crypto,2,bearish_tri_star,3,uptrend,4,11,6,44,-0.0040000000000000036,-0.0013333333333333346,0.55,0.333,2,4,7.33,2.5,9.75,1,2
+CDLTRISTAR,bearish,reversal,bearish reversal,crypto,3,bearish_tri_star,3,uptrend,4,11,6,44,0.32900000000000007,0.10966666666666669,0.55,0.333,2,4,7.33,2.5,9.75,1,2
+CDLTRISTAR,bearish,reversal,bearish reversal,crypto,4,bearish_tri_star,3,uptrend,4,11,6,57,0.662,0.22066666666666668,0.55,0.333,2,4,9.5,9.0,9.75,1,2
+CDLTRISTAR,bearish,reversal,bearish reversal,crypto,5,bearish_tri_star,3,uptrend,4,11,6,135,0.995,0.33166666666666667,0.55,0.333,2,4,22.5,48.0,9.75,1,2
+CDLTRISTAR,bearish,reversal,bearish reversal,forex,1,bearish_tri_star,3,uptrend,63,258,185,614,-0.08100000000000002,-0.027000000000000007,0.72,0.459,85,100,3.32,2.35,4.14,11,3
+CDLTRISTAR,bearish,reversal,bearish reversal,forex,2,bearish_tri_star,3,uptrend,63,258,185,878,0.10599999999999998,0.03533333333333333,0.72,0.368,68,117,4.75,2.78,5.89,10,4
+CDLTRISTAR,bearish,reversal,bearish reversal,forex,3,bearish_tri_star,3,uptrend,63,258,185,960,0.31999999999999995,0.10666666666666665,0.72,0.33,61,124,5.19,3.28,6.13,9,13
+CDLTRISTAR,bearish,reversal,bearish reversal,forex,4,bearish_tri_star,3,uptrend,63,258,185,1057,0.40400000000000014,0.1346666666666667,0.72,0.281,52,133,5.71,4.12,6.34,8,13
+CDLTRISTAR,bearish,reversal,bearish reversal,forex,5,bearish_tri_star,3,uptrend,63,258,185,1274,0.45499999999999985,0.15166666666666662,0.72,0.243,45,140,6.89,8.51,6.36,7,13
+CDLTRISTAR,bearish,reversal,bearish reversal,stock,1,bearish_tri_star,3,uptrend,2141,10283,6769,31309,-0.04500000000000004,-0.015000000000000013,0.66,0.475,3217,3552,4.63,4.47,4.76,24,8
+CDLTRISTAR,bearish,reversal,bearish reversal,stock,2,bearish_tri_star,3,uptrend,2141,10163,6681,48598,0.05799999999999994,0.019333333333333313,0.66,0.354,2362,4319,7.27,7.82,6.98,18,9
+CDLTRISTAR,bearish,reversal,bearish reversal,stock,3,bearish_tri_star,3,uptrend,2141,10081,6634,65404,0.15100000000000002,0.05033333333333334,0.66,0.287,1904,4730,9.86,12.2,8.92,15,9
+CDLTRISTAR,bearish,reversal,bearish reversal,stock,4,bearish_tri_star,3,uptrend,2141,9993,6575,78070,0.19999999999999996,0.06666666666666665,0.66,0.24,1580,4995,11.87,15.34,10.78,14,13
+CDLTRISTAR,bearish,reversal,bearish reversal,stock,5,bearish_tri_star,3,uptrend,2141,9935,6538,92074,0.25,0.08333333333333333,0.66,0.208,1362,5176,14.08,20.02,12.52,12,13

@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,crypto,1,bullish_three_line_strike,4,uptrend,19,44,43,211,0.02200000000000002,0.005500000000000005,0.98,0.512,22,21,4.91,4.41,5.43,2,2
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,crypto,2,bullish_three_line_strike,4,uptrend,19,44,42,472,-0.0040000000000000036,-0.0010000000000000009,0.95,0.333,14,28,11.24,12.14,10.79,2,4
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,crypto,3,bullish_three_line_strike,4,uptrend,19,44,42,761,-0.14800000000000002,-0.037000000000000005,0.95,0.214,9,33,18.12,4.56,21.82,2,4
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,crypto,4,bullish_three_line_strike,4,uptrend,19,44,42,1055,-0.6460000000000001,-0.16150000000000003,0.95,0.071,3,39,25.12,13.67,26.0,1,4
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,crypto,5,bullish_three_line_strike,4,uptrend,19,44,42,1070,-0.5750000000000001,-0.14375000000000002,0.95,0.071,3,39,25.48,18.67,26.0,1,4
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,forex,1,bullish_three_line_strike,4,uptrend,471,2104,2065,12142,-0.0050000000000000044,-0.0012500000000000011,0.98,0.495,1022,1043,5.88,5.75,6.01,9,7
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,forex,2,bullish_three_line_strike,4,uptrend,471,2092,2047,24795,-0.0040000000000000036,-0.0010000000000000009,0.98,0.333,681,1366,12.11,15.25,10.55,6,9
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,forex,3,bullish_three_line_strike,4,uptrend,471,2073,2023,37567,0.0030000000000000027,0.0007500000000000007,0.98,0.251,507,1516,18.57,29.0,15.08,5,9
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,forex,4,bullish_three_line_strike,4,uptrend,471,2063,2011,48920,-0.04200000000000004,-0.01050000000000001,0.97,0.192,386,1625,24.33,43.75,19.71,4,10
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,forex,5,bullish_three_line_strike,4,uptrend,471,2056,2000,60035,-0.03499999999999992,-0.00874999999999998,0.97,0.161,322,1678,30.02,63.82,23.53,4,10
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,stock,1,bullish_three_line_strike,4,uptrend,1015,2633,2406,15575,-0.017000000000000015,-0.004250000000000004,0.91,0.493,1186,1220,6.47,6.05,6.89,5,4
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,stock,2,bullish_three_line_strike,4,uptrend,1015,2630,2401,28281,-0.04800000000000004,-0.01200000000000001,0.91,0.316,759,1642,11.78,14.45,10.55,4,6
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,stock,3,bullish_three_line_strike,4,uptrend,1015,2624,2395,41742,-0.11399999999999999,-0.028499999999999998,0.91,0.222,531,1864,17.43,27.35,14.6,3,6
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,stock,4,bullish_three_line_strike,4,uptrend,1015,2621,2387,50689,-0.14200000000000002,-0.035500000000000004,0.91,0.172,410,1977,21.24,39.7,17.41,3,7
+CDL3LINESTRIKE,bullish,continuation,bearish reversal,stock,5,bullish_three_line_strike,4,uptrend,1015,2612,2371,61135,-0.17499999999999993,-0.04374999999999998,0.91,0.137,326,2045,25.78,52.6,21.51,3,7

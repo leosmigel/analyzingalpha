@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL2CROWS,bearish,reversal,bearish reversal,forex,1,two_crows,3,uptrend,4,8,6,48,0.6629999999999999,0.22099999999999997,0.75,0.833,5,1,8.0,8.8,4.0,2,0
+CDL2CROWS,bearish,reversal,bearish reversal,forex,2,two_crows,3,uptrend,4,8,6,110,-0.0040000000000000036,-0.0013333333333333346,0.75,0.333,2,4,18.33,20.0,17.5,1,2
+CDL2CROWS,bearish,reversal,bearish reversal,forex,3,two_crows,3,uptrend,4,8,6,141,-1.0,-0.3333333333333333,0.75,0.0,0,6,23.5,,23.5,0,2
+CDL2CROWS,bearish,reversal,bearish reversal,forex,4,two_crows,3,uptrend,4,8,6,141,-1.0,-0.3333333333333333,0.75,0.0,0,6,23.5,,23.5,0,2
+CDL2CROWS,bearish,reversal,bearish reversal,forex,5,two_crows,3,uptrend,4,8,6,141,-1.0,-0.3333333333333333,0.75,0.0,0,6,23.5,,23.5,0,2
+CDL2CROWS,bearish,reversal,bearish reversal,stock,1,two_crows,3,uptrend,1665,4894,3834,29720,-0.017000000000000015,-0.005666666666666671,0.78,0.493,1890,1944,7.75,7.04,8.45,6,4
+CDL2CROWS,bearish,reversal,bearish reversal,stock,2,two_crows,3,uptrend,1665,4878,3814,58643,-0.061999999999999944,-0.02066666666666665,0.78,0.314,1196,2618,15.38,18.85,13.79,4,6
+CDL2CROWS,bearish,reversal,bearish reversal,stock,3,two_crows,3,uptrend,1665,4865,3795,81799,-0.11099999999999999,-0.037,0.78,0.223,847,2948,21.55,31.59,18.67,4,6
+CDL2CROWS,bearish,reversal,bearish reversal,stock,4,two_crows,3,uptrend,1665,4851,3771,95353,-0.15799999999999992,-0.05266666666666664,0.78,0.168,633,3138,25.29,42.36,21.84,4,8
+CDL2CROWS,bearish,reversal,bearish reversal,stock,5,two_crows,3,uptrend,1665,4844,3756,117459,-0.19999999999999996,-0.06666666666666665,0.78,0.134,505,3251,31.27,60.55,26.72,4,8

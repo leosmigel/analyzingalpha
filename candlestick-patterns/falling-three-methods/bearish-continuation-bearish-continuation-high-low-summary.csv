@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,crypto,1,falling_three_methods,5,downtrend,4,8,5,237,-0.6000000000000001,-0.12000000000000002,0.62,0.2,1,4,47.4,8.0,57.25,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,crypto,2,falling_three_methods,5,downtrend,4,8,5,240,-1.0,-0.2,0.62,0.0,0,5,48.0,,48.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,crypto,3,falling_three_methods,5,downtrend,4,8,5,240,-1.0,-0.2,0.62,0.0,0,5,48.0,,48.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,crypto,4,falling_three_methods,5,downtrend,4,8,5,240,-1.0,-0.2,0.62,0.0,0,5,48.0,,48.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,crypto,5,falling_three_methods,5,downtrend,4,8,5,240,-1.0,-0.2,0.62,0.0,0,5,48.0,,48.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,forex,1,falling_three_methods,5,downtrend,83,183,150,1804,0.017000000000000015,0.003400000000000003,0.82,0.507,76,74,12.03,14.09,9.91,3,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,forex,2,falling_three_methods,5,downtrend,83,181,148,3418,-0.10599999999999998,-0.021199999999999997,0.82,0.297,44,104,23.09,30.45,19.98,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,forex,3,falling_three_methods,5,downtrend,83,180,146,4900,-0.2859999999999999,-0.05719999999999999,0.81,0.178,26,120,33.56,47.08,30.63,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,forex,4,falling_three_methods,5,downtrend,83,180,146,5916,-0.246,-0.0492,0.81,0.151,22,124,40.52,78.05,33.86,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,forex,5,falling_three_methods,5,downtrend,83,179,143,7116,-0.32999999999999996,-0.06599999999999999,0.8,0.112,16,127,49.76,115.19,41.52,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,stock,1,falling_three_methods,5,downtrend,103,219,163,2486,-0.08000000000000002,-0.016000000000000004,0.74,0.46,75,88,15.25,10.67,19.16,2,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,stock,2,falling_three_methods,5,downtrend,103,219,162,3901,-0.07199999999999995,-0.014399999999999991,0.74,0.309,50,112,24.08,25.26,23.55,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,stock,3,falling_three_methods,5,downtrend,103,219,160,5228,-0.04600000000000004,-0.009200000000000009,0.73,0.238,38,122,32.67,36.68,31.43,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,stock,4,falling_three_methods,5,downtrend,103,219,159,7182,-0.11599999999999999,-0.0232,0.73,0.176,28,131,45.17,59.14,42.18,2,3
+CDLRISEFALL3METHODS,bearish,continuation,bearish continuation,stock,5,falling_three_methods,5,downtrend,103,219,159,8797,-0.05499999999999994,-0.010999999999999987,0.73,0.157,25,134,55.33,117.16,43.79,2,4

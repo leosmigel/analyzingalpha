@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,crypto,1,bullish_separating_lines,2,uptrend,143,567,455,2196,-0.0030000000000000027,-0.0015000000000000013,0.8,0.497,226,229,4.83,4.16,5.48,4,5
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,crypto,2,bullish_separating_lines,2,uptrend,143,560,448,3328,0.138,0.069,0.8,0.379,170,278,7.43,8.62,6.7,3,4
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,crypto,3,bullish_separating_lines,2,uptrend,143,554,444,4269,0.2919999999999999,0.14599999999999996,0.8,0.324,144,300,9.61,12.26,8.34,3,6
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,crypto,4,bullish_separating_lines,2,uptrend,143,550,440,5313,0.28800000000000003,0.14400000000000002,0.8,0.257,113,327,12.08,17.32,10.26,3,6
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,crypto,5,bullish_separating_lines,2,uptrend,143,546,436,5837,0.30000000000000004,0.15000000000000002,0.8,0.216,94,342,13.39,21.06,11.28,2,6
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,forex,1,bullish_separating_lines,2,uptrend,913,7287,6280,54663,-0.14299999999999996,-0.07149999999999998,0.86,0.427,2683,3597,8.7,6.89,10.05,7,20
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,forex,2,bullish_separating_lines,2,uptrend,913,7179,6158,72558,-0.10999999999999999,-0.05499999999999999,0.86,0.295,1818,4340,11.78,11.89,11.74,6,69
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,forex,3,bullish_separating_lines,2,uptrend,913,7090,6076,93040,-0.08599999999999997,-0.04299999999999998,0.86,0.228,1388,4688,15.31,21.12,13.59,4,69
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,forex,4,bullish_separating_lines,2,uptrend,913,6998,5989,112952,-0.08799999999999997,-0.043999999999999984,0.86,0.183,1098,4891,18.86,33.34,15.61,4,69
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,forex,5,bullish_separating_lines,2,uptrend,913,6936,5930,132633,-0.05999999999999994,-0.02999999999999997,0.85,0.156,928,5002,22.37,47.98,17.61,4,69
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,stock,1,bullish_separating_lines,2,uptrend,3616,24085,21435,138694,0.08000000000000002,0.04000000000000001,0.89,0.54,11581,9854,6.47,6.25,6.73,10,9
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,stock,2,bullish_separating_lines,2,uptrend,3616,23804,21161,243733,0.16600000000000004,0.08300000000000002,0.89,0.388,8210,12951,11.52,14.16,9.84,7,15
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,stock,3,bullish_separating_lines,2,uptrend,3616,23554,20919,338636,0.2370000000000001,0.11850000000000005,0.89,0.309,6472,14447,16.19,24.22,12.59,6,15
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,stock,4,bullish_separating_lines,2,uptrend,3616,23330,20707,430703,0.30400000000000005,0.15200000000000002,0.89,0.261,5399,15308,20.8,36.49,15.27,5,15
+CDLSEPARATINGLINES,bullish,continuation,bullish continuation,stock,5,bullish_separating_lines,2,uptrend,3616,23151,20526,523580,0.365,0.1825,0.89,0.227,4650,15876,25.51,51.55,17.88,5,15

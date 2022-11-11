@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,forex,1,upside_gap_two_crows,3,uptrend,6,12,12,26,-0.337,-0.11233333333333334,1.0,0.333,4,8,2.17,1.75,2.38,1,2
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,forex,2,upside_gap_two_crows,3,uptrend,6,12,12,38,-0.0040000000000000036,-0.0013333333333333346,1.0,0.333,4,8,3.17,4.75,2.38,1,2
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,forex,3,upside_gap_two_crows,3,uptrend,6,12,12,50,-0.32899999999999996,-0.10966666666666665,1.0,0.167,2,10,4.17,6.0,3.8,1,2
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,forex,4,upside_gap_two_crows,3,uptrend,6,12,12,56,-0.16199999999999992,-0.05399999999999997,1.0,0.167,2,10,4.67,9.0,3.8,1,2
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,forex,5,upside_gap_two_crows,3,uptrend,6,12,12,56,0.0050000000000001155,0.0016666666666667052,1.0,0.167,2,10,4.67,9.0,3.8,1,2
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,stock,1,upside_gap_two_crows,3,uptrend,825,2106,1924,5051,0.017000000000000015,0.005666666666666671,0.91,0.507,976,948,2.63,2.82,2.43,5,5
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,stock,2,upside_gap_two_crows,3,uptrend,825,2105,1923,8997,0.05599999999999994,0.018666666666666647,0.91,0.353,679,1244,4.68,5.64,4.15,3,6
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,stock,3,upside_gap_two_crows,3,uptrend,825,2105,1921,11458,0.07400000000000007,0.024666666666666687,0.91,0.268,514,1407,5.96,6.94,5.61,3,6
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,stock,4,upside_gap_two_crows,3,uptrend,825,2101,1917,14107,0.04999999999999993,0.016666666666666646,0.91,0.21,403,1514,7.36,9.93,6.68,3,6
+CDLUPSIDEGAP2CROWS,bearish,reversal,bearish reversal,stock,5,upside_gap_two_crows,3,uptrend,825,2100,1915,16989,0.02000000000000013,0.00666666666666671,0.91,0.17,325,1590,8.87,16.58,7.3,3,6

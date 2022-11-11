@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTASUKIGAP,bullish,continuation,bearish reversal,crypto,1,upside_tasuki_gap,3,uptrend,4,8,8,12,-0.245,-0.08166666666666667,1.0,0.375,3,5,1.5,2.33,1.0,2,2
+CDLTASUKIGAP,bullish,continuation,bearish reversal,crypto,2,upside_tasuki_gap,3,uptrend,4,8,8,34,-0.25,-0.08333333333333333,1.0,0.25,2,6,4.25,1.0,5.33,2,2
+CDLTASUKIGAP,bullish,continuation,bearish reversal,crypto,3,upside_tasuki_gap,3,uptrend,4,8,8,34,0.0,0.0,1.0,0.25,2,6,4.25,1.0,5.33,2,2
+CDLTASUKIGAP,bullish,continuation,bearish reversal,crypto,4,upside_tasuki_gap,3,uptrend,4,8,8,34,0.25,0.08333333333333333,1.0,0.25,2,6,4.25,1.0,5.33,2,2
+CDLTASUKIGAP,bullish,continuation,bearish reversal,crypto,5,upside_tasuki_gap,3,uptrend,4,8,8,42,-0.255,-0.085,1.0,0.125,1,7,5.25,5.0,5.29,1,2
+CDLTASUKIGAP,bullish,continuation,bearish reversal,forex,1,upside_tasuki_gap,3,uptrend,50,114,113,149,-0.37999999999999995,-0.12666666666666665,0.99,0.31,35,78,1.32,1.57,1.21,2,3
+CDLTASUKIGAP,bullish,continuation,bearish reversal,forex,2,upside_tasuki_gap,3,uptrend,50,114,113,216,-0.338,-0.11266666666666668,0.99,0.221,25,88,1.91,2.16,1.84,2,4
+CDLTASUKIGAP,bullish,continuation,bearish reversal,forex,3,upside_tasuki_gap,3,uptrend,50,114,113,254,-0.21500000000000008,-0.0716666666666667,0.99,0.195,22,91,2.25,3.09,2.04,2,4
+CDLTASUKIGAP,bullish,continuation,bearish reversal,forex,4,upside_tasuki_gap,3,uptrend,50,114,113,270,-0.11199999999999999,-0.03733333333333333,0.99,0.177,20,93,2.39,3.8,2.09,2,4
+CDLTASUKIGAP,bullish,continuation,bearish reversal,forex,5,upside_tasuki_gap,3,uptrend,50,114,113,298,0.01000000000000012,0.0033333333333333734,0.99,0.168,19,94,2.64,4.95,2.17,1,4
+CDLTASUKIGAP,bullish,continuation,bearish reversal,stock,1,upside_tasuki_gap,3,uptrend,3065,19148,17358,20512,-0.562,-0.18733333333333335,0.91,0.218,3788,13570,1.18,1.43,1.11,7,17
+CDLTASUKIGAP,bullish,continuation,bearish reversal,stock,2,upside_tasuki_gap,3,uptrend,3065,19144,17355,24507,-0.43400000000000005,-0.1446666666666667,0.91,0.188,3259,14096,1.41,2.03,1.27,7,17
+CDLTASUKIGAP,bullish,continuation,bearish reversal,stock,3,upside_tasuki_gap,3,uptrend,3065,19139,17346,29056,-0.351,-0.11699999999999999,0.91,0.163,2828,14518,1.68,2.58,1.5,7,17
+CDLTASUKIGAP,bullish,continuation,bearish reversal,stock,4,upside_tasuki_gap,3,uptrend,3065,19128,17332,32438,-0.28400000000000003,-0.09466666666666668,0.91,0.144,2492,14840,1.87,3.0,1.68,6,17
+CDLTASUKIGAP,bullish,continuation,bearish reversal,stock,5,upside_tasuki_gap,3,uptrend,3065,19122,17323,36148,-0.22499999999999998,-0.075,0.91,0.129,2234,15089,2.09,3.68,1.85,6,17

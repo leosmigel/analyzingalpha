@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLENGULFING,bullish,reversal,bullish reversal,crypto,1,bullish_engulfing,2,downtrend,222,2594,1879,9288,-0.065,-0.0325,0.72,0.465,874,1005,4.94,4.46,5.36,6,6
+CDLENGULFING,bullish,reversal,bullish reversal,crypto,2,bullish_engulfing,2,downtrend,222,2502,1800,13248,0.02200000000000002,0.01100000000000001,0.72,0.341,613,1187,7.36,8.76,6.64,5,9
+CDLENGULFING,bullish,reversal,bullish reversal,crypto,3,bullish_engulfing,2,downtrend,222,2430,1738,17209,0.08900000000000008,0.04450000000000004,0.72,0.273,475,1263,9.9,15.24,7.89,4,15
+CDLENGULFING,bullish,reversal,bullish reversal,crypto,4,bullish_engulfing,2,downtrend,222,2384,1701,20325,0.16200000000000003,0.08100000000000002,0.71,0.233,396,1305,11.95,20.67,9.3,3,19
+CDLENGULFING,bullish,reversal,bullish reversal,crypto,5,bullish_engulfing,2,downtrend,222,2358,1677,23300,0.2649999999999999,0.13249999999999995,0.71,0.211,354,1323,13.89,27.32,10.3,3,19
+CDLENGULFING,bullish,reversal,bullish reversal,forex,1,bullish_engulfing,2,downtrend,856,26307,19966,140120,-0.16399999999999998,-0.08199999999999999,0.76,0.416,8297,11669,7.02,7.65,6.57,9,19
+CDLENGULFING,bullish,reversal,bullish reversal,forex,2,bullish_engulfing,2,downtrend,856,25267,19153,245356,-0.18199999999999994,-0.09099999999999997,0.76,0.274,5239,13914,12.81,19.05,10.46,6,35
+CDLENGULFING,bullish,reversal,bullish reversal,forex,3,bullish_engulfing,2,downtrend,856,24524,18533,340098,-0.19700000000000006,-0.09850000000000003,0.76,0.201,3721,14812,18.35,35.11,14.14,4,35
+CDLENGULFING,bullish,reversal,bullish reversal,forex,4,bullish_engulfing,2,downtrend,856,23824,17958,418772,-0.19199999999999995,-0.09599999999999997,0.75,0.162,2915,15043,23.32,54.56,17.27,3,47
+CDLENGULFING,bullish,reversal,bullish reversal,forex,5,bullish_engulfing,2,downtrend,856,23134,17422,496697,-0.17499999999999993,-0.08749999999999997,0.75,0.137,2385,15037,28.51,77.51,20.74,3,48
+CDLENGULFING,bullish,reversal,bullish reversal,stock,1,bullish_engulfing,2,downtrend,5580,181275,142279,745587,0.039000000000000035,0.019500000000000017,0.78,0.519,73774,68505,5.24,5.17,5.32,13,11
+CDLENGULFING,bullish,reversal,bullish reversal,stock,2,bullish_engulfing,2,downtrend,5580,173611,135946,1316042,0.10999999999999999,0.05499999999999999,0.78,0.37,50281,85665,9.68,12.31,8.14,9,17
+CDLENGULFING,bullish,reversal,bullish reversal,stock,3,bullish_engulfing,2,downtrend,5580,168587,131794,1846518,0.16599999999999993,0.08299999999999996,0.78,0.292,38532,93262,14.01,22.06,10.68,6,23
+CDLENGULFING,bullish,reversal,bullish reversal,stock,4,bullish_engulfing,2,downtrend,5580,164314,128219,2335547,0.21999999999999997,0.10999999999999999,0.78,0.245,31456,96763,18.22,33.89,13.12,5,26
+CDLENGULFING,bullish,reversal,bullish reversal,stock,5,bullish_engulfing,2,downtrend,5580,160326,124881,2793737,0.2749999999999999,0.13749999999999996,0.78,0.213,26626,98255,22.37,47.65,15.52,5,27

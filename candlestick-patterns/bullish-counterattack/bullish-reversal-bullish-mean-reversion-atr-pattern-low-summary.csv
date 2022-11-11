@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,crypto,1,bullish_counterattack,2,downtrend,6,26,10,36,0.0,0.0,0.38,0.5,5,5,3.6,4.0,3.2,2,1
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,crypto,2,bullish_counterattack,2,downtrend,6,26,10,58,-0.09999999999999998,-0.04999999999999999,0.38,0.3,3,7,5.8,4.67,6.29,0,3
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,crypto,3,bullish_counterattack,2,downtrend,6,26,10,64,-0.19999999999999996,-0.09999999999999998,0.38,0.2,2,8,6.4,6.5,6.38,0,4
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,crypto,4,bullish_counterattack,2,downtrend,6,26,10,64,0.0,0.0,0.38,0.2,2,8,6.4,6.5,6.38,0,4
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,crypto,5,bullish_counterattack,2,downtrend,6,26,10,68,-0.4,-0.2,0.38,0.1,1,9,6.8,4.0,7.11,0,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,forex,1,bullish_counterattack,2,downtrend,127,488,197,902,0.13899999999999996,0.06949999999999998,0.4,0.569,112,85,4.58,3.21,6.39,5,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,forex,2,bullish_counterattack,2,downtrend,127,470,189,4062,0.018000000000000016,0.009000000000000008,0.4,0.339,64,125,21.49,28.2,18.06,3,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,forex,3,bullish_counterattack,2,downtrend,127,465,180,5604,-0.17200000000000004,-0.08600000000000002,0.39,0.206,37,143,31.13,51.16,25.95,3,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,forex,4,bullish_counterattack,2,downtrend,127,465,180,6867,-0.21599999999999997,-0.10799999999999998,0.39,0.156,28,152,38.15,79.25,30.58,2,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,forex,5,bullish_counterattack,2,downtrend,127,463,180,8239,-0.16499999999999992,-0.08249999999999996,0.39,0.139,25,155,45.77,111.48,35.17,1,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,stock,1,bullish_counterattack,2,downtrend,1534,4965,1836,7281,0.178,0.089,0.37,0.588,1080,756,3.97,3.67,4.39,7,5
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,stock,2,bullish_counterattack,2,downtrend,1534,4944,1824,15951,0.17600000000000005,0.08800000000000002,0.37,0.393,716,1108,8.75,10.29,7.74,3,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,stock,3,bullish_counterattack,2,downtrend,1534,4934,1813,24247,0.19399999999999995,0.09699999999999998,0.37,0.298,541,1272,13.37,20.22,10.46,3,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,stock,4,bullish_counterattack,2,downtrend,1534,4931,1812,32545,0.19999999999999996,0.09999999999999998,0.37,0.24,434,1378,17.96,28.78,14.55,2,6
+CDLCOUNTERATTACK,bullish,reversal,bullish mean reversion,stock,5,bullish_counterattack,2,downtrend,1534,4928,1810,39323,0.2549999999999999,0.12749999999999995,0.37,0.209,378,1432,21.73,42.47,16.25,2,6

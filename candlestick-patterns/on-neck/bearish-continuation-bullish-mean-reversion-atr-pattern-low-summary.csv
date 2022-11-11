@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLONNECK,bearish,continuation,bullish mean reversion,forex,1,on_neck,2,downtrend,3,6,3,21,-1.0,-0.5,0.5,0.0,0,3,7.0,,7.0,0,1
+CDLONNECK,bearish,continuation,bullish mean reversion,forex,2,on_neck,2,downtrend,3,6,3,21,-1.0,-0.5,0.5,0.0,0,3,7.0,,7.0,0,1
+CDLONNECK,bearish,continuation,bullish mean reversion,forex,3,on_neck,2,downtrend,3,6,3,21,-1.0,-0.5,0.5,0.0,0,3,7.0,,7.0,0,1
+CDLONNECK,bearish,continuation,bullish mean reversion,forex,4,on_neck,2,downtrend,3,6,3,21,-1.0,-0.5,0.5,0.0,0,3,7.0,,7.0,0,1
+CDLONNECK,bearish,continuation,bullish mean reversion,forex,5,on_neck,2,downtrend,3,6,3,21,-1.0,-0.5,0.5,0.0,0,3,7.0,,7.0,0,1
+CDLONNECK,bearish,continuation,bullish mean reversion,stock,1,on_neck,2,downtrend,3699,22037,11141,40983,0.15999999999999998,0.07999999999999999,0.51,0.58,6465,4676,3.68,3.59,3.79,8,6
+CDLONNECK,bearish,continuation,bullish mean reversion,stock,2,on_neck,2,downtrend,3699,21960,11058,77769,0.22799999999999998,0.11399999999999999,0.5,0.409,4523,6535,7.03,8.27,6.17,6,8
+CDLONNECK,bearish,continuation,bullish mean reversion,stock,3,on_neck,2,downtrend,3699,21883,10986,112378,0.265,0.1325,0.5,0.315,3462,7524,10.23,14.15,8.43,5,9
+CDLONNECK,bearish,continuation,bullish mean reversion,stock,4,on_neck,2,downtrend,3699,21840,10944,146552,0.30400000000000005,0.15200000000000002,0.5,0.261,2855,8089,13.39,21.91,10.39,5,9
+CDLONNECK,bearish,continuation,bullish mean reversion,stock,5,on_neck,2,downtrend,3699,21789,10912,180912,0.3600000000000001,0.18000000000000005,0.5,0.226,2461,8451,16.58,31.52,12.23,5,9

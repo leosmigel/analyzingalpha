@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,crypto,1,bullish_doji_star,2,downtrend,147,712,375,2100,0.241,0.1205,0.53,0.621,233,142,5.6,6.13,4.73,4,3
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,crypto,2,bullish_doji_star,2,downtrend,147,699,363,3967,0.262,0.131,0.52,0.421,153,210,10.93,12.55,9.75,2,5
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,crypto,3,bullish_doji_star,2,downtrend,147,684,350,5662,0.44899999999999995,0.22449999999999998,0.51,0.363,127,223,16.18,24.17,11.62,3,5
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,crypto,4,bullish_doji_star,2,downtrend,147,681,348,6431,0.562,0.281,0.51,0.313,109,239,18.48,30.14,13.16,3,6
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,crypto,5,bullish_doji_star,2,downtrend,147,678,345,7161,0.6300000000000001,0.31500000000000006,0.51,0.272,94,251,20.76,38.24,14.21,2,7
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,forex,1,bullish_doji_star,2,downtrend,694,5890,3129,14589,0.235,0.1175,0.53,0.615,1925,1204,4.66,4.59,4.77,22,9
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,forex,2,bullish_doji_star,2,downtrend,694,5792,3057,35912,0.16800000000000004,0.08400000000000002,0.53,0.389,1188,1869,11.75,15.83,9.16,5,11
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,forex,3,bullish_doji_star,2,downtrend,694,5717,3018,54814,0.1319999999999999,0.06599999999999995,0.53,0.284,857,2161,18.16,32.09,12.64,4,12
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,forex,4,bullish_doji_star,2,downtrend,694,5649,2969,74320,0.09599999999999997,0.04799999999999999,0.53,0.219,650,2319,25.03,55.72,16.43,3,14
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,forex,5,bullish_doji_star,2,downtrend,694,5611,2939,87045,0.08500000000000008,0.04250000000000004,0.52,0.181,532,2407,29.62,74.45,19.71,3,14
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,stock,1,bullish_doji_star,2,downtrend,5259,103704,56109,223818,0.15899999999999997,0.07949999999999999,0.54,0.579,32470,23639,3.99,3.75,4.32,17,11
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,stock,2,bullish_doji_star,2,downtrend,5259,102020,54961,413122,0.2220000000000001,0.11100000000000004,0.54,0.406,22317,32644,7.52,8.78,6.65,11,15
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,stock,3,bullish_doji_star,2,downtrend,5259,100576,54013,591964,0.271,0.1355,0.54,0.317,17127,36886,10.96,15.58,8.81,8,22
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,stock,4,bullish_doji_star,2,downtrend,5259,99465,53276,754623,0.32000000000000006,0.16000000000000003,0.54,0.265,14117,39159,14.16,23.71,10.72,8,22
+CDLDOJISTAR,bullish,reversal,bullish mean reversion,stock,5,bullish_doji_star,2,downtrend,5259,98533,52696,920219,0.375,0.1875,0.53,0.229,12051,40645,17.46,32.98,12.86,6,29

@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL2CROWS,bearish,reversal,bearish mean reversion,forex,1,two_crows,3,uptrend,4,8,2,20,0.0,0.0,0.25,0.5,1,1,10.0,19.0,1.0,1,1
+CDL2CROWS,bearish,reversal,bearish mean reversion,forex,2,two_crows,3,uptrend,4,8,2,23,0.5,0.16666666666666666,0.25,0.5,1,1,11.5,22.0,1.0,1,1
+CDL2CROWS,bearish,reversal,bearish mean reversion,forex,3,two_crows,3,uptrend,4,8,2,63,1.0,0.3333333333333333,0.25,0.5,1,1,31.5,62.0,1.0,1,1
+CDL2CROWS,bearish,reversal,bearish mean reversion,forex,4,two_crows,3,uptrend,4,8,2,64,1.5,0.5,0.25,0.5,1,1,32.0,63.0,1.0,1,1
+CDL2CROWS,bearish,reversal,bearish mean reversion,forex,5,two_crows,3,uptrend,4,8,2,85,2.0,0.6666666666666666,0.25,0.5,1,1,42.5,84.0,1.0,1,1
+CDL2CROWS,bearish,reversal,bearish mean reversion,stock,1,two_crows,3,uptrend,1665,4909,1435,5111,0.14299999999999996,0.047666666666666656,0.29,0.573,822,613,3.56,3.36,3.83,3,3
+CDL2CROWS,bearish,reversal,bearish mean reversion,stock,2,two_crows,3,uptrend,1665,4904,1434,9522,0.16200000000000003,0.05400000000000001,0.29,0.386,554,880,6.64,7.51,6.1,3,4
+CDL2CROWS,bearish,reversal,bearish mean reversion,stock,3,two_crows,3,uptrend,1665,4902,1433,13596,0.15399999999999991,0.05133333333333331,0.29,0.288,412,1021,9.49,13.0,8.07,3,4
+CDL2CROWS,bearish,reversal,bearish mean reversion,stock,4,two_crows,3,uptrend,1665,4899,1429,17551,0.08399999999999996,0.027999999999999987,0.29,0.216,309,1120,12.28,18.96,10.44,3,4
+CDL2CROWS,bearish,reversal,bearish mean reversion,stock,5,two_crows,3,uptrend,1665,4899,1427,22168,0.02000000000000013,0.00666666666666671,0.29,0.17,242,1185,15.53,28.9,12.81,3,4

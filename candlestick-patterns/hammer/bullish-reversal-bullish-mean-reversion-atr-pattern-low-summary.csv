@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHAMMER,bullish,reversal,bullish mean reversion,crypto,1,hammer,1,downtrend,238,4114,1937,5885,0.03700000000000003,0.03700000000000003,0.47,0.517,1001,936,3.04,3.09,2.99,8,10
+CDLHAMMER,bullish,reversal,bullish mean reversion,crypto,2,hammer,1,downtrend,238,4000,1884,10426,0.17400000000000004,0.17400000000000004,0.47,0.392,738,1146,5.53,6.82,4.71,5,10
+CDLHAMMER,bullish,reversal,bullish mean reversion,crypto,3,hammer,1,downtrend,238,3914,1839,15355,0.20599999999999996,0.20599999999999996,0.47,0.302,555,1284,8.35,12.4,6.6,4,12
+CDLHAMMER,bullish,reversal,bullish mean reversion,crypto,4,hammer,1,downtrend,238,3864,1809,17662,0.30400000000000005,0.30400000000000005,0.47,0.261,472,1337,9.76,14.51,8.09,4,18
+CDLHAMMER,bullish,reversal,bullish mean reversion,crypto,5,hammer,1,downtrend,238,3800,1779,20616,0.375,0.375,0.47,0.229,407,1372,11.59,19.36,9.28,4,18
+CDLHAMMER,bullish,reversal,bullish mean reversion,forex,1,hammer,1,downtrend,1193,61921,34600,71152,-0.12400000000000005,-0.12400000000000005,0.56,0.436,15085,19515,2.06,2.26,1.9,16,12
+CDLHAMMER,bullish,reversal,bullish mean reversion,forex,2,hammer,1,downtrend,1193,59255,32993,143495,-0.038000000000000034,-0.038000000000000034,0.56,0.321,10603,22390,4.35,5.63,3.74,5,29
+CDLHAMMER,bullish,reversal,bullish mean reversion,forex,3,hammer,1,downtrend,1193,57884,32181,201006,-0.025000000000000022,-0.025000000000000022,0.56,0.245,7900,24281,6.25,9.4,5.22,4,31
+CDLHAMMER,bullish,reversal,bullish mean reversion,forex,4,hammer,1,downtrend,1193,56860,31630,249842,0.0,0.0,0.56,0.2,6312,25318,7.9,14.26,6.31,4,36
+CDLHAMMER,bullish,reversal,bullish mean reversion,forex,5,hammer,1,downtrend,1193,55993,31147,294767,0.01000000000000012,0.01000000000000012,0.56,0.168,5227,25920,9.46,19.68,7.4,4,47
+CDLHAMMER,bullish,reversal,bullish mean reversion,stock,1,hammer,1,downtrend,5886,198922,96651,329397,0.09900000000000003,0.09900000000000003,0.49,0.549,53051,43600,3.41,3.42,3.39,19,11
+CDLHAMMER,bullish,reversal,bullish mean reversion,stock,2,hammer,1,downtrend,5886,194380,94074,580417,0.19000000000000006,0.19000000000000006,0.48,0.395,37147,56927,6.17,7.43,5.34,9,17
+CDLHAMMER,bullish,reversal,bullish mean reversion,stock,3,hammer,1,downtrend,5886,190885,92097,807857,0.2430000000000001,0.2430000000000001,0.48,0.311,28611,63486,8.77,12.78,6.96,9,22
+CDLHAMMER,bullish,reversal,bullish mean reversion,stock,4,hammer,1,downtrend,5886,188060,90569,1027624,0.29600000000000004,0.29600000000000004,0.48,0.259,23478,67091,11.35,19.39,8.53,9,22
+CDLHAMMER,bullish,reversal,bullish mean reversion,stock,5,hammer,1,downtrend,5886,185668,89312,1245013,0.3400000000000001,0.3400000000000001,0.48,0.224,19987,69325,13.94,27.37,10.07,6,28

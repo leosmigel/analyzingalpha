@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLINNECK,bearish,continuation,bearish mean reversion,forex,1,in_neck,2,downtrend,2,4,1,2,1.0,0.5,0.25,1.0,1,0,2.0,2.0,,1,0
+CDLINNECK,bearish,continuation,bearish mean reversion,forex,2,in_neck,2,downtrend,2,4,1,2,2.0,1.0,0.25,1.0,1,0,2.0,2.0,,1,0
+CDLINNECK,bearish,continuation,bearish mean reversion,forex,3,in_neck,2,downtrend,2,4,1,4,3.0,1.5,0.25,1.0,1,0,4.0,4.0,,1,0
+CDLINNECK,bearish,continuation,bearish mean reversion,forex,4,in_neck,2,downtrend,2,3,1,28,-1.0,-0.5,0.33,0.0,0,1,28.0,,28.0,0,1
+CDLINNECK,bearish,continuation,bearish mean reversion,forex,5,in_neck,2,downtrend,2,3,1,28,-1.0,-0.5,0.33,0.0,0,1,28.0,,28.0,0,1
+CDLINNECK,bearish,continuation,bearish mean reversion,stock,1,in_neck,2,downtrend,3123,13427,4308,15356,0.14099999999999996,0.07049999999999998,0.32,0.571,2460,1848,3.56,3.45,3.72,7,5
+CDLINNECK,bearish,continuation,bearish mean reversion,stock,2,in_neck,2,downtrend,3123,13397,4288,31450,0.10199999999999998,0.05099999999999999,0.32,0.366,1569,2719,7.33,8.35,6.75,7,8
+CDLINNECK,bearish,continuation,bearish mean reversion,stock,3,in_neck,2,downtrend,3123,13367,4271,46273,0.07100000000000006,0.03550000000000003,0.32,0.267,1140,3131,10.83,14.54,9.48,6,8
+CDLINNECK,bearish,continuation,bearish mean reversion,stock,4,in_neck,2,downtrend,3123,13345,4256,61020,0.03799999999999992,0.01899999999999996,0.32,0.207,879,3377,14.34,22.35,12.25,5,8
+CDLINNECK,bearish,continuation,bearish mean reversion,stock,5,in_neck,2,downtrend,3123,13314,4240,73025,-0.029999999999999916,-0.014999999999999958,0.32,0.162,687,3553,17.22,31.96,14.37,4,8

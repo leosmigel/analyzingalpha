@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,crypto,1,inverted_hammer,1,downtrend,176,963,676,2957,0.179,0.179,0.7,0.589,398,278,4.37,4.17,4.67,12,5
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,crypto,2,inverted_hammer,1,downtrend,176,928,644,5478,0.28,0.28,0.69,0.425,274,370,8.51,11.02,6.64,5,7
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,crypto,3,inverted_hammer,1,downtrend,176,910,628,7492,0.3570000000000001,0.3570000000000001,0.69,0.339,213,415,11.93,16.29,9.69,4,7
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,crypto,4,inverted_hammer,1,downtrend,176,899,620,8785,0.508,0.508,0.69,0.302,187,433,14.17,22.99,10.36,4,7
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,crypto,5,inverted_hammer,1,downtrend,176,892,610,9592,0.6200000000000001,0.6200000000000001,0.68,0.27,165,445,15.72,26.52,11.72,4,8
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,forex,1,inverted_hammer,1,downtrend,697,4394,2861,12775,0.15699999999999997,0.15699999999999997,0.65,0.577,1652,1209,4.47,4.73,4.11,10,10
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,forex,2,inverted_hammer,1,downtrend,697,4221,2734,34823,0.10399999999999998,0.10399999999999998,0.65,0.367,1004,1730,12.74,15.07,11.38,7,12
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,forex,3,inverted_hammer,1,downtrend,697,4176,2700,49933,0.04600000000000004,0.04600000000000004,0.65,0.262,707,1993,18.49,27.34,15.35,5,14
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,forex,4,inverted_hammer,1,downtrend,697,4152,2678,60883,0.041999999999999926,0.041999999999999926,0.64,0.208,556,2122,22.73,40.21,18.16,5,14
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,forex,5,inverted_hammer,1,downtrend,697,4129,2657,71900,0.02000000000000013,0.02000000000000013,0.64,0.17,451,2206,27.06,53.42,21.67,3,23
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,stock,1,inverted_hammer,1,downtrend,5725,165885,108755,369489,0.10100000000000003,0.10100000000000003,0.66,0.551,59946,48809,3.4,3.44,3.35,17,12
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,stock,2,inverted_hammer,1,downtrend,5725,160329,104853,648512,0.19400000000000006,0.19400000000000006,0.65,0.397,41592,63261,6.18,7.55,5.28,8,15
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,stock,3,inverted_hammer,1,downtrend,5725,156342,102050,902680,0.246,0.246,0.65,0.312,31871,70179,8.85,12.96,6.98,6,22
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,stock,4,inverted_hammer,1,downtrend,5725,153414,99992,1130476,0.29600000000000004,0.29600000000000004,0.65,0.259,25905,74087,11.31,19.55,8.42,5,26
+CDLINVERTEDHAMMER,bullish,reversal,bullish mean reversion,stock,5,inverted_hammer,1,downtrend,5725,150995,98301,1341523,0.33499999999999996,0.33499999999999996,0.65,0.223,21923,76378,13.65,27.09,9.79,5,32

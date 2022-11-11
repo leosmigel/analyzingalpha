@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,crypto,1,unique_three_river_bottom,3,downtrend,7,15,15,48,-0.063,-0.021,1.0,0.467,7,8,3.2,4.43,2.12,2,2
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,crypto,2,unique_three_river_bottom,3,downtrend,7,15,15,73,0.404,0.13466666666666668,1.0,0.467,7,8,4.87,8.0,2.12,2,2
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,crypto,3,unique_three_river_bottom,3,downtrend,7,15,15,95,0.6000000000000002,0.20000000000000007,1.0,0.4,6,9,6.33,9.67,4.11,2,2
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,crypto,4,unique_three_river_bottom,3,downtrend,7,15,15,113,0.662,0.22066666666666668,1.0,0.333,5,10,7.53,14.2,4.2,2,2
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,crypto,5,unique_three_river_bottom,3,downtrend,7,15,15,125,0.995,0.33166666666666667,1.0,0.333,5,10,8.33,16.6,4.2,2,2
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,forex,1,unique_three_river_bottom,3,downtrend,100,329,315,1356,-0.343,-0.11433333333333334,0.96,0.327,103,212,4.3,4.32,4.3,2,8
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,forex,2,unique_three_river_bottom,3,downtrend,100,327,314,2273,-0.398,-0.13266666666666668,0.96,0.201,63,251,7.24,6.46,7.43,2,8
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,forex,3,unique_three_river_bottom,3,downtrend,100,327,314,2857,-0.372,-0.124,0.96,0.156,49,265,9.1,14.16,8.16,2,8
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,forex,4,unique_three_river_bottom,3,downtrend,100,327,314,3278,-0.346,-0.11533333333333333,0.96,0.131,41,273,10.44,19.59,9.07,2,8
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,forex,5,unique_three_river_bottom,3,downtrend,100,327,314,3928,-0.33499999999999996,-0.11166666666666665,0.96,0.111,35,279,12.51,38.63,9.23,2,8
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,stock,1,unique_three_river_bottom,3,downtrend,2778,10254,9414,30964,-0.016000000000000014,-0.005333333333333338,0.92,0.494,4647,4767,3.29,3.43,3.15,7,7
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,stock,2,unique_three_river_bottom,3,downtrend,2778,10233,9387,52801,0.07599999999999996,0.02533333333333332,0.92,0.358,3365,6022,5.62,7.3,4.69,6,10
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,stock,3,unique_three_river_bottom,3,downtrend,2778,10217,9370,75640,0.15399999999999991,0.05133333333333331,0.92,0.288,2698,6672,8.07,12.71,6.2,6,10
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,stock,4,unique_three_river_bottom,3,downtrend,2778,10204,9352,98680,0.20799999999999996,0.06933333333333332,0.92,0.242,2266,7086,10.55,19.32,7.75,5,10
+CDLUNIQUE3RIVER,bullish,reversal,bullish reversal,stock,5,unique_three_river_bottom,3,downtrend,2778,10187,9332,120245,0.2549999999999999,0.08499999999999996,0.92,0.209,1950,7382,12.89,25.69,9.5,5,10

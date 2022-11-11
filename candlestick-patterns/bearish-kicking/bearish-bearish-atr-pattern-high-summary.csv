@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLKICKING,bearish,,bearish,stock,1,bearish_kicking,2,none,176,508,74,400,0.16099999999999998,0.08049999999999999,0.15,0.581,43,31,5.41,4.47,6.71,2,2
+CDLKICKING,bearish,,bearish,stock,2,bearish_kicking,2,none,176,508,74,719,0.538,0.269,0.15,0.514,38,36,9.72,10.29,9.11,2,2
+CDLKICKING,bearish,,bearish,stock,3,bearish_kicking,2,none,176,508,74,1026,0.2919999999999999,0.14599999999999996,0.15,0.324,24,50,13.86,12.5,14.52,2,3
+CDLKICKING,bearish,,bearish,stock,4,bearish_kicking,2,none,176,508,74,1800,0.21199999999999997,0.10599999999999998,0.15,0.243,18,56,24.32,44.5,17.84,2,3
+CDLKICKING,bearish,,bearish,stock,5,bearish_kicking,2,none,176,508,74,2389,0.135,0.0675,0.15,0.189,14,60,32.28,66.07,24.4,2,3

@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,1,downside_tasuki_gap,3,downtrend,3,6,1,4,1.0,0.3333333333333333,0.17,1.0,1,0,4.0,4.0,,1,0
+CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,2,downside_tasuki_gap,3,downtrend,3,6,1,9,2.0,0.6666666666666666,0.17,1.0,1,0,9.0,9.0,,1,0
+CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,3,downside_tasuki_gap,3,downtrend,3,6,1,50,3.0,1.0,0.17,1.0,1,0,50.0,50.0,,1,0
+CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,4,downside_tasuki_gap,3,downtrend,3,6,1,50,4.0,1.3333333333333333,0.17,1.0,1,0,50.0,50.0,,1,0
+CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,5,downside_tasuki_gap,3,downtrend,3,6,1,93,-1.0,-0.3333333333333333,0.17,0.0,0,1,93.0,,93.0,0,1
+CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,1,downside_tasuki_gap,3,downtrend,28,60,29,148,-0.241,-0.08033333333333333,0.48,0.379,11,18,5.1,8.09,3.28,2,2
+CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,2,downside_tasuki_gap,3,downtrend,28,60,29,219,-0.37600000000000006,-0.12533333333333335,0.48,0.207,6,23,7.55,10.83,6.7,2,2
+CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,3,downside_tasuki_gap,3,downtrend,28,60,29,277,-0.16900000000000004,-0.056333333333333346,0.48,0.207,6,23,9.55,20.5,6.7,2,2
+CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,4,downside_tasuki_gap,3,downtrend,28,59,29,611,-0.14200000000000002,-0.04733333333333334,0.49,0.172,5,24,21.07,86.2,7.5,2,2
+CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,5,downside_tasuki_gap,3,downtrend,28,58,29,1154,-0.16999999999999993,-0.05666666666666664,0.5,0.138,4,25,39.79,218.75,11.16,2,2
+CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,1,downside_tasuki_gap,3,downtrend,3270,17084,9190,71560,-0.13899999999999996,-0.04633333333333332,0.54,0.431,3957,5233,7.79,7.54,7.97,8,8
+CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,2,downside_tasuki_gap,3,downtrend,3270,16936,9070,129800,-0.18799999999999994,-0.06266666666666665,0.54,0.271,2458,6612,14.31,18.59,12.72,5,10
+CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,3,downside_tasuki_gap,3,downtrend,3270,16814,8981,180091,-0.2310000000000001,-0.07700000000000003,0.53,0.193,1733,7248,20.05,31.9,17.22,4,10
+CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,4,downside_tasuki_gap,3,downtrend,3270,16711,8900,230022,-0.262,-0.08733333333333333,0.53,0.147,1307,7593,25.85,51.9,21.36,4,10
+CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,5,downside_tasuki_gap,3,downtrend,3270,16615,8817,277006,-0.30499999999999994,-0.10166666666666664,0.53,0.115,1016,7801,31.42,73.85,25.89,3,10

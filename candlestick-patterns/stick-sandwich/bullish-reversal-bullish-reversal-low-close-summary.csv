@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSTICKSANDWICH,bullish,reversal,bullish reversal,stock,1,stick_sandwich,3,downtrend,3042,12309,7207,19008,-0.182,-0.06066666666666667,0.59,0.408,2941,4266,2.64,3.1,2.32,7,7
+CDLSTICKSANDWICH,bullish,reversal,bullish reversal,stock,2,stick_sandwich,3,downtrend,3042,12293,7193,30827,-0.09199999999999997,-0.030666666666666658,0.59,0.304,2188,5005,4.29,6.37,3.37,5,8
+CDLSTICKSANDWICH,bullish,reversal,bullish reversal,stock,3,stick_sandwich,3,downtrend,3042,12286,7182,41762,-0.006000000000000005,-0.0020000000000000018,0.58,0.248,1778,5404,5.81,10.4,4.31,4,8
+CDLSTICKSANDWICH,bullish,reversal,bullish reversal,stock,4,stick_sandwich,3,downtrend,3042,12279,7175,52931,0.05399999999999994,0.017999999999999978,0.58,0.211,1515,5660,7.38,15.8,5.12,4,8
+CDLSTICKSANDWICH,bullish,reversal,bullish reversal,stock,5,stick_sandwich,3,downtrend,3042,12266,7166,63471,0.1050000000000001,0.03500000000000003,0.58,0.185,1326,5840,8.86,21.47,5.99,3,8

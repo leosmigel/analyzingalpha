@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,crypto,1,upside_gap_three_methods,3,uptrend,78,264,189,538,-0.30100000000000005,-0.10033333333333334,0.72,0.349,66,123,2.85,3.62,2.43,3,3
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,crypto,2,upside_gap_three_methods,3,uptrend,78,263,188,1048,-0.27,-0.09000000000000001,0.71,0.245,46,142,5.57,7.52,4.94,3,6
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,crypto,3,upside_gap_three_methods,3,uptrend,78,261,186,1600,-0.246,-0.082,0.71,0.188,35,151,8.6,12.6,7.68,3,6
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,crypto,4,upside_gap_three_methods,3,uptrend,78,260,184,2587,-0.262,-0.08733333333333333,0.71,0.147,27,157,14.06,40.93,9.44,3,6
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,crypto,5,upside_gap_three_methods,3,uptrend,78,256,177,2086,-0.32499999999999996,-0.10833333333333332,0.69,0.113,20,157,11.79,27.15,9.83,2,6
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,forex,1,upside_gap_three_methods,3,uptrend,469,2704,1946,7211,-0.28,-0.09333333333333334,0.72,0.36,700,1246,3.71,5.07,2.94,6,7
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,forex,2,upside_gap_three_methods,3,uptrend,469,2688,1938,14844,-0.274,-0.09133333333333334,0.72,0.243,471,1467,7.66,14.56,5.45,5,12
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,forex,3,upside_gap_three_methods,3,uptrend,469,2667,1924,24179,-0.28300000000000003,-0.09433333333333334,0.72,0.179,345,1579,12.57,19.23,11.11,4,12
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,forex,4,upside_gap_three_methods,3,uptrend,469,2656,1918,30721,-0.33799999999999997,-0.11266666666666665,0.72,0.133,255,1663,16.02,26.58,14.4,4,12
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,forex,5,upside_gap_three_methods,3,uptrend,469,2647,1914,34494,-0.32999999999999996,-0.10999999999999999,0.72,0.112,215,1699,18.02,43.46,14.8,3,12
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,stock,1,upside_gap_three_methods,3,uptrend,3320,23730,18832,44338,-0.21799999999999997,-0.07266666666666666,0.79,0.392,7382,11450,2.35,2.67,2.15,11,11
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,stock,2,upside_gap_three_methods,3,uptrend,3320,23696,18805,72500,-0.18799999999999994,-0.06266666666666665,0.79,0.271,5105,13700,3.86,5.55,3.22,8,14
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,stock,3,upside_gap_three_methods,3,uptrend,3320,23667,18773,97124,-0.18800000000000006,-0.06266666666666669,0.79,0.204,3835,14938,5.17,8.87,4.22,7,15
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,stock,4,upside_gap_three_methods,3,uptrend,3320,23633,18733,122901,-0.19599999999999995,-0.06533333333333331,0.79,0.161,3010,15723,6.56,12.5,5.42,7,16
+CDLXSIDEGAP3METHODS,bullish,continuation,bearish reversal,stock,5,upside_gap_three_methods,3,uptrend,3320,23600,18697,147154,-0.20499999999999996,-0.06833333333333332,0.79,0.133,2484,16213,7.87,17.07,6.46,5,16

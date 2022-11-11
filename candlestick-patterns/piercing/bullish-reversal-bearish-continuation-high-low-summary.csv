@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLPIERCING,bullish,reversal,bearish continuation,forex,1,piercing,2,downtrend,22,54,20,99,0.0,0.0,0.37,0.5,10,10,4.95,7.8,2.1,2,2
+CDLPIERCING,bullish,reversal,bearish continuation,forex,2,piercing,2,downtrend,22,54,20,191,0.20000000000000007,0.10000000000000003,0.37,0.4,8,12,9.55,16.0,5.25,1,2
+CDLPIERCING,bullish,reversal,bearish continuation,forex,3,piercing,2,downtrend,22,54,20,283,0.0,0.0,0.37,0.25,5,15,14.15,19.8,12.27,1,2
+CDLPIERCING,bullish,reversal,bearish continuation,forex,4,piercing,2,downtrend,22,54,20,352,-0.5,-0.25,0.37,0.1,2,18,17.6,36.0,15.56,1,2
+CDLPIERCING,bullish,reversal,bearish continuation,forex,5,piercing,2,downtrend,22,54,20,386,-0.7,-0.35,0.37,0.05,1,19,19.3,94.0,15.37,1,2
+CDLPIERCING,bullish,reversal,bearish continuation,stock,1,piercing,2,downtrend,3541,21436,7768,32054,-0.261,-0.1305,0.36,0.369,2864,4904,4.13,4.69,3.8,6,7
+CDLPIERCING,bullish,reversal,bearish continuation,stock,2,piercing,2,downtrend,3541,21349,7728,52876,-0.28800000000000003,-0.14400000000000002,0.36,0.236,1820,5908,6.84,10.42,5.74,5,10
+CDLPIERCING,bullish,reversal,bearish continuation,stock,3,piercing,2,downtrend,3541,21274,7689,75571,-0.31999999999999995,-0.15999999999999998,0.36,0.17,1309,6380,9.83,17.98,8.16,5,10
+CDLPIERCING,bullish,reversal,bearish continuation,stock,4,piercing,2,downtrend,3541,21226,7659,93304,-0.34199999999999997,-0.17099999999999999,0.36,0.132,1010,6649,12.18,28.1,9.76,4,10
+CDLPIERCING,bullish,reversal,bearish continuation,stock,5,piercing,2,downtrend,3541,21173,7628,113066,-0.38,-0.19,0.36,0.104,794,6834,14.82,42.72,11.58,4,10

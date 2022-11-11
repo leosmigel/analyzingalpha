@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,crypto,1,down_gap_side_by_side,3,downtrend,11,26,8,16,0.0,0.0,0.31,0.5,4,4,2.0,2.25,1.75,1,1
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,crypto,2,down_gap_side_by_side,3,downtrend,11,26,8,28,0.13,0.043333333333333335,0.31,0.375,3,5,3.5,6.0,2.0,1,2
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,crypto,3,down_gap_side_by_side,3,downtrend,11,26,8,31,0.0,0.0,0.31,0.25,2,6,3.88,9.0,2.17,1,2
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,crypto,4,down_gap_side_by_side,3,downtrend,11,26,8,74,0.25,0.08333333333333333,0.31,0.25,2,6,9.25,30.5,2.17,1,2
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,crypto,5,down_gap_side_by_side,3,downtrend,11,26,8,115,0.5,0.16666666666666666,0.31,0.25,2,6,14.38,51.0,2.17,1,2
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,forex,1,down_gap_side_by_side,3,downtrend,200,750,314,1305,0.241,0.08033333333333333,0.42,0.621,195,119,4.16,1.66,8.24,6,3
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,forex,2,down_gap_side_by_side,3,downtrend,200,738,306,4630,0.264,0.08800000000000001,0.41,0.422,129,177,15.13,9.0,19.6,4,5
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,forex,3,down_gap_side_by_side,3,downtrend,200,733,301,7734,0.03700000000000003,0.012333333333333344,0.41,0.259,78,223,25.69,15.64,29.21,2,6
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,forex,4,down_gap_side_by_side,3,downtrend,200,727,298,9305,-0.04600000000000004,-0.015333333333333346,0.41,0.191,57,241,31.22,23.0,33.17,2,6
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,forex,5,down_gap_side_by_side,3,downtrend,200,726,298,11342,0.01000000000000012,0.0033333333333333734,0.41,0.168,50,248,38.06,61.84,33.27,2,6
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,stock,1,down_gap_side_by_side,3,downtrend,3417,39287,11720,39550,-0.04200000000000004,-0.014000000000000012,0.3,0.478,5603,6117,3.37,3.6,3.16,6,9
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,stock,2,down_gap_side_by_side,3,downtrend,3417,38931,11591,63566,0.07599999999999996,0.02533333333333332,0.3,0.358,4151,7440,5.48,6.66,4.83,5,12
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,stock,3,down_gap_side_by_side,3,downtrend,3417,38649,11499,86245,0.1479999999999999,0.049333333333333305,0.3,0.286,3286,8213,7.5,11.05,6.08,4,13
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,stock,4,down_gap_side_by_side,3,downtrend,3417,38431,11415,105891,0.19999999999999996,0.06666666666666665,0.3,0.24,2740,8675,9.28,15.94,7.17,3,20
+CDLGAPSIDESIDEWHITE,bearish,continuation,bullish mean reversion,stock,5,down_gap_side_by_side,3,downtrend,3417,38239,11357,126016,0.25,0.08333333333333333,0.3,0.208,2362,8995,11.1,21.79,8.29,3,20

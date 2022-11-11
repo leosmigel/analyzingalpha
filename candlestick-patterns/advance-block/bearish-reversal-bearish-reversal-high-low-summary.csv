@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,1,advance_block,3,uptrend,178,1120,683,3377,-0.36100000000000004,-0.12033333333333335,0.61,0.319,218,465,4.94,7.54,3.73,4,6
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,2,advance_block,3,uptrend,178,1076,648,5939,-0.35000000000000003,-0.11666666666666668,0.6,0.215,139,509,9.17,18.4,6.64,4,11
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,3,advance_block,3,uptrend,178,1061,635,8106,-0.363,-0.121,0.6,0.159,101,534,12.77,23.74,10.69,3,14
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,4,advance_block,3,uptrend,178,1049,621,9789,-0.404,-0.13466666666666668,0.59,0.119,74,547,15.76,19.86,15.21,3,14
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,5,advance_block,3,uptrend,178,1045,613,10419,-0.44500000000000006,-0.14833333333333334,0.59,0.093,57,556,17.0,25.35,16.14,2,14
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,1,advance_block,3,uptrend,1072,19854,10213,35882,-0.19499999999999995,-0.06499999999999999,0.51,0.405,4138,6075,3.51,3.63,3.43,18,16
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,2,advance_block,3,uptrend,1072,19753,10153,56800,-0.126,-0.042,0.51,0.292,2965,7188,5.59,7.17,4.95,18,27
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,3,advance_block,3,uptrend,1072,19624,10088,80937,-0.07699999999999996,-0.025666666666666654,0.51,0.231,2327,7761,8.02,11.59,6.95,18,29
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,4,advance_block,3,uptrend,1072,19540,10033,100475,-0.05400000000000005,-0.018000000000000016,0.51,0.189,1896,8137,10.01,18.11,8.13,18,36
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,5,advance_block,3,uptrend,1072,19452,9977,122112,-0.04499999999999993,-0.014999999999999977,0.51,0.159,1590,8387,12.24,23.82,10.04,18,48
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,1,advance_block,3,uptrend,4086,59434,36363,102079,-0.21999999999999997,-0.07333333333333332,0.61,0.39,14183,22180,2.81,3.24,2.53,17,16
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,2,advance_block,3,uptrend,4086,59278,36243,168116,-0.21799999999999997,-0.07266666666666666,0.61,0.261,9476,26767,4.64,6.74,3.9,11,20
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,3,advance_block,3,uptrend,4086,59108,36116,232762,-0.21199999999999997,-0.07066666666666666,0.61,0.196,7065,29051,6.44,12.0,5.09,10,22
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,4,advance_block,3,uptrend,4086,58850,35951,299685,-0.23399999999999999,-0.078,0.61,0.154,5541,30410,8.34,18.68,6.45,9,27
+CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,5,advance_block,3,uptrend,4086,58615,35797,364443,-0.235,-0.07833333333333332,0.61,0.127,4534,31263,10.18,25.01,8.03,8,27

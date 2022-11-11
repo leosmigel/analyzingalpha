@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHANGINGMAN,bearish,reversal,bullish continuation,crypto,1,hanging_man,1,uptrend,204,2401,1714,5368,-0.11800000000000005,-0.11800000000000005,0.71,0.442,758,956,3.13,3.18,3.09,10,8
+CDLHANGINGMAN,bearish,reversal,bullish continuation,crypto,2,hanging_man,1,uptrend,204,2324,1660,7986,0.02400000000000002,0.02400000000000002,0.71,0.342,567,1093,4.81,6.08,4.15,4,11
+CDLHANGINGMAN,bearish,reversal,bullish continuation,crypto,3,hanging_man,1,uptrend,204,2279,1622,9674,0.08900000000000008,0.08900000000000008,0.71,0.273,443,1179,5.96,8.26,5.1,4,15
+CDLHANGINGMAN,bearish,reversal,bullish continuation,crypto,4,hanging_man,1,uptrend,204,2236,1590,10955,0.19199999999999995,0.19199999999999995,0.71,0.238,378,1212,6.89,10.53,5.75,3,18
+CDLHANGINGMAN,bearish,reversal,bullish continuation,crypto,5,hanging_man,1,uptrend,204,2209,1568,11893,0.29499999999999993,0.29499999999999993,0.71,0.215,337,1231,7.58,12.08,6.35,3,18
+CDLHANGINGMAN,bearish,reversal,bullish continuation,forex,1,hanging_man,1,uptrend,1175,63802,48868,207066,-0.38099999999999995,-0.38099999999999995,0.77,0.309,15104,33764,4.24,4.54,4.1,10,77
+CDLHANGINGMAN,bearish,reversal,bullish continuation,forex,2,hanging_man,1,uptrend,1175,60467,46235,282320,-0.338,-0.338,0.76,0.221,10201,36034,6.11,8.85,5.33,8,110
+CDLHANGINGMAN,bearish,reversal,bullish continuation,forex,3,hanging_man,1,uptrend,1175,58488,44677,339573,-0.31699999999999995,-0.31699999999999995,0.76,0.171,7622,37055,7.6,13.32,6.42,6,110
+CDLHANGINGMAN,bearish,reversal,bullish continuation,forex,4,hanging_man,1,uptrend,1175,57038,43521,381473,-0.30399999999999994,-0.30399999999999994,0.76,0.139,6034,37487,8.77,18.15,7.26,6,119
+CDLHANGINGMAN,bearish,reversal,bullish continuation,forex,5,hanging_man,1,uptrend,1175,55932,42589,424707,-0.29499999999999993,-0.29499999999999993,0.76,0.117,4992,37597,9.97,24.2,8.08,6,119
+CDLHANGINGMAN,bearish,reversal,bullish continuation,stock,1,hanging_man,1,uptrend,5365,228648,178001,488489,-0.08300000000000002,-0.08300000000000002,0.78,0.457,81283,96718,2.74,2.84,2.66,8,13
+CDLHANGINGMAN,bearish,reversal,bullish continuation,stock,2,hanging_man,1,uptrend,5365,220950,171956,730302,-0.0040000000000000036,-0.0040000000000000036,0.78,0.333,57300,114656,4.25,5.41,3.67,7,22
+CDLHANGINGMAN,bearish,reversal,bullish continuation,stock,3,hanging_man,1,uptrend,5365,214860,167130,943631,0.05500000000000005,0.05500000000000005,0.78,0.265,44327,122803,5.65,8.64,4.57,6,26
+CDLHANGINGMAN,bearish,reversal,bullish continuation,stock,4,hanging_man,1,uptrend,5365,209756,163033,1136822,0.10799999999999998,0.10799999999999998,0.78,0.222,36115,126918,6.97,12.46,5.41,6,34
+CDLHANGINGMAN,bearish,reversal,bullish continuation,stock,5,hanging_man,1,uptrend,5365,205413,159618,1311050,0.1499999999999999,0.1499999999999999,0.78,0.192,30673,128945,8.21,16.8,6.17,6,50

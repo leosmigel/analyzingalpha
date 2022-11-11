@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,crypto,1,three_outside_up,3,downtrend,157,986,518,2528,0.05700000000000005,0.019000000000000017,0.53,0.527,273,245,4.88,5.58,4.1,8,3
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,crypto,2,three_outside_up,3,downtrend,157,952,494,5199,-0.04800000000000004,-0.016000000000000014,0.52,0.316,156,338,10.52,13.9,8.97,6,7
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,crypto,3,three_outside_up,3,downtrend,157,931,479,7687,-0.04600000000000004,-0.015333333333333346,0.51,0.238,114,365,16.05,29.43,11.87,5,8
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,crypto,4,three_outside_up,3,downtrend,157,909,465,8469,-0.05400000000000005,-0.018000000000000016,0.51,0.189,88,377,18.21,34.75,14.35,4,8
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,crypto,5,three_outside_up,3,downtrend,157,880,447,10785,-0.10999999999999999,-0.03666666666666666,0.51,0.148,66,381,24.13,44.03,20.68,4,9
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,forex,1,three_outside_up,3,downtrend,731,8778,5241,23211,0.28,0.09333333333333334,0.6,0.64,3356,1885,4.43,3.97,5.24,17,6
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,forex,2,three_outside_up,3,downtrend,731,8616,5132,51657,0.252,0.084,0.6,0.416,2134,2998,10.07,11.14,9.3,11,12
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,forex,3,three_outside_up,3,downtrend,731,8455,5024,79316,0.23399999999999999,0.078,0.59,0.308,1547,3477,15.79,21.85,13.09,9,12
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,forex,4,three_outside_up,3,downtrend,731,8291,4905,105358,0.17999999999999994,0.05999999999999998,0.59,0.235,1153,3752,21.48,37.4,16.59,8,13
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,forex,5,three_outside_up,3,downtrend,731,8156,4819,125314,0.15999999999999992,0.05333333333333331,0.59,0.194,935,3884,26.0,53.68,19.34,7,15
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,stock,1,three_outside_up,3,downtrend,4824,73079,43890,168930,0.15599999999999997,0.05199999999999999,0.6,0.576,25260,18630,3.85,3.63,4.15,22,11
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,stock,2,three_outside_up,3,downtrend,4824,71630,42913,327619,0.11399999999999999,0.038,0.6,0.372,15973,26940,7.63,9.06,6.79,17,13
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,stock,3,three_outside_up,3,downtrend,4824,70238,41968,470293,0.1080000000000001,0.03600000000000003,0.6,0.276,11567,30401,11.21,16.4,9.23,14,19
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,stock,4,three_outside_up,3,downtrend,4824,68968,41149,610809,0.08399999999999996,0.027999999999999987,0.6,0.216,8878,32271,14.84,24.89,12.08,12,20
+CDL3OUTSIDE,bullish,reversal,bearish mean reversion,stock,5,three_outside_up,3,downtrend,4824,67749,40341,754623,0.039999999999999925,0.013333333333333308,0.6,0.174,7025,33316,18.71,35.24,15.22,10,21

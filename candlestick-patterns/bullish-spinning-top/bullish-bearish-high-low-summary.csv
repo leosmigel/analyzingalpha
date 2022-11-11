@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSPINNINGTOP,bullish,,bearish,crypto,1,bullish_spinning_top,1,none,253,15295,9308,48894,-0.236,-0.236,0.61,0.384,3571,5737,5.25,5.15,5.32,62,18
+CDLSPINNINGTOP,bullish,,bearish,crypto,2,bullish_spinning_top,1,none,253,12427,7534,71902,-0.258,-0.258,0.61,0.246,1853,5681,9.54,13.87,8.13,33,21
+CDLSPINNINGTOP,bullish,,bearish,crypto,3,bullish_spinning_top,1,none,253,10024,6032,80234,-0.29500000000000004,-0.29500000000000004,0.6,0.175,1055,4977,13.3,20.27,11.82,24,42
+CDLSPINNINGTOP,bullish,,bearish,crypto,4,bullish_spinning_top,1,none,253,8620,5113,90436,-0.346,-0.346,0.59,0.131,672,4441,17.69,30.4,15.76,21,42
+CDLSPINNINGTOP,bullish,,bearish,crypto,5,bullish_spinning_top,1,none,253,7234,4243,96606,-0.41000000000000003,-0.41000000000000003,0.59,0.098,414,3829,22.77,42.81,20.6,17,41
+CDLSPINNINGTOP,bullish,,bearish,forex,1,bullish_spinning_top,1,none,1126,253506,155677,542348,-0.31600000000000006,-0.31600000000000006,0.61,0.344,53622,102055,3.48,4.26,3.08,249,57
+CDLSPINNINGTOP,bullish,,bearish,forex,2,bullish_spinning_top,1,none,1126,226160,139016,798140,-0.28,-0.28,0.61,0.24,33332,105684,5.74,9.03,4.7,198,126
+CDLSPINNINGTOP,bullish,,bearish,forex,3,bullish_spinning_top,1,none,1126,204070,125232,1003260,-0.277,-0.277,0.61,0.181,22677,102555,8.01,15.47,6.36,116,135
+CDLSPINNINGTOP,bullish,,bearish,forex,4,bullish_spinning_top,1,none,1126,186919,114591,1153510,-0.266,-0.266,0.61,0.146,16749,97842,10.07,22.94,7.86,101,135
+CDLSPINNINGTOP,bullish,,bearish,forex,5,bullish_spinning_top,1,none,1126,173479,106246,1281824,-0.27,-0.27,0.61,0.122,12910,93336,12.06,32.48,9.24,72,145
+CDLSPINNINGTOP,bullish,,bearish,stock,1,bullish_spinning_top,1,none,6203,1283075,809427,2395433,-0.179,-0.179,0.63,0.411,332567,476860,2.96,3.29,2.73,226,14
+CDLSPINNINGTOP,bullish,,bearish,stock,2,bullish_spinning_top,1,none,6203,1162298,733843,3589662,-0.16399999999999992,-0.16399999999999992,0.63,0.278,203804,530039,4.89,6.84,4.14,163,28
+CDLSPINNINGTOP,bullish,,bearish,stock,3,bullish_spinning_top,1,none,6203,1063551,671834,4532162,-0.17200000000000004,-0.17200000000000004,0.63,0.206,138540,533294,6.75,11.45,5.52,123,37
+CDLSPINNINGTOP,bullish,,bearish,stock,4,bullish_spinning_top,1,none,6203,977694,617662,5261111,-0.19199999999999995,-0.19199999999999995,0.63,0.162,100130,517532,8.52,17.02,6.87,93,70
+CDLSPINNINGTOP,bullish,,bearish,stock,5,bullish_spinning_top,1,none,6203,906904,572907,5857515,-0.20999999999999996,-0.20999999999999996,0.63,0.132,75883,497024,10.22,23.5,8.2,74,70

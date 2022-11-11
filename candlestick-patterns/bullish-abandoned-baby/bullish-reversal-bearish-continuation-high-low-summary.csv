@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLABANDONEDBABY,bullish,reversal,bearish continuation,stock,1,bullish_abandoned_baby,3,downtrend,30,63,33,36,-0.8190000000000001,-0.273,0.52,0.091,3,30,1.09,2.0,1.0,1,2
+CDLABANDONEDBABY,bullish,reversal,bearish continuation,stock,2,bullish_abandoned_baby,3,downtrend,30,63,33,36,-0.728,-0.24266666666666667,0.52,0.091,3,30,1.09,2.0,1.0,1,2
+CDLABANDONEDBABY,bullish,reversal,bearish continuation,stock,3,bullish_abandoned_baby,3,downtrend,30,63,33,49,-0.7569999999999999,-0.2523333333333333,0.52,0.061,2,31,1.48,1.0,1.52,1,2
+CDLABANDONEDBABY,bullish,reversal,bearish continuation,stock,4,bullish_abandoned_baby,3,downtrend,30,63,33,49,-0.696,-0.23199999999999998,0.52,0.061,2,31,1.48,1.0,1.52,1,2
+CDLABANDONEDBABY,bullish,reversal,bearish continuation,stock,5,bullish_abandoned_baby,3,downtrend,30,63,33,49,-0.635,-0.21166666666666667,0.52,0.061,2,31,1.48,1.0,1.52,1,2

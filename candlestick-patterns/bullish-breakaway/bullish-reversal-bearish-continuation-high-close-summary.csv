@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLBREAKAWAY,bullish,reversal,bearish continuation,stock,1,bullish_breakaway,5,downtrend,37,75,70,73,-0.941,-0.18819999999999998,0.93,0.029,2,68,1.04,2.5,1.0,1,2
+CDLBREAKAWAY,bullish,reversal,bearish continuation,stock,2,bullish_breakaway,5,downtrend,37,75,70,73,-0.9119999999999999,-0.18239999999999998,0.93,0.029,2,68,1.04,2.5,1.0,1,2
+CDLBREAKAWAY,bullish,reversal,bearish continuation,stock,3,bullish_breakaway,5,downtrend,37,75,70,75,-0.883,-0.1766,0.93,0.029,2,68,1.07,3.5,1.0,1,2
+CDLBREAKAWAY,bullish,reversal,bearish continuation,stock,4,bullish_breakaway,5,downtrend,37,75,70,75,-0.854,-0.1708,0.93,0.029,2,68,1.07,3.5,1.0,1,2
+CDLBREAKAWAY,bullish,reversal,bearish continuation,stock,5,bullish_breakaway,5,downtrend,37,75,70,80,-0.825,-0.16499999999999998,0.93,0.029,2,68,1.14,6.0,1.0,1,2

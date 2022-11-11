@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,crypto,1,shooting_star,1,uptrend,100,357,208,373,-0.36300000000000004,-0.36300000000000004,0.58,0.317,66,142,1.79,2.45,1.49,3,4
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,crypto,2,shooting_star,1,uptrend,100,356,207,504,-0.276,-0.276,0.58,0.242,50,157,2.43,3.86,1.98,2,4
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,crypto,3,shooting_star,1,uptrend,100,356,207,621,-0.16600000000000004,-0.16600000000000004,0.58,0.208,43,164,3.0,5.77,2.27,2,4
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,crypto,4,shooting_star,1,uptrend,100,355,207,718,-0.15399999999999991,-0.15399999999999991,0.58,0.169,35,172,3.47,7.71,2.6,2,6
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,crypto,5,shooting_star,1,uptrend,100,353,206,804,-0.09999999999999998,-0.09999999999999998,0.58,0.15,31,175,3.9,9.32,2.94,2,6
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,forex,1,shooting_star,1,uptrend,494,2491,1374,3601,-0.37699999999999995,-0.37699999999999995,0.55,0.313,430,944,2.62,3.32,2.3,5,9
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,forex,2,shooting_star,1,uptrend,494,2487,1370,5547,-0.396,-0.396,0.55,0.202,277,1093,4.05,6.98,3.31,3,9
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,forex,3,shooting_star,1,uptrend,494,2483,1368,7083,-0.406,-0.406,0.55,0.148,203,1165,5.18,11.4,4.09,3,11
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,forex,4,shooting_star,1,uptrend,494,2475,1361,8910,-0.40800000000000003,-0.40800000000000003,0.55,0.118,161,1200,6.55,18.49,4.94,3,11
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,forex,5,shooting_star,1,uptrend,494,2471,1358,10376,-0.4,-0.4,0.55,0.1,136,1222,7.64,23.91,5.83,3,13
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,stock,1,shooting_star,1,uptrend,4631,105046,63865,136831,-0.21599999999999997,-0.21599999999999997,0.61,0.394,25131,38734,2.14,2.43,1.95,7,16
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,stock,2,shooting_star,1,uptrend,4631,103675,62984,201540,-0.132,-0.132,0.61,0.289,18175,44809,3.2,4.51,2.67,6,21
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,stock,3,shooting_star,1,uptrend,4631,102794,62411,260549,-0.07999999999999996,-0.07999999999999996,0.61,0.23,14327,48084,4.17,7.08,3.31,6,23
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,stock,4,shooting_star,1,uptrend,4631,102091,61940,315474,-0.04200000000000004,-0.04200000000000004,0.61,0.192,11904,50036,5.09,10.15,3.89,5,27
+CDLSHOOTINGSTAR,bearish,reversal,bullish continuation,stock,5,shooting_star,1,uptrend,4631,101440,61544,369921,1.1102230246251565e-16,1.1102230246251565e-16,0.61,0.166,10223,51321,6.01,13.71,4.48,5,30

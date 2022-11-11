@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,crypto,1,morning_star,3,downtrend,62,182,72,267,0.0,0.0,0.4,0.5,36,36,3.71,4.14,3.28,3,2
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,crypto,2,morning_star,3,downtrend,62,181,71,465,-0.06999999999999995,-0.023333333333333317,0.39,0.31,22,49,6.55,8.95,5.47,2,3
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,crypto,3,morning_star,3,downtrend,62,181,71,680,-0.20900000000000007,-0.0696666666666667,0.39,0.197,14,57,9.58,20.29,6.95,1,3
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,crypto,4,morning_star,3,downtrend,62,180,71,834,-0.362,-0.12066666666666666,0.39,0.127,9,62,11.75,29.22,9.21,1,3
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,crypto,5,morning_star,3,downtrend,62,180,70,932,-0.4800000000000001,-0.16000000000000003,0.39,0.086,6,64,13.31,32.33,11.53,1,3
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,forex,1,morning_star,3,downtrend,506,2167,1043,4851,0.24,0.08,0.48,0.62,647,396,4.65,4.1,5.55,6,3
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,forex,2,morning_star,3,downtrend,506,2146,1035,10198,0.25,0.08333333333333333,0.48,0.415,430,605,9.85,11.24,8.86,5,5
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,forex,3,morning_star,3,downtrend,506,2135,1028,15629,0.18500000000000005,0.06166666666666668,0.48,0.295,303,725,15.2,21.44,12.6,5,5
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,forex,4,morning_star,3,downtrend,506,2123,1019,20415,0.19999999999999996,0.06666666666666665,0.48,0.24,245,774,20.03,35.55,15.12,5,5
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,forex,5,morning_star,3,downtrend,506,2120,1017,26945,0.11999999999999988,0.03999999999999996,0.48,0.186,189,828,26.49,56.78,19.58,5,6
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,stock,1,morning_star,3,downtrend,4034,31819,17216,73570,0.12499999999999994,0.04166666666666665,0.54,0.565,9730,7486,4.27,3.94,4.71,11,8
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,stock,2,morning_star,3,downtrend,4034,31534,17022,147077,0.08799999999999997,0.029333333333333322,0.54,0.364,6193,10829,8.64,10.31,7.69,8,11
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,stock,3,morning_star,3,downtrend,4034,31257,16835,218604,0.07400000000000007,0.024666666666666687,0.54,0.268,4519,12316,12.99,18.42,10.99,7,13
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,stock,4,morning_star,3,downtrend,4034,30979,16655,300468,0.041999999999999926,0.013999999999999976,0.54,0.208,3462,13193,18.04,30.1,14.88,7,13
+CDLMORNINGSTAR,bullish,reversal,bearish mean reversion,stock,5,morning_star,3,downtrend,4034,30665,16435,378527,0.01000000000000012,0.0033333333333333734,0.54,0.168,2763,13672,23.03,47.56,18.07,7,13

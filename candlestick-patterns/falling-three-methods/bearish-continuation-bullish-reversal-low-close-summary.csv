@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,crypto,1,falling_three_methods,5,downtrend,4,8,8,12,-0.755,-0.151,1.0,0.125,1,7,1.5,5.0,1.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,crypto,2,falling_three_methods,5,downtrend,4,8,8,13,-0.63,-0.126,1.0,0.125,1,7,1.62,6.0,1.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,crypto,3,falling_three_methods,5,downtrend,4,8,8,14,-0.505,-0.101,1.0,0.125,1,7,1.75,7.0,1.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,crypto,4,falling_three_methods,5,downtrend,4,8,8,14,-0.38,-0.076,1.0,0.125,1,7,1.75,7.0,1.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,crypto,5,falling_three_methods,5,downtrend,4,8,8,16,-0.255,-0.051000000000000004,1.0,0.125,1,7,2.0,9.0,1.0,0,2
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,forex,1,falling_three_methods,5,downtrend,83,184,183,191,-0.8849999999999999,-0.177,0.99,0.055,10,173,1.04,1.1,1.04,1,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,forex,2,falling_three_methods,5,downtrend,83,184,183,195,-0.852,-0.1704,0.99,0.049,9,174,1.07,1.44,1.05,1,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,forex,3,falling_three_methods,5,downtrend,83,184,183,204,-0.871,-0.1742,0.99,0.033,6,177,1.11,1.5,1.1,1,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,forex,4,falling_three_methods,5,downtrend,83,184,183,206,-0.838,-0.1676,0.99,0.033,6,177,1.13,1.83,1.1,1,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,forex,5,falling_three_methods,5,downtrend,83,184,183,211,-0.8049999999999999,-0.16099999999999998,0.99,0.033,6,177,1.15,2.67,1.1,1,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,stock,1,falling_three_methods,5,downtrend,103,221,205,226,-0.802,-0.16040000000000001,0.93,0.098,20,185,1.1,1.15,1.1,2,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,stock,2,falling_three_methods,5,downtrend,103,221,205,232,-0.734,-0.14679999999999999,0.93,0.088,18,187,1.13,1.17,1.13,2,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,stock,3,falling_three_methods,5,downtrend,103,221,205,253,-0.686,-0.13720000000000002,0.93,0.078,16,189,1.23,1.5,1.21,2,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,stock,4,falling_three_methods,5,downtrend,103,221,205,254,-0.6080000000000001,-0.12160000000000001,0.93,0.078,16,189,1.24,1.56,1.21,2,4
+CDLRISEFALL3METHODS,bearish,continuation,bullish reversal,stock,5,falling_three_methods,5,downtrend,103,221,205,262,-0.5650000000000001,-0.11300000000000002,0.93,0.073,15,190,1.28,1.93,1.23,2,4

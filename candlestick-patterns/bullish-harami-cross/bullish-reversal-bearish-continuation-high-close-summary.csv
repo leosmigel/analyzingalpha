@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHARAMICROSS,bullish,reversal,bearish continuation,crypto,1,bullish_harami_cross,2,uptrend,168,896,851,4936,-0.0050000000000000044,-0.0025000000000000022,0.95,0.495,421,430,5.8,5.68,5.92,11,8
+CDLHARAMICROSS,bullish,reversal,bearish continuation,crypto,2,bullish_harami_cross,2,uptrend,168,853,805,9514,-0.006000000000000005,-0.0030000000000000027,0.94,0.332,267,538,11.82,10.25,12.6,7,16
+CDLHARAMICROSS,bullish,reversal,bearish continuation,crypto,3,bullish_harami_cross,2,uptrend,168,825,774,12659,0.031000000000000028,0.015500000000000014,0.94,0.257,199,575,16.36,20.82,14.81,7,16
+CDLHARAMICROSS,bullish,reversal,bearish continuation,crypto,4,bullish_harami_cross,2,uptrend,168,795,745,17360,-0.0040000000000000036,-0.0020000000000000018,0.94,0.199,148,597,23.3,28.45,22.03,6,16
+CDLHARAMICROSS,bullish,reversal,bearish continuation,crypto,5,bullish_harami_cross,2,uptrend,168,779,724,19116,-0.05999999999999994,-0.02999999999999997,0.93,0.156,113,611,26.4,34.95,24.82,5,16
+CDLHARAMICROSS,bullish,reversal,bearish continuation,forex,1,bullish_harami_cross,2,uptrend,705,6856,6738,35914,0.016000000000000014,0.008000000000000007,0.98,0.506,3409,3329,5.33,4.6,6.08,43,10
+CDLHARAMICROSS,bullish,reversal,bearish continuation,forex,2,bullish_harami_cross,2,uptrend,705,6658,6532,65486,0.02400000000000002,0.01200000000000001,0.98,0.342,2234,4298,10.03,11.56,9.23,31,14
+CDLHARAMICROSS,bullish,reversal,bearish continuation,forex,3,bullish_harami_cross,2,uptrend,705,6462,6334,87652,-0.0030000000000000027,-0.0015000000000000013,0.98,0.249,1579,4755,13.84,19.4,11.99,19,17
+CDLHARAMICROSS,bullish,reversal,bearish continuation,forex,4,bullish_harami_cross,2,uptrend,705,6370,6237,107905,-0.020000000000000018,-0.010000000000000009,0.98,0.195,1216,5021,17.3,31.14,13.95,16,46
+CDLHARAMICROSS,bullish,reversal,bearish continuation,forex,5,bullish_harami_cross,2,uptrend,705,6271,6134,128192,-0.039999999999999925,-0.019999999999999962,0.98,0.16,979,5155,20.9,46.66,16.01,14,46
+CDLHARAMICROSS,bullish,reversal,bearish continuation,stock,1,bullish_harami_cross,2,uptrend,5305,108856,96647,395877,-0.03500000000000003,-0.017500000000000016,0.89,0.485,46858,49789,4.1,3.97,4.22,34,18
+CDLHARAMICROSS,bullish,reversal,bearish continuation,stock,2,bullish_harami_cross,2,uptrend,5305,105123,93142,660410,0.016000000000000014,0.008000000000000007,0.89,0.338,31509,61633,7.09,8.25,6.5,25,21
+CDLHARAMICROSS,bullish,reversal,bearish continuation,stock,3,bullish_harami_cross,2,uptrend,5305,101948,90147,903230,0.025000000000000022,0.012500000000000011,0.88,0.255,23026,67121,10.02,13.44,8.84,22,24
+CDLHARAMICROSS,bullish,reversal,bearish continuation,stock,4,bullish_harami_cross,2,uptrend,5305,99147,87485,1116397,0.01200000000000001,0.006000000000000005,0.88,0.203,17756,69729,12.76,19.58,11.03,19,28
+CDLHARAMICROSS,bullish,reversal,bearish continuation,stock,5,bullish_harami_cross,2,uptrend,5305,96796,85266,1300474,1.1102230246251565e-16,5.551115123125783e-17,0.88,0.166,14137,71129,15.25,25.85,13.15,18,32

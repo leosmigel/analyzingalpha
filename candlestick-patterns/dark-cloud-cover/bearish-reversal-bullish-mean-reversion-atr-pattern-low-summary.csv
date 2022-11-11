@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,crypto,1,dark_cloud_cover,2,uptrend,1,2,1,3,-1.0,-0.5,0.5,0.0,0,1,3.0,,3.0,0,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,crypto,2,dark_cloud_cover,2,uptrend,1,2,1,3,-1.0,-0.5,0.5,0.0,0,1,3.0,,3.0,0,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,crypto,3,dark_cloud_cover,2,uptrend,1,2,1,3,-1.0,-0.5,0.5,0.0,0,1,3.0,,3.0,0,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,crypto,4,dark_cloud_cover,2,uptrend,1,2,1,3,-1.0,-0.5,0.5,0.0,0,1,3.0,,3.0,0,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,crypto,5,dark_cloud_cover,2,uptrend,1,2,1,3,-1.0,-0.5,0.5,0.0,0,1,3.0,,3.0,0,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,forex,1,dark_cloud_cover,2,uptrend,32,72,30,133,0.537,0.2685,0.42,0.767,23,7,4.43,5.26,1.71,2,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,forex,2,dark_cloud_cover,2,uptrend,32,72,30,560,0.29600000000000004,0.14800000000000002,0.42,0.433,13,17,18.67,33.92,7.0,1,1
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,forex,3,dark_cloud_cover,2,uptrend,32,72,30,723,0.32900000000000007,0.16450000000000004,0.42,0.333,10,20,24.1,31.7,20.3,1,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,forex,4,dark_cloud_cover,2,uptrend,32,72,30,1013,0.5,0.25,0.42,0.3,9,21,33.77,61.11,22.05,1,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,forex,5,dark_cloud_cover,2,uptrend,32,72,29,1113,0.6600000000000001,0.33000000000000007,0.4,0.276,8,21,38.38,81.25,22.05,1,2
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,stock,1,dark_cloud_cover,2,uptrend,3834,31987,16994,82495,0.19899999999999995,0.09949999999999998,0.53,0.599,10182,6812,4.85,4.58,5.26,12,7
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,stock,2,dark_cloud_cover,2,uptrend,3834,31721,16835,154179,0.258,0.129,0.53,0.419,7051,9784,9.16,10.56,8.15,9,10
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,stock,3,dark_cloud_cover,2,uptrend,3834,31453,16669,216633,0.32599999999999996,0.16299999999999998,0.53,0.332,5534,11135,13.0,18.21,10.4,8,11
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,stock,4,dark_cloud_cover,2,uptrend,3834,31195,16508,276112,0.3620000000000001,0.18100000000000005,0.53,0.273,4509,11999,16.73,27.35,12.73,6,12
+CDLDARKCLOUDCOVER,bearish,reversal,bullish mean reversion,stock,5,dark_cloud_cover,2,uptrend,3834,30976,16379,331221,0.41999999999999993,0.20999999999999996,0.53,0.236,3872,12507,20.22,37.9,14.75,6,13

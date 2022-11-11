@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,crypto,1,evening_star,3,uptrend,68,193,45,142,-0.063,-0.021,0.23,0.467,21,24,3.16,3.57,2.79,2,2
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,crypto,2,evening_star,3,uptrend,68,192,45,286,-0.19599999999999995,-0.06533333333333331,0.23,0.267,12,33,6.36,11.92,4.33,1,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,crypto,3,evening_star,3,uptrend,68,192,45,483,-0.372,-0.124,0.23,0.156,7,38,10.73,6.86,11.45,1,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,crypto,4,evening_star,3,uptrend,68,192,45,510,-0.446,-0.14866666666666667,0.23,0.111,5,40,11.33,7.6,11.8,1,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,crypto,5,evening_star,3,uptrend,68,192,44,545,-0.735,-0.245,0.23,0.045,2,42,12.39,18.0,12.12,1,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,forex,1,evening_star,3,uptrend,544,2771,435,1743,0.279,0.09300000000000001,0.16,0.639,278,157,4.01,3.68,4.59,4,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,forex,2,evening_star,3,uptrend,544,2766,431,3720,0.402,0.134,0.16,0.466,201,230,8.63,10.72,6.81,4,3
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,forex,3,evening_star,3,uptrend,544,2758,430,6597,0.372,0.124,0.16,0.344,148,282,15.34,23.14,11.25,3,4
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,forex,4,evening_star,3,uptrend,544,2752,428,9061,0.28800000000000003,0.09600000000000002,0.16,0.257,110,318,21.17,35.47,16.22,3,4
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,forex,5,evening_star,3,uptrend,544,2750,425,11506,0.15500000000000003,0.05166666666666667,0.15,0.193,82,343,27.07,52.18,21.07,2,6
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,stock,1,evening_star,3,uptrend,3972,38410,8490,29345,0.14299999999999996,0.047666666666666656,0.22,0.573,4868,3622,3.46,3.34,3.62,10,7
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,stock,2,evening_star,3,uptrend,3972,38226,8440,56584,0.136,0.04533333333333334,0.22,0.378,3189,5251,6.7,7.74,6.07,8,8
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,stock,3,evening_star,3,uptrend,3972,38148,8420,82988,0.1170000000000001,0.039000000000000035,0.22,0.279,2350,6070,9.86,13.68,8.37,6,10
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,stock,4,evening_star,3,uptrend,3972,38102,8398,109326,0.08799999999999997,0.029333333333333322,0.22,0.217,1823,6575,13.02,20.8,10.86,5,12
+CDLEVENINGSTAR,bearish,reversal,bearish mean reversion,stock,5,evening_star,3,uptrend,3972,38064,8385,136768,0.039999999999999925,0.013333333333333308,0.22,0.174,1458,6927,16.31,30.22,13.38,4,12

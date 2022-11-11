@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,crypto,1,downside_gap_three_methods,3,downtrend,87,310,127,772,-0.242,-0.08066666666666666,0.41,0.378,48,79,6.08,5.73,6.29,3,4
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,crypto,2,downside_gap_three_methods,3,downtrend,87,305,125,1687,-0.42600000000000005,-0.14200000000000002,0.41,0.192,24,101,13.5,23.08,11.22,3,5
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,crypto,3,downside_gap_three_methods,3,downtrend,87,300,123,2357,-0.48,-0.16,0.41,0.13,16,107,19.16,40.25,16.01,2,5
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,crypto,4,downside_gap_three_methods,3,downtrend,87,297,120,2127,-0.542,-0.18066666666666667,0.4,0.092,11,109,17.73,30.55,16.43,2,5
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,crypto,5,downside_gap_three_methods,3,downtrend,87,296,118,2352,-0.695,-0.23166666666666666,0.4,0.051,6,112,19.93,24.67,19.68,1,5
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,forex,1,downside_gap_three_methods,3,downtrend,454,2194,798,5808,-0.20499999999999996,-0.06833333333333332,0.36,0.395,315,483,7.28,9.32,5.95,4,6
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,forex,2,downside_gap_three_methods,3,downtrend,454,2185,793,9152,-0.18599999999999994,-0.06199999999999998,0.36,0.272,216,577,11.54,16.13,9.82,4,6
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,forex,3,downside_gap_three_methods,3,downtrend,454,2171,786,13592,-0.23399999999999999,-0.078,0.36,0.192,151,635,17.29,36.87,12.64,4,6
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,forex,4,downside_gap_three_methods,3,downtrend,454,2166,784,17819,-0.262,-0.08733333333333333,0.36,0.147,115,669,22.73,49.54,18.12,3,6
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,forex,5,downside_gap_three_methods,3,downtrend,454,2161,779,21722,-0.31999999999999995,-0.10666666666666665,0.36,0.114,89,690,27.88,69.51,22.52,3,7
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,stock,1,downside_gap_three_methods,3,downtrend,3631,22797,10128,68489,-0.09800000000000003,-0.03266666666666668,0.44,0.452,4573,5555,6.76,6.79,6.74,8,7
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,stock,2,downside_gap_three_methods,3,downtrend,3631,22579,10012,123892,-0.15000000000000002,-0.05000000000000001,0.44,0.285,2849,7163,12.37,15.09,11.3,7,10
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,stock,3,downside_gap_three_methods,3,downtrend,3631,22410,9919,180844,-0.19700000000000006,-0.06566666666666669,0.44,0.201,1996,7923,18.23,28.44,15.66,6,10
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,stock,4,downside_gap_three_methods,3,downtrend,3631,22249,9813,230225,-0.21599999999999997,-0.072,0.44,0.156,1532,8281,23.46,43.5,19.75,6,10
+CDLXSIDEGAP3METHODS,bearish,continuation,bearish continuation,stock,5,downside_gap_three_methods,3,downtrend,3631,22095,9719,289961,-0.265,-0.08833333333333333,0.44,0.123,1195,8524,29.83,67.45,24.56,4,10

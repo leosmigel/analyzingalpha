@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHARAMI,bearish,reversal,bearish reversal,crypto,1,bearish_harami,2,uptrend,206,2143,1486,6643,-0.29600000000000004,-0.14800000000000002,0.69,0.354,526,960,4.47,5.2,4.07,12,12
+CDLHARAMI,bearish,reversal,bearish reversal,crypto,2,bearish_harami,2,uptrend,206,2048,1405,10298,-0.308,-0.154,0.69,0.231,325,1080,7.33,11.09,6.2,11,12
+CDLHARAMI,bearish,reversal,bearish reversal,crypto,3,bearish_harami,2,uptrend,206,1985,1355,13105,-0.28900000000000003,-0.14450000000000002,0.68,0.177,240,1115,9.67,17.02,8.09,10,16
+CDLHARAMI,bearish,reversal,bearish reversal,crypto,4,bearish_harami,2,uptrend,206,1891,1290,18759,-0.346,-0.173,0.68,0.131,169,1121,14.54,23.7,13.16,5,16
+CDLHARAMI,bearish,reversal,bearish reversal,crypto,5,bearish_harami,2,uptrend,206,1833,1247,20162,-0.405,-0.2025,0.68,0.099,124,1123,16.17,29.05,14.75,4,18
+CDLHARAMI,bearish,reversal,bearish reversal,forex,1,bearish_harami,2,uptrend,830,21585,14769,51125,-0.264,-0.132,0.68,0.366,5411,9358,3.46,4.08,3.1,35,15
+CDLHARAMI,bearish,reversal,bearish reversal,forex,2,bearish_harami,2,uptrend,830,21234,14527,87002,-0.256,-0.128,0.68,0.247,3588,10939,5.99,9.64,4.79,20,32
+CDLHARAMI,bearish,reversal,bearish reversal,forex,3,bearish_harami,2,uptrend,830,20923,14303,121651,-0.271,-0.1355,0.68,0.183,2619,11684,8.51,17.54,6.48,13,32
+CDLHARAMI,bearish,reversal,bearish reversal,forex,4,bearish_harami,2,uptrend,830,20654,14107,157761,-0.29999999999999993,-0.14999999999999997,0.68,0.14,1982,12125,11.18,27.74,8.48,11,40
+CDLHARAMI,bearish,reversal,bearish reversal,forex,5,bearish_harami,2,uptrend,830,20422,13952,189252,-0.32499999999999996,-0.16249999999999998,0.68,0.113,1578,12374,13.56,41.32,10.03,11,44
+CDLHARAMI,bearish,reversal,bearish reversal,stock,1,bearish_harami,2,uptrend,5382,286598,204509,752298,-0.12500000000000006,-0.06250000000000003,0.71,0.435,89025,115484,3.68,3.94,3.48,60,16
+CDLHARAMI,bearish,reversal,bearish reversal,stock,2,bearish_harami,2,uptrend,5382,277289,197734,1229300,-0.10599999999999998,-0.05299999999999999,0.71,0.297,58630,139104,6.22,8.11,5.42,40,34
+CDLHARAMI,bearish,reversal,bearish reversal,stock,3,bearish_harami,2,uptrend,5382,269558,192000,1658467,-0.12,-0.06,0.71,0.22,42186,149814,8.64,13.4,7.3,30,34
+CDLHARAMI,bearish,reversal,bearish reversal,stock,4,bearish_harami,2,uptrend,5382,263334,187400,2029061,-0.134,-0.067,0.71,0.174,32539,154861,10.83,19.56,8.99,25,47
+CDLHARAMI,bearish,reversal,bearish reversal,stock,5,bearish_harami,2,uptrend,5382,257003,182616,2388917,-0.15000000000000002,-0.07500000000000001,0.71,0.142,25946,156670,13.08,27.6,10.68,22,58

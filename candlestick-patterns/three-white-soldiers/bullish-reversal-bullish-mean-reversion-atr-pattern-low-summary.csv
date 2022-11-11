@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,crypto,1,three_white_soldiers,3,downtrend,18,38,1,1,1.0,0.3333333333333333,0.03,1.0,1,0,1.0,1.0,,1,0
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,crypto,2,three_white_soldiers,3,downtrend,18,38,1,1,2.0,0.6666666666666666,0.03,1.0,1,0,1.0,1.0,,1,0
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,crypto,3,three_white_soldiers,3,downtrend,18,38,1,38,-1.0,-0.3333333333333333,0.03,0.0,0,1,38.0,,38.0,0,1
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,crypto,4,three_white_soldiers,3,downtrend,18,38,1,38,-1.0,-0.3333333333333333,0.03,0.0,0,1,38.0,,38.0,0,1
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,crypto,5,three_white_soldiers,3,downtrend,18,38,1,38,-1.0,-0.3333333333333333,0.03,0.0,0,1,38.0,,38.0,0,1
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,forex,1,three_white_soldiers,3,downtrend,292,2012,89,256,0.482,0.16066666666666665,0.04,0.742,66,23,2.88,3.12,2.17,3,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,forex,2,three_white_soldiers,3,downtrend,292,2012,89,443,0.92,0.3066666666666667,0.04,0.64,57,32,4.98,5.56,3.94,3,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,forex,3,three_white_soldiers,3,downtrend,292,2012,89,684,1.114,0.37133333333333335,0.04,0.528,47,42,7.69,9.36,5.81,3,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,forex,4,three_white_soldiers,3,downtrend,292,2012,89,835,1.466,0.48866666666666664,0.04,0.494,44,45,9.38,11.0,7.8,3,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,forex,5,three_white_soldiers,3,downtrend,292,2012,89,1030,1.895,0.6316666666666667,0.04,0.483,43,46,11.57,15.6,7.8,3,3
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,stock,1,three_white_soldiers,3,downtrend,436,943,78,230,0.05600000000000005,0.018666666666666682,0.08,0.526,41,37,2.95,2.49,3.46,2,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,stock,2,three_white_soldiers,3,downtrend,436,943,78,379,0.19400000000000006,0.06466666666666669,0.08,0.397,31,47,4.86,5.71,4.3,2,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,stock,3,three_white_soldiers,3,downtrend,436,943,78,698,-0.028000000000000025,-0.009333333333333341,0.08,0.244,19,59,8.95,12.47,7.81,1,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,stock,4,three_white_soldiers,3,downtrend,436,943,78,884,-0.10399999999999998,-0.03466666666666666,0.08,0.179,14,64,11.33,21.43,9.12,1,2
+CDL3WHITESOLDIERS,bullish,reversal,bullish mean reversion,stock,5,three_white_soldiers,3,downtrend,436,943,78,1102,-0.07999999999999996,-0.026666666666666655,0.08,0.154,12,66,14.13,35.42,10.26,1,2

@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHAMMER,bullish,reversal,bearish continuation,crypto,1,hammer,1,downtrend,238,4580,4386,5080,-0.21899999999999997,-0.21899999999999997,0.96,0.391,1714,2672,1.16,1.2,1.13,21,12
+CDLHAMMER,bullish,reversal,bearish continuation,crypto,2,hammer,1,downtrend,238,4534,4337,5918,0.014000000000000012,0.014000000000000012,0.96,0.337,1460,2877,1.36,1.42,1.34,20,18
+CDLHAMMER,bullish,reversal,bearish continuation,crypto,3,hammer,1,downtrend,238,4492,4296,6613,0.21500000000000008,0.21500000000000008,0.96,0.305,1310,2986,1.54,1.74,1.45,20,18
+CDLHAMMER,bullish,reversal,bearish continuation,crypto,4,hammer,1,downtrend,238,4452,4256,7341,0.39600000000000013,0.39600000000000013,0.96,0.279,1188,3068,1.72,2.08,1.59,19,18
+CDLHAMMER,bullish,reversal,bearish continuation,crypto,5,hammer,1,downtrend,238,4411,4217,8236,0.55,0.55,0.96,0.258,1089,3128,1.95,2.5,1.76,17,22
+CDLHAMMER,bullish,reversal,bearish continuation,forex,1,hammer,1,downtrend,1193,66479,63470,72552,-0.45899999999999996,-0.45899999999999996,0.95,0.271,17217,46253,1.14,1.27,1.1,104,81
+CDLHAMMER,bullish,reversal,bearish continuation,forex,2,hammer,1,downtrend,1193,65908,62892,78992,-0.25,-0.25,0.95,0.25,15713,47179,1.26,1.47,1.18,93,81
+CDLHAMMER,bullish,reversal,bearish continuation,forex,3,hammer,1,downtrend,1193,65475,62461,86411,-0.07699999999999996,-0.07699999999999996,0.95,0.231,14441,48020,1.38,1.79,1.26,84,81
+CDLHAMMER,bullish,reversal,bearish continuation,forex,4,hammer,1,downtrend,1193,65093,62084,93303,0.08799999999999997,0.08799999999999997,0.95,0.217,13454,48630,1.5,2.08,1.34,81,81
+CDLHAMMER,bullish,reversal,bearish continuation,forex,5,hammer,1,downtrend,1193,64778,61780,100056,0.22499999999999987,0.22499999999999987,0.95,0.205,12637,49143,1.62,2.3,1.44,73,81
+CDLHAMMER,bullish,reversal,bearish continuation,stock,1,hammer,1,downtrend,5886,215956,196667,238064,-0.257,-0.257,0.91,0.373,73408,123259,1.21,1.28,1.17,76,27
+CDLHAMMER,bullish,reversal,bearish continuation,stock,2,hammer,1,downtrend,5886,214088,194920,274295,-0.018000000000000016,-0.018000000000000016,0.91,0.326,63614,131306,1.41,1.6,1.31,69,28
+CDLHAMMER,bullish,reversal,bearish continuation,stock,3,hammer,1,downtrend,5886,212128,193105,312824,0.15999999999999992,0.15999999999999992,0.91,0.29,56020,137085,1.62,2.0,1.47,65,37
+CDLHAMMER,bullish,reversal,bearish continuation,stock,4,hammer,1,downtrend,5886,210455,191526,351334,0.30800000000000005,0.30800000000000005,0.91,0.262,50163,141363,1.83,2.43,1.62,64,37
+CDLHAMMER,bullish,reversal,bearish continuation,stock,5,hammer,1,downtrend,5886,208980,190149,389372,0.43999999999999995,0.43999999999999995,0.91,0.24,45636,144513,2.05,2.89,1.78,63,37

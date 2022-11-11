@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,crypto,1,evening_doji_star,3,uptrend,23,52,52,52,-0.765,-0.255,1.0,0.115,6,46,1.0,1.0,1.0,1,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,crypto,2,evening_doji_star,3,uptrend,23,52,52,55,-0.766,-0.25533333333333336,1.0,0.077,4,48,1.06,1.0,1.06,1,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,crypto,3,evening_doji_star,3,uptrend,23,52,52,57,-0.7659999999999999,-0.2553333333333333,1.0,0.058,3,49,1.1,1.33,1.08,1,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,crypto,4,evening_doji_star,3,uptrend,23,52,52,57,-0.708,-0.236,1.0,0.058,3,49,1.1,1.33,1.08,1,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,crypto,5,evening_doji_star,3,uptrend,23,52,52,58,-0.6499999999999999,-0.21666666666666665,1.0,0.058,3,49,1.12,1.67,1.08,1,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,forex,1,evening_doji_star,3,uptrend,297,894,886,1017,-0.8440000000000001,-0.2813333333333334,0.99,0.076,67,819,1.15,1.76,1.1,2,8
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,forex,2,evening_doji_star,3,uptrend,297,894,886,1126,-0.818,-0.27266666666666667,0.99,0.061,54,832,1.27,2.74,1.18,1,8
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,forex,3,evening_doji_star,3,uptrend,297,894,886,1228,-0.8029999999999999,-0.26766666666666666,0.99,0.049,43,843,1.39,3.16,1.3,1,8
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,forex,4,evening_doji_star,3,uptrend,297,894,886,1340,-0.7919999999999999,-0.26399999999999996,0.99,0.042,37,849,1.51,5.14,1.35,1,11
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,forex,5,evening_doji_star,3,uptrend,297,894,886,1408,-0.76,-0.25333333333333335,0.99,0.04,35,851,1.59,6.86,1.37,1,11
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,stock,1,evening_doji_star,3,uptrend,3034,13830,12800,13537,-0.8759999999999999,-0.292,0.93,0.064,816,11984,1.06,1.46,1.03,2,14
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,stock,2,evening_doji_star,3,uptrend,3034,13830,12800,14316,-0.826,-0.2753333333333333,0.93,0.057,729,12071,1.12,2.1,1.06,2,14
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,stock,3,evening_doji_star,3,uptrend,3034,13830,12800,15326,-0.7999999999999999,-0.26666666666666666,0.93,0.05,644,12156,1.2,2.95,1.1,2,14
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,stock,4,evening_doji_star,3,uptrend,3034,13830,12800,16567,-0.78,-0.26,0.93,0.045,575,12225,1.29,4.09,1.16,2,14
+CDLEVENINGDOJISTAR,bearish,reversal,bullish continuation,stock,5,evening_doji_star,3,uptrend,3034,13829,12799,17372,-0.75,-0.25,0.93,0.042,536,12263,1.36,4.88,1.2,2,14

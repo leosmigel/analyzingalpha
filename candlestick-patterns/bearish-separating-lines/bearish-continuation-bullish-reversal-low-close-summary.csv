@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,crypto,1,bearish_separating_lines,2,downtrend,191,2676,2166,2531,-0.9169999999999999,-0.45849999999999996,0.81,0.043,93,2073,1.17,4.37,1.03,6,30
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,crypto,2,bearish_separating_lines,2,downtrend,191,2670,2158,3000,-0.9019999999999999,-0.45099999999999996,0.81,0.034,74,2084,1.39,5.74,1.24,6,30
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,crypto,3,bearish_separating_lines,2,downtrend,191,2670,2158,3172,-0.874,-0.437,0.81,0.032,69,2089,1.47,6.97,1.29,6,30
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,crypto,4,bearish_separating_lines,2,downtrend,191,2666,2154,3424,-0.854,-0.427,0.81,0.029,63,2091,1.59,7.16,1.42,6,33
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,crypto,5,bearish_separating_lines,2,downtrend,191,2666,2154,3464,-0.835,-0.4175,0.81,0.027,59,2095,1.61,7.61,1.44,4,33
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,forex,1,bearish_separating_lines,2,downtrend,1239,82858,74599,82988,-0.955,-0.4775,0.9,0.025,1860,72739,1.11,2.48,1.08,3,268
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,forex,2,bearish_separating_lines,2,downtrend,1239,82668,74415,85043,-0.9339999999999999,-0.46699999999999997,0.9,0.023,1715,72700,1.14,3.09,1.1,3,268
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,forex,3,bearish_separating_lines,2,downtrend,1239,82608,74358,86734,-0.9139999999999999,-0.45699999999999996,0.9,0.022,1624,72734,1.17,3.59,1.11,3,268
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,forex,4,bearish_separating_lines,2,downtrend,1239,82523,74277,88667,-0.896,-0.448,0.9,0.021,1560,72717,1.19,3.52,1.14,3,268
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,forex,5,bearish_separating_lines,2,downtrend,1239,82473,74227,90393,-0.88,-0.44,0.9,0.02,1514,72713,1.22,3.64,1.17,3,268
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,stock,1,bearish_separating_lines,2,downtrend,4213,40545,35463,45991,-0.8390000000000001,-0.41950000000000004,0.87,0.081,2871,32592,1.3,2.37,1.2,3,33
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,stock,2,bearish_separating_lines,2,downtrend,4213,40510,35433,49748,-0.788,-0.394,0.87,0.071,2503,32930,1.4,3.27,1.26,3,33
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,stock,3,bearish_separating_lines,2,downtrend,4213,40474,35398,53708,-0.7509999999999999,-0.37549999999999994,0.87,0.063,2221,33177,1.52,4.08,1.35,3,42
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,stock,4,bearish_separating_lines,2,downtrend,4213,40452,35379,56819,-0.712,-0.356,0.87,0.057,2014,33365,1.61,4.74,1.42,3,52
+CDLSEPARATINGLINES,bearish,continuation,bullish reversal,stock,5,bearish_separating_lines,2,downtrend,4213,40401,35338,61952,-0.6849999999999999,-0.34249999999999997,0.87,0.053,1874,33464,1.75,5.71,1.53,3,52

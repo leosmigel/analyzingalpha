@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,crypto,1,falling_three_methods,5,downtrend,4,8,0,0,,,0.0,,0,0,,,,0,0
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,crypto,2,falling_three_methods,5,downtrend,4,8,0,0,,,0.0,,0,0,,,,0,0
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,crypto,3,falling_three_methods,5,downtrend,4,8,0,0,,,0.0,,0,0,,,,0,0
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,crypto,4,falling_three_methods,5,downtrend,4,8,0,0,,,0.0,,0,0,,,,0,0
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,crypto,5,falling_three_methods,5,downtrend,4,8,0,0,,,0.0,,0,0,,,,0,0
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,forex,1,falling_three_methods,5,downtrend,83,184,30,88,0.39999999999999997,0.07999999999999999,0.16,0.7,21,9,2.93,2.57,3.78,2,1
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,forex,2,falling_three_methods,5,downtrend,83,184,30,177,-0.09999999999999998,-0.019999999999999997,0.16,0.3,9,21,5.9,6.33,5.71,2,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,forex,3,falling_three_methods,5,downtrend,83,184,30,209,-0.07099999999999995,-0.01419999999999999,0.16,0.233,7,23,6.97,7.86,6.7,2,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,forex,4,falling_three_methods,5,downtrend,83,184,30,250,0.0,0.0,0.16,0.2,6,24,8.33,12.5,7.29,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,forex,5,falling_three_methods,5,downtrend,83,184,30,269,0.19999999999999996,0.039999999999999994,0.16,0.2,6,24,8.97,15.67,7.29,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,stock,1,falling_three_methods,5,downtrend,103,221,23,92,0.12499999999999994,0.024999999999999988,0.1,0.565,13,10,4.0,5.0,2.7,2,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,stock,2,falling_three_methods,5,downtrend,103,221,23,195,0.04599999999999993,0.009199999999999986,0.1,0.348,8,15,8.48,12.62,6.27,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,stock,3,falling_three_methods,5,downtrend,103,221,23,223,0.21199999999999997,0.04239999999999999,0.1,0.304,7,16,9.7,16.57,6.69,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,stock,4,falling_three_methods,5,downtrend,103,221,23,266,0.516,0.1032,0.1,0.304,7,16,11.57,22.71,6.69,1,2
+CDLRISEFALL3METHODS,bearish,continuation,bearish mean reversion,stock,5,falling_three_methods,5,downtrend,103,220,22,396,0.6350000000000002,0.12700000000000006,0.1,0.273,6,16,18.0,24.67,15.5,1,2

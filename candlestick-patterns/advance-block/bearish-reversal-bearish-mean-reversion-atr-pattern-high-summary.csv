@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,crypto,1,advance_block,3,uptrend,178,1111,602,1708,-0.04500000000000004,-0.015000000000000013,0.54,0.475,286,316,2.84,2.95,2.73,7,5
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,crypto,2,advance_block,3,uptrend,178,1105,598,3285,-0.21199999999999997,-0.07066666666666666,0.54,0.264,158,440,5.49,7.89,4.63,5,8
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,crypto,3,advance_block,3,uptrend,178,1089,585,5483,-0.28300000000000003,-0.09433333333333334,0.54,0.179,105,480,9.37,21.23,6.78,4,10
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,crypto,4,advance_block,3,uptrend,178,1077,571,6508,-0.30799999999999994,-0.10266666666666664,0.53,0.138,79,492,11.4,32.48,8.01,4,10
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,crypto,5,advance_block,3,uptrend,178,1063,560,7355,-0.38,-0.12666666666666668,0.53,0.104,58,502,13.13,40.86,9.93,3,13
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,forex,1,advance_block,3,uptrend,1072,19617,9921,48106,0.30200000000000005,0.10066666666666668,0.51,0.652,6468,3453,4.85,4.44,5.62,32,8
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,forex,2,advance_block,3,uptrend,1072,19185,9634,103141,0.32199999999999995,0.10733333333333332,0.5,0.441,4246,5388,10.71,12.08,9.62,26,14
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,forex,3,advance_block,3,uptrend,1072,18827,9407,153194,0.277,0.09233333333333334,0.5,0.319,3000,6407,16.29,21.25,13.96,20,42
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,forex,4,advance_block,3,uptrend,1072,18476,9183,203142,0.246,0.082,0.5,0.249,2282,6901,22.12,36.24,17.45,11,45
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,forex,5,advance_block,3,uptrend,1072,18231,9036,242570,0.21500000000000008,0.0716666666666667,0.5,0.203,1833,7203,26.84,49.7,21.03,10,45
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,stock,1,advance_block,3,uptrend,4086,58961,35776,128336,0.15799999999999997,0.05266666666666666,0.61,0.578,20687,15089,3.59,3.37,3.89,25,9
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,stock,2,advance_block,3,uptrend,4086,58670,35563,241695,0.14400000000000002,0.04800000000000001,0.61,0.382,13593,21970,6.8,7.79,6.18,18,18
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,stock,3,advance_block,3,uptrend,4086,58245,35287,353530,0.1110000000000001,0.03700000000000003,0.61,0.277,9771,25516,10.02,14.05,8.48,14,22
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,stock,4,advance_block,3,uptrend,4086,57780,34965,455678,0.07999999999999996,0.026666666666666655,0.61,0.215,7526,27439,13.03,21.56,10.69,10,23
+CDLADVANCEBLOCK,bearish,reversal,bearish mean reversion,stock,5,advance_block,3,uptrend,4086,57370,34661,556407,0.039999999999999925,0.013333333333333308,0.6,0.174,6016,28645,16.05,30.58,13.0,10,24

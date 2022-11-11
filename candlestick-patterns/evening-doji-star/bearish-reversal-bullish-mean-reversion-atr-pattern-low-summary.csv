@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,crypto,1,evening_doji_star,3,uptrend,23,52,23,231,-0.04200000000000004,-0.014000000000000012,0.44,0.478,11,12,10.04,13.45,6.92,2,2
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,crypto,2,evening_doji_star,3,uptrend,23,51,21,213,0.28800000000000003,0.09600000000000002,0.41,0.429,9,12,10.14,12.78,8.17,2,2
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,crypto,3,evening_doji_star,3,uptrend,23,51,21,277,0.32900000000000007,0.10966666666666669,0.41,0.333,7,14,13.19,23.0,8.29,2,2
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,crypto,4,evening_doji_star,3,uptrend,23,50,20,297,0.5,0.16666666666666666,0.4,0.3,6,14,14.85,30.17,8.29,2,2
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,crypto,5,evening_doji_star,3,uptrend,23,50,20,312,0.5,0.16666666666666666,0.4,0.25,5,15,15.6,32.8,9.87,1,2
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,forex,1,evening_doji_star,3,uptrend,297,892,418,2387,0.13899999999999996,0.04633333333333332,0.47,0.569,238,180,5.71,4.71,7.04,3,3
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,forex,2,evening_doji_star,3,uptrend,297,890,417,4565,0.11399999999999999,0.038,0.47,0.372,155,262,10.95,12.02,10.31,3,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,forex,3,evening_doji_star,3,uptrend,297,888,416,6216,0.006000000000000005,0.0020000000000000018,0.47,0.252,105,311,14.94,20.41,13.1,2,4
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,forex,4,evening_doji_star,3,uptrend,297,888,415,7759,-0.008000000000000007,-0.002666666666666669,0.47,0.198,82,333,18.7,32.8,15.22,2,6
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,forex,5,evening_doji_star,3,uptrend,297,888,409,8439,-0.07999999999999996,-0.026666666666666655,0.46,0.154,63,346,20.63,36.81,17.69,2,6
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,stock,1,evening_doji_star,3,uptrend,3034,13794,7525,29700,0.183,0.061,0.55,0.593,4466,3059,3.95,3.75,4.23,6,6
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,stock,2,evening_doji_star,3,uptrend,3034,13735,7485,57037,0.23199999999999998,0.07733333333333332,0.54,0.411,3077,4408,7.62,9.02,6.64,5,9
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,stock,3,evening_doji_star,3,uptrend,3034,13681,7446,80770,0.271,0.09033333333333333,0.54,0.317,2360,5086,10.85,15.46,8.71,5,9
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,stock,4,evening_doji_star,3,uptrend,3034,13645,7423,103437,0.32000000000000006,0.10666666666666669,0.54,0.265,1970,5453,13.93,23.13,10.61,4,9
+CDLEVENINGDOJISTAR,bearish,reversal,bullish mean reversion,stock,5,evening_doji_star,3,uptrend,3034,13605,7387,125543,0.345,0.11499999999999999,0.54,0.225,1659,5728,17.0,32.93,12.38,4,11

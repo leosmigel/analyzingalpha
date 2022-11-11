@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,1,evening_doji_star,3,uptrend,23,51,49,708,0.020000000000000018,0.006666666666666672,0.96,0.51,25,24,14.45,18.68,10.04,3,2
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,2,evening_doji_star,3,uptrend,23,50,47,818,-0.22999999999999998,-0.07666666666666666,0.94,0.255,12,35,17.4,15.42,18.09,2,3
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,3,evening_doji_star,3,uptrend,23,50,46,958,-0.48,-0.16,0.92,0.13,6,40,20.83,10.33,22.4,1,3
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,4,evening_doji_star,3,uptrend,23,48,44,1099,-0.658,-0.21933333333333335,0.92,0.068,3,41,24.98,9.0,26.15,1,3
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,5,evening_doji_star,3,uptrend,23,48,44,1135,-0.5900000000000001,-0.19666666666666668,0.92,0.068,3,41,25.8,21.0,26.15,1,3
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,1,evening_doji_star,3,uptrend,297,888,859,5123,0.03500000000000003,0.011666666666666678,0.97,0.515,442,417,5.96,5.81,6.13,6,5
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,2,evening_doji_star,3,uptrend,297,885,856,9043,0.026000000000000023,0.008666666666666675,0.97,0.343,294,562,10.56,12.56,9.52,4,7
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,3,evening_doji_star,3,uptrend,297,884,854,12603,0.04300000000000004,0.014333333333333345,0.97,0.261,223,631,14.76,21.92,12.23,4,7
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,4,evening_doji_star,3,uptrend,297,884,853,17209,0.04999999999999993,0.016666666666666646,0.96,0.21,179,674,20.17,39.52,15.04,3,7
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,5,evening_doji_star,3,uptrend,297,883,850,20884,0.039999999999999925,0.013333333333333308,0.96,0.174,148,702,24.57,56.78,17.78,3,7
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,1,evening_doji_star,3,uptrend,3034,13776,12406,74329,0.0050000000000000044,0.001666666666666668,0.9,0.505,6263,6143,5.99,5.68,6.31,9,8
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,2,evening_doji_star,3,uptrend,3034,13727,12344,135237,-0.010000000000000009,-0.003333333333333336,0.9,0.33,4069,8275,10.96,13.86,9.53,7,9
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,3,evening_doji_star,3,uptrend,3034,13692,12293,199444,-0.031000000000000028,-0.010333333333333342,0.9,0.243,2992,9301,16.22,24.65,13.51,6,10
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,4,evening_doji_star,3,uptrend,3034,13640,12222,253416,-0.05800000000000005,-0.01933333333333335,0.9,0.188,2303,9919,20.73,36.59,17.05,5,11
+CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,5,evening_doji_star,3,uptrend,3034,13569,12128,305744,-0.09499999999999997,-0.031666666666666655,0.89,0.151,1829,10299,25.21,49.24,20.94,5,12

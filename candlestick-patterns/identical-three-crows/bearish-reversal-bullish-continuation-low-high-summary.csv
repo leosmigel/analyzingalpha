@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,crypto,1,identical_three_crows,3,uptrend,75,201,111,120,-0.943,-0.3143333333333333,0.55,0.027,3,108,1.08,4.0,1.0,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,crypto,2,identical_three_crows,3,uptrend,75,201,111,120,-0.9159999999999999,-0.3053333333333333,0.55,0.027,3,108,1.08,4.0,1.0,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,crypto,3,identical_three_crows,3,uptrend,75,201,111,124,-0.9259999999999999,-0.30866666666666664,0.55,0.018,2,109,1.12,6.5,1.02,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,crypto,4,identical_three_crows,3,uptrend,75,201,111,125,-0.908,-0.3026666666666667,0.55,0.018,2,109,1.13,7.0,1.02,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,crypto,5,identical_three_crows,3,uptrend,75,201,111,126,-0.89,-0.2966666666666667,0.55,0.018,2,109,1.14,7.5,1.02,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,forex,1,identical_three_crows,3,uptrend,518,6644,2687,2745,-0.996,-0.332,0.4,0.004,12,2675,1.02,1.67,1.02,0,27
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,forex,2,identical_three_crows,3,uptrend,518,6644,2687,2761,-0.994,-0.3313333333333333,0.4,0.003,9,2678,1.03,2.33,1.02,0,27
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,forex,3,identical_three_crows,3,uptrend,518,6644,2687,2769,-0.991,-0.3303333333333333,0.4,0.003,8,2679,1.03,3.12,1.02,0,27
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,forex,4,identical_three_crows,3,uptrend,518,6643,2686,2806,-0.988,-0.3293333333333333,0.4,0.003,7,2679,1.04,7.29,1.03,0,27
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,forex,5,identical_three_crows,3,uptrend,518,6643,2686,2847,-0.99,-0.33,0.4,0.002,5,2681,1.06,13.8,1.04,0,27
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,stock,1,identical_three_crows,3,uptrend,121,241,125,125,-0.964,-0.3213333333333333,0.52,0.016,2,123,1.0,1.0,1.0,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,stock,2,identical_three_crows,3,uptrend,121,241,125,125,-0.948,-0.316,0.52,0.016,2,123,1.0,1.0,1.0,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,stock,3,identical_three_crows,3,uptrend,121,241,125,126,-0.966,-0.322,0.52,0.008,1,124,1.01,1.0,1.01,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,stock,4,identical_three_crows,3,uptrend,121,241,125,126,-0.958,-0.3193333333333333,0.52,0.008,1,124,1.01,1.0,1.01,1,4
+CDLIDENTICAL3CROWS,bearish,reversal,bullish continuation,stock,5,identical_three_crows,3,uptrend,121,241,125,127,-1.0,-0.3333333333333333,0.52,0.0,0,125,1.02,,1.02,0,4

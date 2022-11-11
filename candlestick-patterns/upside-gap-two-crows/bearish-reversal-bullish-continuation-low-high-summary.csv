@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,forex,1,upside_gap_two_crows,3,uptrend,6,12,6,35,-0.6629999999999999,-0.22099999999999997,0.5,0.167,1,5,5.83,1.0,6.8,0,1
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,forex,2,upside_gap_two_crows,3,uptrend,6,12,6,39,-0.49599999999999994,-0.1653333333333333,0.5,0.167,1,5,6.5,5.0,6.8,0,1
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,forex,3,upside_gap_two_crows,3,uptrend,6,12,6,56,-0.32899999999999996,-0.10966666666666665,0.5,0.167,1,5,9.33,22.0,6.8,0,1
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,forex,4,upside_gap_two_crows,3,uptrend,6,12,6,61,-0.16199999999999992,-0.05399999999999997,0.5,0.167,1,5,10.17,27.0,6.8,0,1
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,forex,5,upside_gap_two_crows,3,uptrend,6,12,6,95,0.0050000000000001155,0.0016666666666667052,0.5,0.167,1,5,15.83,61.0,6.8,0,1
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,stock,1,upside_gap_two_crows,3,uptrend,825,2109,1136,3197,-0.19499999999999995,-0.06499999999999999,0.54,0.405,460,676,2.81,3.06,2.65,3,4
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,stock,2,upside_gap_two_crows,3,uptrend,825,2108,1134,4745,-0.136,-0.04533333333333334,0.54,0.287,325,809,4.18,5.71,3.57,3,4
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,stock,3,upside_gap_two_crows,3,uptrend,825,2107,1133,6085,-0.07999999999999996,-0.026666666666666655,0.54,0.23,261,872,5.37,8.83,4.34,3,4
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,stock,4,upside_gap_two_crows,3,uptrend,825,2105,1132,7544,-0.04200000000000004,-0.014000000000000012,0.54,0.192,217,915,6.66,12.56,5.27,2,4
+CDLUPSIDEGAP2CROWS,bearish,reversal,bullish continuation,stock,5,upside_gap_two_crows,3,uptrend,825,2104,1132,9110,-0.04999999999999993,-0.016666666666666646,0.54,0.158,179,953,8.05,17.22,6.33,2,4

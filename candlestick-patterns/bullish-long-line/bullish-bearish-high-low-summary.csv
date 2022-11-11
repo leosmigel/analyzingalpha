@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLLONGLINE,bullish,,bearish,crypto,1,bullish_long_line,1,none,245,16661,7080,35183,-0.39699999999999996,-0.39699999999999996,0.42,0.303,2143,4937,4.97,5.84,4.59,24,23
+CDLLONGLINE,bullish,,bearish,crypto,2,bullish_long_line,1,none,245,15121,6357,50189,-0.402,-0.402,0.42,0.199,1263,5094,7.9,13.33,6.55,17,25
+CDLLONGLINE,bullish,,bearish,crypto,3,bullish_long_line,1,none,245,13361,5590,65129,-0.43999999999999995,-0.43999999999999995,0.42,0.14,782,4808,11.65,24.99,9.48,14,30
+CDLLONGLINE,bullish,,bearish,crypto,4,bullish_long_line,1,none,245,11584,4838,74342,-0.48800000000000004,-0.48800000000000004,0.42,0.103,496,4342,15.37,32.42,13.42,11,36
+CDLLONGLINE,bullish,,bearish,crypto,5,bullish_long_line,1,none,245,10718,4436,79965,-0.525,-0.525,0.41,0.079,351,4085,18.03,44.08,15.79,8,46
+CDLLONGLINE,bullish,,bearish,forex,1,bullish_long_line,1,none,1273,260371,100608,436537,-0.36500000000000005,-0.36500000000000005,0.39,0.315,31723,68885,4.34,5.78,3.68,88,63
+CDLLONGLINE,bullish,,bearish,forex,2,bullish_long_line,1,none,1273,242247,93296,635286,-0.36200000000000004,-0.36200000000000004,0.39,0.214,19930,73366,6.81,12.44,5.28,63,117
+CDLLONGLINE,bullish,,bearish,forex,3,bullish_long_line,1,none,1273,229270,88105,795593,-0.366,-0.366,0.38,0.158,13950,74155,9.03,21.29,6.72,51,210
+CDLLONGLINE,bullish,,bearish,forex,4,bullish_long_line,1,none,1273,217877,83576,931685,-0.38,-0.38,0.38,0.125,10415,73161,11.15,32.4,8.12,40,210
+CDLLONGLINE,bullish,,bearish,forex,5,bullish_long_line,1,none,1273,208729,79878,1039240,-0.385,-0.385,0.38,0.103,8260,71618,13.01,44.72,9.35,35,210
+CDLLONGLINE,bullish,,bearish,stock,1,bullish_long_line,1,none,6449,1207038,498589,1696237,-0.261,-0.261,0.41,0.369,184222,314367,3.4,4.04,3.03,154,24
+CDLLONGLINE,bullish,,bearish,stock,2,bullish_long_line,1,none,6449,1137284,467939,2590172,-0.252,-0.252,0.41,0.249,116482,351457,5.54,8.39,4.59,117,30
+CDLLONGLINE,bullish,,bearish,stock,3,bullish_long_line,1,none,6449,1072228,440063,3357126,-0.265,-0.265,0.41,0.185,81470,358593,7.63,14.11,6.16,96,49
+CDLLONGLINE,bullish,,bearish,stock,4,bullish_long_line,1,none,6449,1012470,414310,3986002,-0.28,-0.28,0.41,0.145,60239,354071,9.62,21.16,7.66,76,55
+CDLLONGLINE,bullish,,bearish,stock,5,bullish_long_line,1,none,6449,957228,391137,4553106,-0.29000000000000004,-0.29000000000000004,0.41,0.118,46092,345045,11.64,29.9,9.2,66,96

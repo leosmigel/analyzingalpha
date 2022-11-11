@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3STARSINSOUTH,bullish,reversal,bullish mean reversion,forex,1,three_stars_in_the_south,3,downtrend,10,32,13,48,0.235,0.07833333333333332,0.41,0.615,8,5,3.69,1.75,6.8,6,1
+CDL3STARSINSOUTH,bullish,reversal,bullish mean reversion,forex,2,three_stars_in_the_south,3,downtrend,10,32,13,213,-0.07399999999999995,-0.024666666666666653,0.41,0.308,4,9,16.38,34.25,8.44,1,4
+CDL3STARSINSOUTH,bullish,reversal,bullish mean reversion,forex,3,three_stars_in_the_south,3,downtrend,10,32,13,255,-0.07699999999999996,-0.025666666666666654,0.41,0.231,3,10,19.62,13.0,21.6,1,4
+CDL3STARSINSOUTH,bullish,reversal,bullish mean reversion,forex,4,three_stars_in_the_south,3,downtrend,10,32,13,297,0.15400000000000003,0.05133333333333334,0.41,0.231,3,10,22.85,27.0,21.6,1,4
+CDL3STARSINSOUTH,bullish,reversal,bullish mean reversion,forex,5,three_stars_in_the_south,3,downtrend,10,32,13,614,-0.07999999999999996,-0.026666666666666655,0.41,0.154,2,11,47.23,22.0,51.82,1,6

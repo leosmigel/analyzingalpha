@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLINNECK,bearish,continuation,bullish reversal,forex,1,in_neck,2,downtrend,2,4,4,4,-1.0,-0.5,1.0,0.0,0,4,1.0,,1.0,0,2
+CDLINNECK,bearish,continuation,bullish reversal,forex,2,in_neck,2,downtrend,2,4,4,4,-1.0,-0.5,1.0,0.0,0,4,1.0,,1.0,0,2
+CDLINNECK,bearish,continuation,bullish reversal,forex,3,in_neck,2,downtrend,2,4,4,4,-1.0,-0.5,1.0,0.0,0,4,1.0,,1.0,0,2
+CDLINNECK,bearish,continuation,bullish reversal,forex,4,in_neck,2,downtrend,2,4,4,4,-1.0,-0.5,1.0,0.0,0,4,1.0,,1.0,0,2
+CDLINNECK,bearish,continuation,bullish reversal,forex,5,in_neck,2,downtrend,2,4,4,4,-1.0,-0.5,1.0,0.0,0,4,1.0,,1.0,0,2
+CDLINNECK,bearish,continuation,bullish reversal,stock,1,in_neck,2,downtrend,3123,13476,12131,13534,-0.44199999999999995,-0.22099999999999997,0.9,0.278,3372,8759,1.12,1.17,1.09,5,11
+CDLINNECK,bearish,continuation,bullish reversal,stock,2,in_neck,2,downtrend,3123,13475,12129,14455,-0.21799999999999997,-0.10899999999999999,0.9,0.261,3164,8965,1.19,1.31,1.15,5,11
+CDLINNECK,bearish,continuation,bullish reversal,stock,3,in_neck,2,downtrend,3123,13474,12128,15575,-0.025000000000000022,-0.012500000000000011,0.9,0.245,2973,9155,1.28,1.51,1.21,5,11
+CDLINNECK,bearish,continuation,bullish reversal,stock,4,in_neck,2,downtrend,3123,13472,12126,16621,0.15800000000000003,0.07900000000000001,0.9,0.232,2812,9314,1.37,1.69,1.27,5,12
+CDLINNECK,bearish,continuation,bullish reversal,stock,5,in_neck,2,downtrend,3123,13472,12126,17579,0.32000000000000006,0.16000000000000003,0.9,0.22,2673,9453,1.45,1.89,1.32,4,12

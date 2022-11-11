@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,1,bearish_belt_hold,1,uptrend,236,5817,3767,28042,-0.15799999999999997,-0.15799999999999997,0.65,0.422,1590,2177,7.44,7.54,7.37,20,9
+CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,2,bearish_belt_hold,1,uptrend,236,4950,3189,46381,-0.21999999999999997,-0.21999999999999997,0.64,0.26,830,2359,14.54,17.39,13.54,14,18
+CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,3,bearish_belt_hold,1,uptrend,236,4349,2795,58853,-0.2919999999999999,-0.2919999999999999,0.64,0.176,492,2303,21.06,29.22,19.31,13,28
+CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,4,bearish_belt_hold,1,uptrend,236,4047,2594,68254,-0.38,-0.38,0.64,0.125,325,2269,26.31,40.32,24.31,7,25
+CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,5,bearish_belt_hold,1,uptrend,236,3695,2355,74268,-0.41000000000000003,-0.41000000000000003,0.64,0.098,231,2124,31.54,48.48,29.69,7,24
+CDLBELTHOLD,bearish,reversal,bearish reversal,forex,1,bearish_belt_hold,1,uptrend,1259,116160,78223,488262,0.019000000000000017,0.019000000000000017,0.67,0.509,39801,38422,6.24,6.15,6.34,122,31
+CDLBELTHOLD,bearish,reversal,bearish reversal,forex,2,bearish_belt_hold,1,uptrend,1259,101762,68758,798435,0.027999999999999914,0.027999999999999914,0.68,0.344,23659,45099,11.61,14.23,10.24,78,35
+CDLBELTHOLD,bearish,reversal,bearish reversal,forex,3,bearish_belt_hold,1,uptrend,1259,94458,63830,1062122,0.040000000000000036,0.040000000000000036,0.68,0.26,16600,47230,16.64,25.22,13.63,61,68
+CDLBELTHOLD,bearish,reversal,bearish reversal,forex,4,bearish_belt_hold,1,uptrend,1259,88281,59646,1280698,0.041999999999999926,0.041999999999999926,0.68,0.208,12425,47221,21.47,38.46,17.0,48,104
+CDLBELTHOLD,bearish,reversal,bearish reversal,forex,5,bearish_belt_hold,1,uptrend,1259,83609,56375,1446887,0.03500000000000003,0.03500000000000003,0.67,0.173,9780,46595,25.67,53.26,19.87,40,104
+CDLBELTHOLD,bearish,reversal,bearish reversal,stock,1,bearish_belt_hold,1,uptrend,5825,534918,398633,2047230,-0.038000000000000034,-0.038000000000000034,0.75,0.482,192330,206303,5.14,5.09,5.18,119,20
+CDLBELTHOLD,bearish,reversal,bearish reversal,stock,2,bearish_belt_hold,1,uptrend,5825,475608,354788,3317690,-0.04400000000000004,-0.04400000000000004,0.75,0.318,112849,241939,9.35,11.78,8.22,80,23
+CDLBELTHOLD,bearish,reversal,bearish reversal,stock,3,bearish_belt_hold,1,uptrend,5825,439532,328176,4405734,-0.07099999999999995,-0.07099999999999995,0.75,0.233,76391,251785,13.42,20.56,11.26,68,31
+CDLBELTHOLD,bearish,reversal,bearish reversal,stock,4,bearish_belt_hold,1,uptrend,5825,411521,307129,5266466,-0.09999999999999998,-0.09999999999999998,0.75,0.18,55399,251730,17.15,30.91,14.12,53,46
+CDLBELTHOLD,bearish,reversal,bearish reversal,stock,5,bearish_belt_hold,1,uptrend,5825,386334,287977,5922999,-0.135,-0.135,0.75,0.145,41890,246087,20.57,41.99,16.92,43,56

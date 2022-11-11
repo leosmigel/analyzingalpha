@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,crypto,1,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,crypto,2,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,crypto,3,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,crypto,4,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,crypto,5,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,stock,1,three_black_crows,4,uptrend,87,185,155,1660,0.020000000000000018,0.0050000000000000044,0.84,0.51,79,76,10.71,9.77,11.68,3,3
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,stock,2,three_black_crows,4,uptrend,87,185,155,4340,0.010000000000000009,0.0025000000000000022,0.84,0.335,52,103,28.0,35.69,24.12,2,3
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,stock,3,three_black_crows,4,uptrend,87,185,154,5725,-0.06799999999999995,-0.016999999999999987,0.83,0.234,36,118,37.18,72.31,26.46,2,4
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,stock,4,three_black_crows,4,uptrend,87,185,153,7288,-0.08799999999999997,-0.021999999999999992,0.83,0.183,28,125,47.63,78.68,40.68,2,4
+CDL3BLACKCROWS,bearish,reversal,bearish reversal,stock,5,three_black_crows,4,uptrend,87,184,151,8931,-0.24,-0.06,0.82,0.126,19,132,59.15,62.58,58.65,2,4

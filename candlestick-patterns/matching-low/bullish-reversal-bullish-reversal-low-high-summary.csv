@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,crypto,1,matching_low,2,downtrend,236,4143,2578,7295,-0.14099999999999996,-0.07049999999999998,0.62,0.429,1105,1473,2.83,3.24,2.52,7,23
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,crypto,2,matching_low,2,downtrend,236,4097,2540,9691,0.026000000000000023,0.013000000000000012,0.62,0.343,872,1668,3.82,4.77,3.32,7,23
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,crypto,3,matching_low,2,downtrend,236,4070,2525,11696,0.16900000000000004,0.08450000000000002,0.62,0.293,741,1784,4.63,5.94,4.09,5,23
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,crypto,4,matching_low,2,downtrend,236,4041,2509,13354,0.3420000000000001,0.17100000000000004,0.62,0.268,672,1837,5.32,7.57,4.5,5,23
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,crypto,5,matching_low,2,downtrend,236,4015,2492,15074,0.48,0.24,0.62,0.246,614,1878,6.05,9.56,4.9,5,23
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,forex,1,matching_low,2,downtrend,1193,59637,41437,90907,-0.48,-0.24,0.69,0.26,10779,30658,2.19,2.61,2.05,16,39
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,forex,2,matching_low,2,downtrend,1193,58833,40886,126698,-0.37200000000000005,-0.18600000000000003,0.69,0.209,8546,32340,3.1,4.48,2.74,10,50
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,forex,3,matching_low,2,downtrend,1193,58362,40551,153412,-0.2859999999999999,-0.14299999999999996,0.69,0.178,7228,33323,3.78,6.28,3.24,8,63
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,forex,4,matching_low,2,downtrend,1193,57937,40195,180540,-0.20399999999999996,-0.10199999999999998,0.69,0.159,6384,33811,4.49,8.3,3.77,5,100
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,forex,5,matching_low,2,downtrend,1193,57304,39809,206115,-0.14,-0.07,0.69,0.144,5752,34057,5.18,10.31,4.31,5,106
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,stock,1,matching_low,2,downtrend,5670,150932,94762,245404,-0.15999999999999998,-0.07999999999999999,0.63,0.42,39798,54964,2.59,2.86,2.4,11,16
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,stock,2,matching_low,2,downtrend,5670,149143,93594,385617,-0.07799999999999996,-0.03899999999999998,0.63,0.306,28672,64922,4.12,5.69,3.43,7,25
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,stock,3,matching_low,2,downtrend,5670,147768,92696,515227,-0.028000000000000025,-0.014000000000000012,0.63,0.244,22581,70115,5.56,9.2,4.39,5,27
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,stock,4,matching_low,2,downtrend,5670,146624,91973,638400,0.015999999999999903,0.007999999999999952,0.63,0.204,18761,73212,6.94,13.48,5.27,5,32
+CDLMATCHINGLOW,bullish,reversal,bullish reversal,stock,5,matching_low,2,downtrend,5670,145628,91342,758117,0.05999999999999994,0.02999999999999997,0.63,0.176,16121,75221,8.3,18.57,6.1,4,35

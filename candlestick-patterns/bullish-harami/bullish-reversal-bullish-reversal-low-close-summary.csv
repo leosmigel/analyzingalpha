@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLHARAMI,bullish,reversal,bullish reversal,crypto,1,bullish_harami,2,downtrend,229,2831,2707,7149,-0.16399999999999998,-0.08199999999999999,0.96,0.416,1125,1582,2.64,2.84,2.5,7,8
+CDLHARAMI,bullish,reversal,bullish reversal,crypto,2,bullish_harami,2,downtrend,229,2776,2645,9709,-0.09999999999999998,-0.04999999999999999,0.95,0.3,793,1852,3.67,4.18,3.45,6,12
+CDLHARAMI,bullish,reversal,bullish reversal,crypto,3,bullish_harami,2,downtrend,229,2747,2614,11896,-0.05500000000000005,-0.027500000000000024,0.95,0.235,613,2001,4.55,6.11,4.07,6,15
+CDLHARAMI,bullish,reversal,bullish reversal,crypto,4,bullish_harami,2,downtrend,229,2723,2585,13366,0.03399999999999992,0.01699999999999996,0.95,0.206,533,2052,5.17,7.71,4.51,6,30
+CDLHARAMI,bullish,reversal,bullish reversal,crypto,5,bullish_harami,2,downtrend,229,2696,2557,14694,0.07999999999999996,0.03999999999999998,0.95,0.18,459,2098,5.75,9.57,4.91,4,30
+CDLHARAMI,bullish,reversal,bullish reversal,forex,1,bullish_harami,2,downtrend,839,21474,21054,45054,-0.241,-0.1205,0.98,0.379,7988,13066,2.14,2.2,2.1,6,14
+CDLHARAMI,bullish,reversal,bullish reversal,forex,2,bullish_harami,2,downtrend,839,21248,20827,71458,-0.18399999999999994,-0.09199999999999997,0.98,0.273,5694,15133,3.43,4.71,2.95,6,50
+CDLHARAMI,bullish,reversal,bullish reversal,forex,3,bullish_harami,2,downtrend,839,21032,20605,95103,-0.15700000000000003,-0.07850000000000001,0.98,0.211,4350,16255,4.62,8.02,3.7,6,50
+CDLHARAMI,bullish,reversal,bullish reversal,forex,4,bullish_harami,2,downtrend,839,20845,20411,118490,-0.15799999999999992,-0.07899999999999996,0.98,0.168,3432,16979,5.81,12.07,4.54,4,53
+CDLHARAMI,bullish,reversal,bullish reversal,forex,5,bullish_harami,2,downtrend,839,20679,20240,138500,-0.16999999999999993,-0.08499999999999996,0.98,0.138,2803,17437,6.84,17.19,5.18,3,69
+CDLHARAMI,bullish,reversal,bullish reversal,stock,1,bullish_harami,2,downtrend,5851,305240,277665,635254,-0.07800000000000001,-0.03900000000000001,0.91,0.462,128402,149263,2.29,2.4,2.19,11,15
+CDLHARAMI,bullish,reversal,bullish reversal,stock,2,bullish_harami,2,downtrend,5851,298141,271008,975252,0.07199999999999995,0.035999999999999976,0.91,0.356,96495,174513,3.6,4.48,3.11,9,22
+CDLHARAMI,bullish,reversal,bullish reversal,stock,3,bullish_harami,2,downtrend,5851,291731,264982,1292765,0.16599999999999993,0.08299999999999996,0.91,0.292,77428,187554,4.88,7.19,3.93,9,27
+CDLHARAMI,bullish,reversal,bullish reversal,stock,4,bullish_harami,2,downtrend,5851,285840,259511,1597401,0.242,0.121,0.91,0.248,64376,195135,6.16,10.45,4.74,8,30
+CDLHARAMI,bullish,reversal,bullish reversal,stock,5,bullish_harami,2,downtrend,5851,280810,254802,1882196,0.30499999999999994,0.15249999999999997,0.91,0.217,55324,199478,7.39,14.13,5.52,8,34

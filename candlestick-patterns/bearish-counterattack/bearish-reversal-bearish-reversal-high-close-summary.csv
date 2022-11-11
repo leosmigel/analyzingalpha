@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,crypto,1,bearish_counterattack,2,uptrend,7,21,21,83,-0.6200000000000001,-0.31000000000000005,1.0,0.19,4,17,3.95,1.5,4.53,1,4
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,crypto,2,bearish_counterattack,2,uptrend,7,21,21,132,-0.71,-0.355,1.0,0.095,2,19,6.29,7.5,6.16,1,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,crypto,3,bearish_counterattack,2,uptrend,7,21,21,142,-0.8059999999999999,-0.40299999999999997,1.0,0.048,1,20,6.76,1.0,7.05,1,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,crypto,4,bearish_counterattack,2,uptrend,7,21,21,142,-0.758,-0.379,1.0,0.048,1,20,6.76,1.0,7.05,1,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,crypto,5,bearish_counterattack,2,uptrend,7,21,21,142,-0.71,-0.355,1.0,0.048,1,20,6.76,1.0,7.05,1,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,forex,1,bearish_counterattack,2,uptrend,92,407,378,1462,0.11800000000000005,0.059000000000000025,0.93,0.558,211,167,3.87,4.47,3.1,11,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,forex,2,bearish_counterattack,2,uptrend,92,406,377,2226,0.31999999999999995,0.15999999999999998,0.93,0.44,166,211,5.9,7.82,4.4,11,11
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,forex,3,bearish_counterattack,2,uptrend,92,405,376,4258,0.45200000000000007,0.22600000000000003,0.93,0.364,137,239,11.32,10.68,11.69,10,11
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,forex,4,bearish_counterattack,2,uptrend,92,403,373,4759,0.554,0.277,0.93,0.311,116,257,12.76,12.53,12.86,10,12
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,forex,5,bearish_counterattack,2,uptrend,92,402,372,5094,0.78,0.39,0.93,0.296,110,262,13.69,14.15,13.5,10,12
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,stock,1,bearish_counterattack,2,uptrend,1806,5736,4985,21124,0.062000000000000055,0.031000000000000028,0.87,0.532,2650,2335,4.24,3.91,4.61,8,5
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,stock,2,bearish_counterattack,2,uptrend,1806,5723,4972,38327,0.13,0.065,0.87,0.375,1865,3107,7.71,8.96,6.96,6,6
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,stock,3,bearish_counterattack,2,uptrend,1806,5698,4947,62867,0.135,0.0675,0.87,0.285,1410,3537,12.71,14.71,11.91,6,8
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,stock,4,bearish_counterattack,2,uptrend,1806,5672,4918,79115,0.11199999999999999,0.055999999999999994,0.87,0.223,1098,3820,16.09,20.54,14.81,5,9
+CDLCOUNTERATTACK,bearish,reversal,bearish reversal,stock,5,bearish_counterattack,2,uptrend,1806,5657,4903,95891,0.08999999999999997,0.044999999999999984,0.87,0.182,892,4011,19.56,25.73,18.19,3,9

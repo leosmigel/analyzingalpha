@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLCONCEALBABYSWALL,bullish,reversal,bullish reversal,stock,1,concealing_baby_swallow,4,downtrend,4,8,1,1,-1.0,-0.25,0.12,0.0,0,1,1.0,,1.0,0,1
+CDLCONCEALBABYSWALL,bullish,reversal,bullish reversal,stock,2,concealing_baby_swallow,4,downtrend,4,8,1,1,-1.0,-0.25,0.12,0.0,0,1,1.0,,1.0,0,1
+CDLCONCEALBABYSWALL,bullish,reversal,bullish reversal,stock,3,concealing_baby_swallow,4,downtrend,4,8,1,1,-1.0,-0.25,0.12,0.0,0,1,1.0,,1.0,0,1
+CDLCONCEALBABYSWALL,bullish,reversal,bullish reversal,stock,4,concealing_baby_swallow,4,downtrend,4,8,1,1,-1.0,-0.25,0.12,0.0,0,1,1.0,,1.0,0,1
+CDLCONCEALBABYSWALL,bullish,reversal,bullish reversal,stock,5,concealing_baby_swallow,4,downtrend,4,8,1,1,-1.0,-0.25,0.12,0.0,0,1,1.0,,1.0,0,1

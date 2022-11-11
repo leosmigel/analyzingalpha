@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLONNECK,bearish,continuation,bullish reversal,forex,1,on_neck,2,downtrend,3,6,6,6,-0.6629999999999999,-0.33149999999999996,1.0,0.167,1,5,1.0,1.0,1.0,0,2
+CDLONNECK,bearish,continuation,bullish reversal,forex,2,on_neck,2,downtrend,3,6,6,6,-0.49599999999999994,-0.24799999999999997,1.0,0.167,1,5,1.0,1.0,1.0,0,2
+CDLONNECK,bearish,continuation,bullish reversal,forex,3,on_neck,2,downtrend,3,6,6,6,-0.32899999999999996,-0.16449999999999998,1.0,0.167,1,5,1.0,1.0,1.0,0,2
+CDLONNECK,bearish,continuation,bullish reversal,forex,4,on_neck,2,downtrend,3,6,6,6,-0.16199999999999992,-0.08099999999999996,1.0,0.167,1,5,1.0,1.0,1.0,0,2
+CDLONNECK,bearish,continuation,bullish reversal,forex,5,on_neck,2,downtrend,3,6,6,6,0.0050000000000001155,0.0025000000000000577,1.0,0.167,1,5,1.0,1.0,1.0,0,2
+CDLONNECK,bearish,continuation,bullish reversal,stock,1,on_neck,2,downtrend,3699,22187,20163,21100,-0.6020000000000001,-0.30100000000000005,0.91,0.198,3986,16177,1.05,1.09,1.03,4,14
+CDLONNECK,bearish,continuation,bullish reversal,stock,2,on_neck,2,downtrend,3699,22187,20163,21132,-0.406,-0.203,0.91,0.197,3978,16185,1.05,1.1,1.04,4,14
+CDLONNECK,bearish,continuation,bullish reversal,stock,3,on_neck,2,downtrend,3699,22187,20163,21161,-0.20900000000000007,-0.10450000000000004,0.91,0.197,3972,16191,1.05,1.1,1.04,4,14
+CDLONNECK,bearish,continuation,bullish reversal,stock,4,on_neck,2,downtrend,3699,22187,20163,21192,-0.016000000000000014,-0.008000000000000007,0.91,0.196,3959,16204,1.05,1.11,1.04,4,14
+CDLONNECK,bearish,continuation,bullish reversal,stock,5,on_neck,2,downtrend,3699,22187,20163,21241,0.17999999999999994,0.08999999999999997,0.91,0.196,3944,16219,1.05,1.11,1.04,4,14

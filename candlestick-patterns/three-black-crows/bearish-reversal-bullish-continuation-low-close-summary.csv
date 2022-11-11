@@ -1,0 +1,11 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,crypto,1,three_black_crows,4,uptrend,1,5,5,5,-1.0,-0.25,1.0,0.0,0,5,1.0,,1.0,0,5
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,crypto,2,three_black_crows,4,uptrend,1,5,5,5,-1.0,-0.25,1.0,0.0,0,5,1.0,,1.0,0,5
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,crypto,3,three_black_crows,4,uptrend,1,5,5,5,-1.0,-0.25,1.0,0.0,0,5,1.0,,1.0,0,5
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,crypto,4,three_black_crows,4,uptrend,1,5,5,5,-1.0,-0.25,1.0,0.0,0,5,1.0,,1.0,0,5
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,crypto,5,three_black_crows,4,uptrend,1,5,5,5,-1.0,-0.25,1.0,0.0,0,5,1.0,,1.0,0,5
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,stock,1,three_black_crows,4,uptrend,87,185,178,183,-0.963,-0.24075,0.96,0.017,3,175,1.03,1.0,1.03,1,4
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,stock,2,three_black_crows,4,uptrend,87,185,178,183,-0.946,-0.2365,0.96,0.017,3,175,1.03,1.0,1.03,1,4
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,stock,3,three_black_crows,4,uptrend,87,185,178,183,-0.9289999999999999,-0.23224999999999998,0.96,0.017,3,175,1.03,1.0,1.03,1,4
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,stock,4,three_black_crows,4,uptrend,87,185,178,183,-0.9119999999999999,-0.22799999999999998,0.96,0.017,3,175,1.03,1.0,1.03,1,4
+CDL3BLACKCROWS,bearish,reversal,bullish continuation,stock,5,three_black_crows,4,uptrend,87,185,178,183,-0.895,-0.22375,0.96,0.017,3,175,1.03,1.0,1.03,1,4

@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLTRISTAR,bearish,reversal,bearish mean reversion,crypto,1,bearish_tri_star,3,uptrend,4,11,3,5,-1.0,-0.3333333333333333,0.27,0.0,0,3,1.67,,1.67,0,1
+CDLTRISTAR,bearish,reversal,bearish mean reversion,crypto,2,bearish_tri_star,3,uptrend,4,11,3,5,-1.0,-0.3333333333333333,0.27,0.0,0,3,1.67,,1.67,0,1
+CDLTRISTAR,bearish,reversal,bearish mean reversion,crypto,3,bearish_tri_star,3,uptrend,4,11,3,5,-1.0,-0.3333333333333333,0.27,0.0,0,3,1.67,,1.67,0,1
+CDLTRISTAR,bearish,reversal,bearish mean reversion,crypto,4,bearish_tri_star,3,uptrend,4,11,3,5,-1.0,-0.3333333333333333,0.27,0.0,0,3,1.67,,1.67,0,1
+CDLTRISTAR,bearish,reversal,bearish mean reversion,crypto,5,bearish_tri_star,3,uptrend,4,11,3,5,-1.0,-0.3333333333333333,0.27,0.0,0,3,1.67,,1.67,0,1
+CDLTRISTAR,bearish,reversal,bearish mean reversion,forex,1,bearish_tri_star,3,uptrend,63,258,113,668,0.521,0.17366666666666666,0.44,0.761,86,27,5.91,6.78,3.15,11,3
+CDLTRISTAR,bearish,reversal,bearish mean reversion,forex,2,bearish_tri_star,3,uptrend,63,246,106,2904,0.6740000000000002,0.2246666666666667,0.43,0.557,59,47,27.4,29.14,25.21,7,3
+CDLTRISTAR,bearish,reversal,bearish mean reversion,forex,3,bearish_tri_star,3,uptrend,63,238,102,3938,0.5259999999999999,0.1753333333333333,0.43,0.382,39,63,38.61,48.64,32.4,6,3
+CDLTRISTAR,bearish,reversal,bearish mean reversion,forex,4,bearish_tri_star,3,uptrend,63,236,100,4477,0.55,0.18333333333333335,0.42,0.31,31,69,44.77,56.55,39.48,5,3
+CDLTRISTAR,bearish,reversal,bearish mean reversion,forex,5,bearish_tri_star,3,uptrend,63,234,98,4630,0.4650000000000001,0.15500000000000003,0.42,0.245,24,74,47.24,62.33,42.35,5,3
+CDLTRISTAR,bearish,reversal,bearish mean reversion,stock,1,bearish_tri_star,3,uptrend,2141,10359,3673,11693,0.04500000000000004,0.015000000000000013,0.35,0.525,1928,1745,3.18,3.2,3.17,8,6
+CDLTRISTAR,bearish,reversal,bearish mean reversion,stock,2,bearish_tri_star,3,uptrend,2141,10295,3652,20235,0.08799999999999997,0.029333333333333322,0.35,0.364,1330,2322,5.54,6.57,4.95,6,9
+CDLTRISTAR,bearish,reversal,bearish mean reversion,stock,3,bearish_tri_star,3,uptrend,2141,10257,3635,28421,0.08300000000000007,0.02766666666666669,0.35,0.271,984,2651,7.82,10.86,6.69,6,11
+CDLTRISTAR,bearish,reversal,bearish mean reversion,stock,4,bearish_tri_star,3,uptrend,2141,10218,3625,36464,0.07999999999999996,0.026666666666666655,0.35,0.215,778,2847,10.06,16.6,8.27,5,11
+CDLTRISTAR,bearish,reversal,bearish mean reversion,stock,5,bearish_tri_star,3,uptrend,2141,10192,3614,43604,0.06999999999999995,0.023333333333333317,0.35,0.178,642,2972,12.07,23.9,9.51,5,11

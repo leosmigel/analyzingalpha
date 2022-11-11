@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,crypto,1,evening_star,3,uptrend,68,194,76,146,-0.556,-0.18533333333333335,0.39,0.224,17,59,1.92,4.18,1.27,1,4
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,crypto,2,evening_star,3,uptrend,68,194,76,169,-0.45199999999999996,-0.15066666666666664,0.39,0.184,14,62,2.22,5.07,1.58,1,4
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,crypto,3,evening_star,3,uptrend,68,194,76,284,-0.526,-0.17533333333333334,0.39,0.118,9,67,3.74,5.56,3.49,1,4
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,crypto,4,evening_star,3,uptrend,68,194,76,291,-0.40800000000000003,-0.136,0.39,0.118,9,67,3.83,6.33,3.49,1,4
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,crypto,5,evening_star,3,uptrend,68,194,76,300,-0.29000000000000004,-0.09666666666666668,0.39,0.118,9,67,3.95,7.33,3.49,1,4
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,forex,1,evening_star,3,uptrend,544,2777,707,1403,-0.704,-0.23466666666666666,0.25,0.146,103,604,1.98,4.27,1.59,1,5
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,forex,2,evening_star,3,uptrend,544,2775,706,2111,-0.678,-0.226,0.25,0.106,75,631,2.99,10.12,2.14,1,6
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,forex,3,evening_star,3,uptrend,544,2769,704,3066,-0.677,-0.22566666666666668,0.25,0.081,57,647,4.36,23.32,2.68,1,6
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,forex,4,evening_star,3,uptrend,544,2768,704,5058,-0.746,-0.24866666666666667,0.25,0.051,36,668,7.18,33.56,5.76,1,6
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,forex,5,evening_star,3,uptrend,544,2766,703,6096,-0.745,-0.24833333333333332,0.25,0.043,30,673,8.67,42.07,7.18,1,6
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,stock,1,evening_star,3,uptrend,3972,38587,14601,23771,-0.6020000000000001,-0.2006666666666667,0.38,0.198,2897,11704,1.63,2.57,1.39,3,12
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,stock,2,evening_star,3,uptrend,3972,38531,14574,32578,-0.554,-0.18466666666666667,0.38,0.148,2160,12414,2.24,4.63,1.82,3,13
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,stock,3,evening_star,3,uptrend,3972,38483,14559,40559,-0.514,-0.17133333333333334,0.38,0.122,1776,12783,2.79,7.26,2.16,3,13
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,stock,4,evening_star,3,uptrend,3972,38433,14543,48683,-0.49200000000000005,-0.164,0.38,0.102,1480,13063,3.35,10.99,2.48,3,13
+CDLEVENINGSTAR,bearish,reversal,bullish continuation,stock,5,evening_star,3,uptrend,3972,38399,14528,55781,-0.4650000000000001,-0.15500000000000003,0.38,0.089,1292,13236,3.84,13.67,2.88,3,14

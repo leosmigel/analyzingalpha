@@ -1,0 +1,16 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,1,identical_three_crows,3,uptrend,75,201,142,2643,-0.12300000000000005,-0.041000000000000016,0.71,0.437,62,80,18.61,12.56,23.3,4,6
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,2,identical_three_crows,3,uptrend,75,199,138,4688,-0.16999999999999993,-0.05666666666666664,0.69,0.275,38,100,33.97,25.61,37.15,2,7
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,3,identical_three_crows,3,uptrend,75,190,131,7508,-0.32599999999999996,-0.10866666666666665,0.69,0.168,22,109,57.31,19.55,64.94,2,7
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,4,identical_three_crows,3,uptrend,75,190,128,8130,-0.38,-0.12666666666666668,0.67,0.125,16,112,63.52,37.31,67.26,1,7
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,5,identical_three_crows,3,uptrend,75,188,126,8732,-0.385,-0.12833333333333333,0.67,0.103,13,113,69.3,73.38,68.83,1,7
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,1,identical_three_crows,3,uptrend,518,6506,3775,45649,0.15799999999999997,0.05266666666666666,0.58,0.578,2181,1594,12.09,10.32,14.51,22,7
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,2,identical_three_crows,3,uptrend,518,6293,3651,79933,0.264,0.08800000000000001,0.58,0.422,1542,2109,21.89,24.12,20.26,19,9
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,3,identical_three_crows,3,uptrend,518,6150,3566,112622,0.32300000000000006,0.10766666666666669,0.58,0.331,1181,2385,31.58,42.76,26.05,19,19
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,4,identical_three_crows,3,uptrend,518,5992,3463,138052,0.3620000000000001,0.1206666666666667,0.58,0.273,946,2517,39.86,57.26,33.33,19,19
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,5,identical_three_crows,3,uptrend,518,5770,3323,165710,0.42999999999999994,0.1433333333333333,0.58,0.238,790,2533,49.87,76.84,41.45,19,21
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,1,identical_three_crows,3,uptrend,121,237,199,2674,0.15799999999999997,0.05266666666666666,0.84,0.578,115,84,13.44,14.13,12.49,3,3
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,2,identical_three_crows,3,uptrend,121,235,193,5279,0.20800000000000007,0.06933333333333336,0.82,0.404,78,115,27.35,30.87,24.97,2,4
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,3,identical_three_crows,3,uptrend,121,235,191,7721,0.15399999999999991,0.05133333333333331,0.81,0.288,55,136,40.42,48.84,37.02,2,4
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,4,identical_three_crows,3,uptrend,121,233,189,12693,0.08799999999999997,0.029333333333333322,0.81,0.217,41,148,67.16,55.56,70.37,2,4
+CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,5,identical_three_crows,3,uptrend,121,233,189,15177,-0.019999999999999907,-0.006666666666666636,0.81,0.164,31,158,80.3,86.58,79.07,1,4

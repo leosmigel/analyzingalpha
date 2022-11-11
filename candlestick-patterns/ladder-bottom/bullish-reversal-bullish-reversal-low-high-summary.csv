@@ -1,0 +1,6 @@
+pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
+CDLLADDERBOTTOM,bullish,reversal,bullish reversal,stock,1,ladder_bottom,5,downtrend,2331,8530,6750,56345,0.07700000000000001,0.015400000000000002,0.79,0.537,3627,3123,8.35,8.16,8.57,7,6
+CDLLADDERBOTTOM,bullish,reversal,bullish reversal,stock,2,ladder_bottom,5,downtrend,2331,8506,6711,104699,0.17800000000000005,0.03560000000000001,0.79,0.394,2646,4065,15.6,20.34,12.52,5,6
+CDLLADDERBOTTOM,bullish,reversal,bullish reversal,stock,3,ladder_bottom,5,downtrend,2331,8477,6679,156632,0.271,0.054200000000000005,0.79,0.317,2116,4563,23.45,38.64,16.41,5,8
+CDLLADDERBOTTOM,bullish,reversal,bullish reversal,stock,4,ladder_bottom,5,downtrend,2331,8445,6642,205364,0.3340000000000001,0.06680000000000001,0.79,0.266,1770,4872,30.92,56.16,21.75,5,8
+CDLLADDERBOTTOM,bullish,reversal,bullish reversal,stock,5,ladder_bottom,5,downtrend,2331,8420,6609,243013,0.4149999999999998,0.08299999999999996,0.78,0.235,1556,5053,36.77,76.7,24.47,4,8
