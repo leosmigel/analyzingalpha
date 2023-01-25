@@ -37,6 +37,7 @@ tmp
 vendor
 Gemfile.lock
 node_modules
+.venv
 
 # Jupyter
 .ipynb_checkpoints/
