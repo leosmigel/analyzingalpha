@@ -4,7 +4,7 @@ alpha-vantage==2.2.0
 async-timeout==3.0.1
 attrs==20.1.0
 backtrader==1.9.76.123
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 fredapi==0.4.2
