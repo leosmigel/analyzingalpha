@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,crypto,1,bearish_three_line_strike,4,downtrend,26,77,76,101,-0.182,-0.0455,0.99,0.408,31,45,1.33,1.55,1.18,6,3
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,crypto,2,bearish_three_line_strike,4,downtrend,26,76,75,134,-0.15999999999999992,-0.03999999999999998,0.99,0.28,21,54,1.79,2.81,1.39,6,4
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,crypto,3,bearish_three_line_strike,4,downtrend,26,76,75,175,0.07100000000000006,0.017750000000000016,0.99,0.267,20,55,2.33,4.5,1.55,6,4
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,crypto,4,bearish_three_line_strike,4,downtrend,26,76,75,208,0.19999999999999996,0.04999999999999999,0.99,0.24,18,57,2.77,6.28,1.67,6,4
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,crypto,5,bearish_three_line_strike,4,downtrend,26,76,75,293,0.2749999999999999,0.06874999999999998,0.99,0.213,16,59,3.91,10.81,2.03,6,4
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,forex,1,bearish_three_line_strike,4,downtrend,287,856,849,1225,-0.475,-0.11875,0.99,0.265,225,624,1.44,1.24,1.51,4,8
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,forex,2,bearish_three_line_strike,4,downtrend,287,856,849,1530,-0.342,-0.0855,0.99,0.219,186,663,1.8,1.74,1.82,4,8
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,forex,3,bearish_three_line_strike,4,downtrend,287,856,849,1716,-0.24,-0.06,0.99,0.19,161,688,2.02,2.37,1.94,4,8
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,forex,4,bearish_three_line_strike,4,downtrend,287,855,848,1995,-0.19999999999999996,-0.04999999999999999,0.99,0.16,136,712,2.35,3.46,2.14,4,8
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,forex,5,bearish_three_line_strike,4,downtrend,287,855,847,2242,-0.16999999999999993,-0.04249999999999998,0.99,0.138,117,730,2.65,4.72,2.32,4,8
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,stock,1,bearish_three_line_strike,4,downtrend,702,1709,1578,2481,-0.35600000000000004,-0.08900000000000001,0.92,0.324,511,1067,1.57,1.54,1.59,5,6
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,stock,2,bearish_three_line_strike,4,downtrend,702,1708,1577,3041,-0.136,-0.034,0.92,0.287,452,1125,1.93,2.16,1.84,4,6
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,stock,3,bearish_three_line_strike,4,downtrend,702,1708,1576,4162,0.03400000000000003,0.008500000000000008,0.92,0.258,407,1169,2.64,4.49,2.0,4,6
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,stock,4,bearish_three_line_strike,4,downtrend,702,1708,1576,4744,0.15400000000000003,0.038500000000000006,0.92,0.231,364,1212,3.01,4.57,2.54,3,6
-CDL3LINESTRIKE,bearish,continuation,bearish continuation,stock,5,bearish_three_line_strike,4,downtrend,702,1708,1575,5278,0.2749999999999999,0.06874999999999998,0.92,0.213,335,1240,3.35,5.27,2.83,3,6
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ca91858b29933a0111c5dc6ac5bb5fe50bfe741e4581463d32a9247b342fa7
+size 3072

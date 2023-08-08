@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLENGULFING,bearish,reversal,bearish reversal,crypto,1,bearish_engulfing,2,uptrend,211,2398,1740,11168,-0.08200000000000002,-0.04100000000000001,0.73,0.458,797,943,6.42,5.88,6.87,21,10
-CDLENGULFING,bearish,reversal,bearish reversal,crypto,2,bearish_engulfing,2,uptrend,211,2224,1595,18425,-0.16999999999999993,-0.08499999999999996,0.72,0.275,438,1157,11.55,13.59,10.78,11,10
-CDLENGULFING,bearish,reversal,bearish reversal,crypto,3,bearish_engulfing,2,uptrend,211,2072,1464,25743,-0.265,-0.1325,0.71,0.185,271,1193,17.58,29.57,14.86,9,17
-CDLENGULFING,bearish,reversal,bearish reversal,crypto,4,bearish_engulfing,2,uptrend,211,1915,1340,31744,-0.31199999999999994,-0.15599999999999997,0.7,0.137,183,1157,23.69,37.87,21.45,8,17
-CDLENGULFING,bearish,reversal,bearish reversal,crypto,5,bearish_engulfing,2,uptrend,211,1824,1266,34528,-0.395,-0.1975,0.69,0.101,128,1138,27.27,46.61,25.1,5,23
-CDLENGULFING,bearish,reversal,bearish reversal,forex,1,bearish_engulfing,2,uptrend,847,29679,22671,145894,-0.08300000000000002,-0.04150000000000001,0.76,0.457,10356,12315,6.44,6.94,6.01,39,16
-CDLENGULFING,bearish,reversal,bearish reversal,forex,2,bearish_engulfing,2,uptrend,847,28218,21503,261459,-0.10199999999999998,-0.05099999999999999,0.76,0.299,6420,15083,12.16,16.65,10.25,26,28
-CDLENGULFING,bearish,reversal,bearish reversal,forex,3,bearish_engulfing,2,uptrend,847,27094,20603,376181,-0.123,-0.0615,0.76,0.219,4510,16093,18.26,32.9,14.16,20,35
-CDLENGULFING,bearish,reversal,bearish reversal,forex,4,bearish_engulfing,2,uptrend,847,26039,19743,471505,-0.1459999999999999,-0.07299999999999995,0.76,0.171,3374,16369,23.88,51.83,18.12,15,35
-CDLENGULFING,bearish,reversal,bearish reversal,forex,5,bearish_engulfing,2,uptrend,847,24985,18897,546554,-0.17499999999999993,-0.08749999999999997,0.76,0.137,2594,16303,28.92,70.2,22.35,14,35
-CDLENGULFING,bearish,reversal,bearish reversal,stock,1,bearish_engulfing,2,uptrend,5246,265192,206110,1068074,-0.04200000000000004,-0.02100000000000002,0.78,0.478,98570,107540,5.18,5.1,5.26,62,15
-CDLENGULFING,bearish,reversal,bearish reversal,stock,2,bearish_engulfing,2,uptrend,5246,251911,195559,1835516,-0.061999999999999944,-0.030999999999999972,0.78,0.314,61429,134130,9.39,11.9,8.24,38,23
-CDLENGULFING,bearish,reversal,bearish reversal,stock,3,bearish_engulfing,2,uptrend,5246,242308,187860,2544913,-0.08599999999999997,-0.04299999999999998,0.78,0.228,42880,144980,13.55,21.46,11.21,30,30
-CDLENGULFING,bearish,reversal,bearish reversal,stock,4,bearish_engulfing,2,uptrend,5246,233082,180360,3143518,-0.11199999999999999,-0.055999999999999994,0.77,0.177,31937,148423,17.43,32.17,14.26,23,48
-CDLENGULFING,bearish,reversal,bearish reversal,stock,5,bearish_engulfing,2,uptrend,5246,224410,173281,3631513,-0.15000000000000002,-0.07500000000000001,0.77,0.142,24675,148606,20.96,44.32,17.08,21,59
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1c5bb097bfdd70ffd1fa4121595166540264b8e7c4385769f7db11dc90c37c
+size 3058

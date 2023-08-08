@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,crypto,1,shooting_star,1,uptrend,100,352,294,1110,-0.30000000000000004,-0.30000000000000004,0.84,0.35,103,191,3.78,3.8,3.76,5,5
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,crypto,2,shooting_star,1,uptrend,100,352,293,2149,-0.312,-0.312,0.83,0.229,67,226,7.33,13.36,5.55,3,5
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,crypto,3,shooting_star,1,uptrend,100,347,288,2732,-0.36,-0.36,0.83,0.16,46,242,9.49,10.74,9.25,3,7
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,crypto,4,shooting_star,1,uptrend,100,346,285,3229,-0.366,-0.366,0.82,0.126,36,249,11.33,22.47,9.72,2,7
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,crypto,5,shooting_star,1,uptrend,100,344,282,4164,-0.32499999999999996,-0.32499999999999996,0.82,0.113,32,250,14.77,30.5,12.75,2,7
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,forex,1,shooting_star,1,uptrend,494,2494,1793,5008,-0.12400000000000005,-0.12400000000000005,0.72,0.436,782,1011,2.79,3.24,2.45,10,7
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,forex,2,shooting_star,1,uptrend,494,2486,1788,8631,-0.07799999999999996,-0.07799999999999996,0.72,0.306,548,1240,4.83,6.93,3.9,10,9
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,forex,3,shooting_star,1,uptrend,494,2481,1784,12695,-0.08299999999999996,-0.08299999999999996,0.72,0.229,409,1375,7.12,12.83,5.42,9,9
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,forex,4,shooting_star,1,uptrend,494,2476,1780,17206,-0.12,-0.12,0.72,0.175,311,1469,9.67,19.29,7.63,8,11
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,forex,5,shooting_star,1,uptrend,494,2472,1778,20586,-0.15000000000000002,-0.15000000000000002,0.72,0.142,252,1526,11.58,27.56,8.94,6,11
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,stock,1,shooting_star,1,uptrend,4631,104134,81829,233289,-0.09700000000000003,-0.09700000000000003,0.79,0.453,37062,44767,2.85,2.9,2.81,50,15
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,stock,2,shooting_star,1,uptrend,4631,103238,81092,376085,-0.061999999999999944,-0.061999999999999944,0.79,0.314,25481,55611,4.64,5.83,4.09,37,24
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,stock,3,shooting_star,1,uptrend,4631,102255,80244,518667,-0.04600000000000004,-0.04600000000000004,0.78,0.238,19072,61172,6.46,9.46,5.53,30,34
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,stock,4,shooting_star,1,uptrend,4631,101446,79576,647535,-0.050000000000000044,-0.050000000000000044,0.78,0.19,15090,64486,8.14,14.03,6.76,28,43
-CDLSHOOTINGSTAR,bearish,reversal,bearish reversal,stock,5,shooting_star,1,uptrend,4631,100624,78870,780444,-0.05499999999999994,-0.05499999999999994,0.78,0.157,12384,66486,9.9,19.62,8.08,24,43
+version https://git-lfs.github.com/spec/v1
+oid sha256:271bbf3b6fed312ba3b494d2aa1a5ef786348cdbcff0e33c360083826906201d
+size 2908

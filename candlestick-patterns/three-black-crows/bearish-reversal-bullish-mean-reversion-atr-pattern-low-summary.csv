@@ -1,11 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,crypto,1,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,crypto,2,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,crypto,3,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,crypto,4,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,crypto,5,three_black_crows,4,uptrend,1,5,0,0,,,0.0,,0,0,,,,0,0
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,stock,1,three_black_crows,4,uptrend,87,185,119,447,0.14099999999999996,0.03524999999999999,0.64,0.571,68,51,3.76,3.68,3.86,3,2
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,stock,2,three_black_crows,4,uptrend,87,185,119,904,0.10999999999999999,0.027499999999999997,0.64,0.37,44,75,7.6,7.75,7.51,3,3
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,stock,3,three_black_crows,4,uptrend,87,185,119,1305,0.20900000000000007,0.05225000000000002,0.64,0.303,36,83,10.97,17.25,8.24,3,3
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,stock,4,three_black_crows,4,uptrend,87,185,119,1581,0.258,0.0645,0.64,0.252,30,89,13.29,24.73,9.43,2,3
-CDL3BLACKCROWS,bearish,reversal,bullish mean reversion,stock,5,three_black_crows,4,uptrend,87,185,119,1910,0.26,0.065,0.64,0.21,25,94,16.05,30.84,12.12,1,3
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d4668ce200928be650f0f26f146eaec9444b16f7347167ab9f4fc883ead1324
+size 1689

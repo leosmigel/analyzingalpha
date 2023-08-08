@@ -1,6 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLABANDONEDBABY,bullish,reversal,bullish reversal,stock,1,bullish_abandoned_baby,3,downtrend,30,63,48,477,-0.12200000000000005,-0.040666666666666684,0.76,0.438,21,27,9.94,6.48,12.63,3,2
-CDLABANDONEDBABY,bullish,reversal,bullish reversal,stock,2,bullish_abandoned_baby,3,downtrend,30,63,48,712,0.05799999999999994,0.019333333333333313,0.76,0.354,17,31,14.83,8.71,18.19,3,2
-CDLABANDONEDBABY,bullish,reversal,bullish reversal,stock,3,bullish_abandoned_baby,3,downtrend,30,63,48,844,0.16599999999999993,0.05533333333333331,0.76,0.292,14,34,17.58,16.43,18.06,3,2
-CDLABANDONEDBABY,bullish,reversal,bullish reversal,stock,4,bullish_abandoned_baby,3,downtrend,30,63,48,1077,0.3540000000000001,0.11800000000000004,0.76,0.271,13,35,22.44,33.38,18.37,3,2
-CDLABANDONEDBABY,bullish,reversal,bullish reversal,stock,5,bullish_abandoned_baby,3,downtrend,30,63,48,1169,0.625,0.20833333333333334,0.76,0.271,13,35,24.35,40.46,18.37,3,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53f6f4c3b0586d4ba451731e6081daba2d94573edaa820f4f175f6dc5717233
+size 1155

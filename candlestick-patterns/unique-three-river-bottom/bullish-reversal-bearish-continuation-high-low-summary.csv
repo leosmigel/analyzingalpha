@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,crypto,1,unique_three_river_bottom,3,downtrend,7,15,10,17,0.0,0.0,0.67,0.5,5,5,1.7,2.2,1.2,2,1
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,crypto,2,unique_three_river_bottom,3,downtrend,7,14,10,38,-0.7,-0.2333333333333333,0.71,0.1,1,9,3.8,1.0,4.11,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,crypto,3,unique_three_river_bottom,3,downtrend,7,14,10,38,-0.6,-0.19999999999999998,0.71,0.1,1,9,3.8,1.0,4.11,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,crypto,4,unique_three_river_bottom,3,downtrend,7,14,10,38,-0.5,-0.16666666666666666,0.71,0.1,1,9,3.8,1.0,4.11,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,crypto,5,unique_three_river_bottom,3,downtrend,7,14,10,39,-0.4,-0.13333333333333333,0.71,0.1,1,9,3.9,2.0,4.11,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,forex,1,unique_three_river_bottom,3,downtrend,100,328,247,1292,-0.11900000000000005,-0.03966666666666668,0.75,0.441,109,138,5.23,6.41,4.3,4,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,forex,2,unique_three_river_bottom,3,downtrend,100,326,246,2163,-0.07199999999999995,-0.023999999999999983,0.75,0.309,76,170,8.79,18.29,4.55,3,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,forex,3,unique_three_river_bottom,3,downtrend,100,325,245,3042,-0.07099999999999995,-0.023666666666666652,0.75,0.233,57,188,12.42,34.51,5.72,3,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,forex,4,unique_three_river_bottom,3,downtrend,100,325,245,3750,0.015999999999999903,0.005333333333333301,0.75,0.204,50,195,15.31,46.8,7.23,3,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,forex,5,unique_three_river_bottom,3,downtrend,100,325,244,4238,0.029999999999999916,0.009999999999999972,0.75,0.172,42,202,17.37,58.19,8.88,3,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,stock,1,unique_three_river_bottom,3,downtrend,2778,10264,6503,16339,-0.325,-0.10833333333333334,0.63,0.335,2176,4327,2.51,3.21,2.16,5,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,stock,2,unique_three_river_bottom,3,downtrend,2778,10247,6486,25172,-0.312,-0.104,0.63,0.229,1486,5000,3.88,6.37,3.14,5,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,stock,3,unique_three_river_bottom,3,downtrend,2778,10230,6473,33022,-0.29500000000000004,-0.09833333333333334,0.63,0.175,1136,5337,5.1,10.31,3.99,4,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,stock,4,unique_three_river_bottom,3,downtrend,2778,10223,6464,42105,-0.31199999999999994,-0.10399999999999998,0.63,0.137,884,5580,6.51,15.25,5.13,4,7
-CDLUNIQUE3RIVER,bullish,reversal,bearish continuation,stock,5,unique_three_river_bottom,3,downtrend,2778,10208,6453,52718,-0.32499999999999996,-0.10833333333333332,0.63,0.113,727,5726,8.17,22.44,6.36,4,8
+version https://git-lfs.github.com/spec/v1
+oid sha256:612d5a85be45d6723efc2399b053a60119bcca46b7625e846627fe6e200ea9ea
+size 3023

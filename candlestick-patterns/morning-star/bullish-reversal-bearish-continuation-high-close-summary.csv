@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,crypto,1,morning_star,3,downtrend,62,182,182,187,-0.8799999999999999,-0.2933333333333333,1.0,0.06,11,171,1.03,1.45,1.0,2,6
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,crypto,2,morning_star,3,downtrend,62,182,182,197,-0.83,-0.27666666666666667,1.0,0.055,10,172,1.08,2.3,1.01,2,6
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,crypto,3,morning_star,3,downtrend,62,182,182,235,-0.828,-0.27599999999999997,1.0,0.044,8,174,1.29,5.38,1.1,2,6
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,crypto,4,morning_star,3,downtrend,62,182,182,235,-0.784,-0.26133333333333336,1.0,0.044,8,174,1.29,5.38,1.1,2,6
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,crypto,5,morning_star,3,downtrend,62,182,182,268,-0.8049999999999999,-0.2683333333333333,1.0,0.033,6,176,1.47,7.33,1.27,2,6
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,forex,1,morning_star,3,downtrend,506,2172,2154,2294,-0.8380000000000001,-0.2793333333333334,0.99,0.082,177,1977,1.06,1.44,1.03,3,14
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,forex,2,morning_star,3,downtrend,506,2172,2154,2593,-0.798,-0.266,0.99,0.066,142,2012,1.2,2.75,1.09,3,14
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,forex,3,morning_star,3,downtrend,506,2171,2153,3050,-0.7689999999999999,-0.2563333333333333,0.99,0.057,122,2031,1.42,5.42,1.18,3,14
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,forex,4,morning_star,3,downtrend,506,2171,2153,3303,-0.75,-0.25,0.99,0.05,108,2045,1.53,6.38,1.28,2,14
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,forex,5,morning_star,3,downtrend,506,2171,2153,4788,-0.74,-0.24666666666666667,0.99,0.044,95,2058,2.22,4.6,2.11,2,14
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,stock,1,morning_star,3,downtrend,4034,31989,29255,31616,-0.8829999999999999,-0.2943333333333333,0.91,0.057,1679,27576,1.08,1.5,1.06,4,24
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,stock,2,morning_star,3,downtrend,4034,31980,29247,33183,-0.85,-0.2833333333333333,0.91,0.05,1470,27777,1.13,2.1,1.08,4,24
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,stock,3,morning_star,3,downtrend,4034,31970,29237,35370,-0.831,-0.27699999999999997,0.91,0.043,1268,27969,1.21,2.75,1.14,4,24
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,stock,4,morning_star,3,downtrend,4034,31962,29228,36963,-0.8039999999999999,-0.26799999999999996,0.91,0.039,1131,28097,1.26,3.28,1.18,4,24
-CDLMORNINGSTAR,bullish,reversal,bearish continuation,stock,5,morning_star,3,downtrend,4034,31955,29221,39058,-0.7849999999999999,-0.26166666666666666,0.91,0.035,1023,28198,1.34,4.23,1.23,4,24
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7f5cc7055907d428fdb16607985cbec4ba4d35560e614fd7d2ed605b1a310e4
+size 2864

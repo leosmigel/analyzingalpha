@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,crypto,1,evening_star,3,uptrend,68,191,86,524,0.28,0.09333333333333334,0.45,0.64,55,31,6.09,6.75,4.94,3,2
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,crypto,2,evening_star,3,uptrend,68,189,83,849,0.44399999999999995,0.148,0.44,0.482,40,43,10.23,12.18,8.42,2,3
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,crypto,3,evening_star,3,uptrend,68,189,83,1094,0.489,0.163,0.44,0.373,31,52,13.18,17.06,10.87,2,3
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,crypto,4,evening_star,3,uptrend,68,187,81,1289,0.604,0.20133333333333334,0.43,0.321,26,55,15.91,25.19,11.53,2,3
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,crypto,5,evening_star,3,uptrend,68,185,80,1409,0.655,0.21833333333333335,0.43,0.275,22,58,17.61,30.32,12.79,2,3
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,forex,1,evening_star,3,uptrend,544,2770,1298,6741,0.19599999999999995,0.06533333333333331,0.47,0.596,774,524,5.19,4.51,6.2,6,5
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,forex,2,evening_star,3,uptrend,544,2752,1291,13930,0.11399999999999999,0.038,0.47,0.372,480,811,10.79,12.01,10.07,5,6
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,forex,3,evening_star,3,uptrend,544,2736,1281,19678,0.07100000000000006,0.023666666666666687,0.47,0.267,342,939,15.36,22.75,12.67,3,7
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,forex,4,evening_star,3,uptrend,544,2728,1275,24914,0.07999999999999996,0.026666666666666655,0.47,0.215,274,1001,19.54,36.86,14.8,3,9
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,forex,5,evening_star,3,uptrend,544,2715,1262,29220,0.03500000000000003,0.011666666666666678,0.46,0.173,218,1044,23.15,46.39,18.3,2,9
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,stock,1,evening_star,3,uptrend,3972,38415,20976,87527,0.20099999999999996,0.06699999999999999,0.55,0.601,12613,8363,4.17,3.91,4.57,11,8
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,stock,2,evening_star,3,uptrend,3972,38035,20748,164406,0.256,0.08533333333333333,0.55,0.418,8677,12071,7.92,9.26,6.97,9,13
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,stock,3,evening_star,3,uptrend,3972,37666,20530,232914,0.30799999999999994,0.10266666666666664,0.55,0.326,6692,13838,11.35,15.83,9.18,6,13
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,stock,4,evening_star,3,uptrend,3972,37350,20331,298619,0.3580000000000001,0.11933333333333336,0.54,0.272,5525,14806,14.69,24.0,11.21,6,13
-CDLEVENINGSTAR,bearish,reversal,bullish mean reversion,stock,5,evening_star,3,uptrend,3972,37082,20155,366216,0.3900000000000001,0.13000000000000003,0.54,0.232,4675,15480,18.17,33.4,13.57,5,14
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc546269c4ada011f21e337defd3945eca6ce0b96455465efdb7507c3c0880b5
+size 2918

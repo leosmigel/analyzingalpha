@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3OUTSIDE,bearish,reversal,bullish continuation,crypto,1,three_outside_down,3,uptrend,142,948,931,1338,-0.738,-0.246,0.98,0.132,123,808,1.44,2.84,1.22,2,17
-CDL3OUTSIDE,bearish,reversal,bullish continuation,crypto,2,three_outside_down,3,uptrend,142,945,928,1565,-0.6940000000000001,-0.23133333333333336,0.98,0.103,96,832,1.69,4.92,1.31,1,17
-CDL3OUTSIDE,bearish,reversal,bullish continuation,crypto,3,three_outside_down,3,uptrend,142,944,926,1622,-0.665,-0.22166666666666668,0.98,0.085,79,847,1.75,5.87,1.37,1,17
-CDL3OUTSIDE,bearish,reversal,bullish continuation,crypto,4,three_outside_down,3,uptrend,142,941,922,1686,-0.6799999999999999,-0.22666666666666666,0.98,0.065,60,862,1.83,6.62,1.5,1,19
-CDL3OUTSIDE,bearish,reversal,bullish continuation,crypto,5,three_outside_down,3,uptrend,142,937,918,1821,-0.6549999999999999,-0.2183333333333333,0.98,0.057,52,866,1.98,8.94,1.57,1,19
-CDL3OUTSIDE,bearish,reversal,bullish continuation,forex,1,three_outside_down,3,uptrend,691,10219,10131,12807,-0.778,-0.25933333333333336,0.99,0.112,1137,8994,1.26,2.12,1.16,2,31
-CDL3OUTSIDE,bearish,reversal,bullish continuation,forex,2,three_outside_down,3,uptrend,691,10199,10109,15481,-0.736,-0.24533333333333332,0.99,0.087,882,9227,1.53,3.31,1.36,2,36
-CDL3OUTSIDE,bearish,reversal,bullish continuation,forex,3,three_outside_down,3,uptrend,691,10184,10093,17555,-0.7170000000000001,-0.23900000000000002,0.99,0.071,713,9380,1.74,4.33,1.54,2,36
-CDL3OUTSIDE,bearish,reversal,bullish continuation,forex,4,three_outside_down,3,uptrend,691,10169,10077,18958,-0.704,-0.23466666666666666,0.99,0.059,595,9482,1.88,5.84,1.63,2,36
-CDL3OUTSIDE,bearish,reversal,bullish continuation,forex,5,three_outside_down,3,uptrend,691,10161,10069,20201,-0.695,-0.23166666666666666,0.99,0.051,515,9554,2.01,7.54,1.71,2,36
-CDL3OUTSIDE,bearish,reversal,bullish continuation,stock,1,three_outside_down,3,uptrend,4709,113185,105563,117002,-0.74,-0.24666666666666667,0.93,0.13,13696,91867,1.11,1.42,1.06,4,49
-CDL3OUTSIDE,bearish,reversal,bullish continuation,stock,2,three_outside_down,3,uptrend,4709,113094,105476,128657,-0.662,-0.22066666666666668,0.93,0.114,11986,93490,1.22,1.88,1.14,4,49
-CDL3OUTSIDE,bearish,reversal,bullish continuation,stock,3,three_outside_down,3,uptrend,4709,113004,105391,139063,-0.5940000000000001,-0.19800000000000004,0.93,0.102,10698,94693,1.32,2.41,1.2,4,51
-CDL3OUTSIDE,bearish,reversal,bullish continuation,stock,4,three_outside_down,3,uptrend,4709,112912,105302,149394,-0.538,-0.17933333333333334,0.93,0.093,9744,95558,1.42,2.99,1.26,3,55
-CDL3OUTSIDE,bearish,reversal,bullish continuation,stock,5,three_outside_down,3,uptrend,4709,112813,105208,159265,-0.495,-0.165,0.93,0.085,8988,96220,1.51,3.63,1.32,3,55
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1eb170150ce7170b941d58ddd0491322fc93392e4e0b9ffd6373fdf4207da8
+size 2929

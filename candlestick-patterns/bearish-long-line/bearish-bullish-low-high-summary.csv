@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLLONGLINE,bearish,,bullish,crypto,1,bearish_long_line,1,none,250,19058,7684,24612,-0.264,-0.264,0.4,0.366,2813,4871,3.2,3.92,2.79,10,8
-CDLLONGLINE,bearish,,bullish,crypto,2,bearish_long_line,1,none,250,18140,7264,35927,-0.19599999999999995,-0.19599999999999995,0.4,0.267,1939,5325,4.95,7.26,4.1,6,13
-CDLLONGLINE,bearish,,bullish,crypto,3,bearish_long_line,1,none,250,17490,6967,43677,-0.14800000000000002,-0.14800000000000002,0.4,0.214,1492,5475,6.27,10.97,4.99,4,33
-CDLLONGLINE,bearish,,bullish,crypto,4,bearish_long_line,1,none,250,16957,6731,50254,-0.09199999999999997,-0.09199999999999997,0.4,0.182,1226,5505,7.47,14.75,5.84,4,33
-CDLLONGLINE,bearish,,bullish,crypto,5,bearish_long_line,1,none,250,16610,6579,54486,-0.039999999999999925,-0.039999999999999925,0.4,0.16,1055,5524,8.28,18.41,6.35,3,33
-CDLLONGLINE,bearish,,bullish,forex,1,bearish_long_line,1,none,1273,254650,101875,573730,-0.39799999999999996,-0.39799999999999996,0.4,0.302,30774,71101,5.63,7.39,4.87,15,71
-CDLLONGLINE,bearish,,bullish,forex,2,bearish_long_line,1,none,1273,232705,91930,798904,-0.39200000000000007,-0.39200000000000007,0.4,0.204,18732,73198,8.69,15.11,7.05,5,187
-CDLLONGLINE,bearish,,bullish,forex,3,bearish_long_line,1,none,1273,218200,85373,947475,-0.391,-0.391,0.39,0.153,13073,72300,11.1,24.6,8.66,4,187
-CDLLONGLINE,bearish,,bullish,forex,4,bearish_long_line,1,none,1273,206803,80503,1079330,-0.392,-0.392,0.39,0.122,9814,70689,13.41,36.2,10.24,4,187
-CDLLONGLINE,bearish,,bullish,forex,5,bearish_long_line,1,none,1273,198057,76683,1181369,-0.395,-0.395,0.39,0.101,7761,68922,15.41,49.39,11.58,4,187
-CDLLONGLINE,bearish,,bullish,stock,1,bearish_long_line,1,none,6448,1221024,521121,1656777,-0.20399999999999996,-0.20399999999999996,0.43,0.396,206248,314873,3.18,3.74,2.81,9,15
-CDLLONGLINE,bearish,,bullish,stock,2,bearish_long_line,1,none,6448,1155603,491235,2528231,-0.15000000000000002,-0.15000000000000002,0.43,0.285,139842,351393,5.15,7.81,4.09,6,30
-CDLLONGLINE,bearish,,bullish,stock,3,bearish_long_line,1,none,6448,1095603,464524,3277585,-0.09199999999999997,-0.09199999999999997,0.42,0.226,104836,359688,7.06,13.14,5.28,5,44
-CDLLONGLINE,bearish,,bullish,stock,4,bearish_long_line,1,none,6448,1039630,439641,3944469,-0.05400000000000005,-0.05400000000000005,0.42,0.189,83078,356563,8.97,19.79,6.45,6,44
-CDLLONGLINE,bearish,,bullish,stock,5,bearish_long_line,1,none,6448,990329,417887,4519402,-0.019999999999999907,-0.019999999999999907,0.42,0.164,68478,349409,10.81,27.72,7.5,6,44
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3c2e16e8461d5003d65bf48f069b7ce64f2ca737816507c755c75a7b6210ee
+size 2714

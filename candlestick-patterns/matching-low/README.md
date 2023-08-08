@@ -1,5 +1,3 @@
-Backtest for [matching low](https://analyzingalpha.com/matching-low-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a1888664bcd0c30f884d4fc4e48d6a8fbb102980f26e18d54d58180768445ff
+size 223

@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,crypto,1,stalled,3,uptrend,77,233,142,462,-0.017000000000000015,-0.005666666666666671,0.61,0.493,70,72,3.25,4.21,2.32,4,3
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,crypto,2,stalled,3,uptrend,77,231,140,933,-0.28800000000000003,-0.09600000000000002,0.61,0.236,33,107,6.66,10.45,5.5,3,4
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,crypto,3,stalled,3,uptrend,77,231,140,1330,-0.45199999999999996,-0.15066666666666664,0.61,0.136,19,121,9.5,18.84,8.03,3,6
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,crypto,4,stalled,3,uptrend,77,227,138,1987,-0.534,-0.17800000000000002,0.61,0.094,13,125,14.4,63.23,9.32,2,6
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,crypto,5,stalled,3,uptrend,77,225,135,2014,-0.56,-0.18666666666666668,0.6,0.074,10,125,14.92,69.1,10.58,2,6
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,forex,1,stalled,3,uptrend,961,7271,2785,11784,0.244,0.08133333333333333,0.38,0.624,1739,1046,4.23,3.92,4.75,9,6
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,forex,2,stalled,3,uptrend,961,7239,2759,26068,0.29200000000000004,0.09733333333333334,0.38,0.431,1189,1570,9.45,11.21,8.11,7,9
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,forex,3,stalled,3,uptrend,961,7219,2746,38479,0.277,0.09233333333333334,0.38,0.319,877,1869,14.01,18.67,11.83,6,9
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,forex,4,stalled,3,uptrend,961,7196,2736,50590,0.30800000000000005,0.10266666666666668,0.38,0.262,716,2020,18.49,29.58,14.56,6,9
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,forex,5,stalled,3,uptrend,961,7175,2721,64220,0.28,0.09333333333333334,0.38,0.214,582,2139,23.6,37.58,19.8,6,9
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,stock,1,stalled,3,uptrend,3365,26045,16132,59014,0.15799999999999997,0.05266666666666666,0.62,0.578,9329,6803,3.66,3.4,4.01,17,8
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,stock,2,stalled,3,uptrend,3365,25985,16074,110346,0.16200000000000003,0.05400000000000001,0.62,0.386,6209,9865,6.86,7.8,6.28,10,11
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,stock,3,stalled,3,uptrend,3365,25904,16016,162957,0.1140000000000001,0.038000000000000034,0.62,0.278,4453,11563,10.17,14.16,8.64,9,12
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,stock,4,stalled,3,uptrend,3365,25805,15941,214476,0.05799999999999994,0.019333333333333313,0.62,0.212,3375,12566,13.45,22.21,11.1,8,17
-CDLSTALLEDPATTERN,bearish,reversal,bearish mean reversion,stock,5,stalled,3,uptrend,3365,25714,15874,262777,0.015000000000000124,0.005000000000000042,0.62,0.169,2689,13185,16.55,31.34,13.54,6,17
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec96f64b773ed6f47461d271c7f01d4cd8a8f41d643be63cfa2da802cb68333
+size 2947

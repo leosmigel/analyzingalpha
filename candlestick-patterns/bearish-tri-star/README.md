@@ -1,5 +1,3 @@
-Backtest for [bearish tri star](https://analyzingalpha.com/bearish-tri-star-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c7cc66f6d49dcaf37bf4df5e59715eb79b2fcc1fb213fbc385d263275870b7
+size 231

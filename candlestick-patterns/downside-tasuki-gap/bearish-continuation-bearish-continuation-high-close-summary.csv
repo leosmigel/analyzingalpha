@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,1,downside_tasuki_gap,3,downtrend,3,6,6,17,0.337,0.11233333333333334,1.0,0.667,4,2,2.83,3.25,2.0,2,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,2,downside_tasuki_gap,3,downtrend,3,6,6,128,0.5,0.16666666666666666,1.0,0.5,3,3,21.33,2.67,40.0,2,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,3,downside_tasuki_gap,3,downtrend,3,6,6,140,-1.0,-0.3333333333333333,1.0,0.0,0,6,23.33,,23.33,0,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,4,downside_tasuki_gap,3,downtrend,3,6,6,140,-1.0,-0.3333333333333333,1.0,0.0,0,6,23.33,,23.33,0,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,crypto,5,downside_tasuki_gap,3,downtrend,3,6,6,140,-1.0,-0.3333333333333333,1.0,0.0,0,6,23.33,,23.33,0,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,1,downside_tasuki_gap,3,downtrend,28,60,59,165,-0.018000000000000016,-0.006000000000000005,0.98,0.492,29,30,2.8,3.69,1.93,2,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,2,downside_tasuki_gap,3,downtrend,28,60,59,276,0.17000000000000004,0.05666666666666668,0.98,0.39,23,36,4.68,7.13,3.11,2,2
-CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,3,downside_tasuki_gap,3,downtrend,28,60,59,439,0.15399999999999991,0.05133333333333331,0.98,0.288,17,42,7.44,15.0,4.38,2,3
-CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,4,downside_tasuki_gap,3,downtrend,28,60,59,576,0.266,0.08866666666666667,0.98,0.254,15,44,9.76,24.93,4.59,2,3
-CDLTASUKIGAP,bearish,continuation,bearish continuation,forex,5,downside_tasuki_gap,3,downtrend,28,60,59,729,0.42500000000000004,0.1416666666666667,0.98,0.237,14,45,12.36,36.14,4.96,2,3
-CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,1,downside_tasuki_gap,3,downtrend,3270,17163,15622,71839,-0.03500000000000003,-0.011666666666666678,0.91,0.485,7578,8044,4.6,4.34,4.84,10,8
-CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,2,downside_tasuki_gap,3,downtrend,3270,17023,15475,123337,-0.018000000000000016,-0.006000000000000005,0.91,0.326,5052,10423,7.97,9.63,7.16,9,10
-CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,3,downside_tasuki_gap,3,downtrend,3270,16904,15340,168004,-0.03400000000000003,-0.011333333333333343,0.91,0.242,3714,11626,10.95,16.0,9.34,8,13
-CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,4,downside_tasuki_gap,3,downtrend,3270,16807,15230,208907,-0.04200000000000004,-0.014000000000000012,0.91,0.192,2931,12299,13.72,22.96,11.51,7,13
-CDLTASUKIGAP,bearish,continuation,bearish continuation,stock,5,downside_tasuki_gap,3,downtrend,3270,16709,15112,253200,-0.06499999999999995,-0.02166666666666665,0.9,0.155,2344,12768,16.75,32.48,13.87,6,13
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5f39a624f393b1fb7ac0f66806749586d020886a29628381ca17a475a69b937
+size 2975

@@ -1,5 +1,3 @@
-Backtest for [evening star](https://analyzingalpha.com/evening-star-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b5007664426775728a0e217c7a22d2629f735b1a654849cbfe5d30e95e2c82
+size 223

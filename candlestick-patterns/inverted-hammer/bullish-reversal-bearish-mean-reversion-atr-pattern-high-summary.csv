@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,crypto,1,inverted_hammer,1,downtrend,176,982,483,1447,-0.02300000000000002,-0.02300000000000002,0.49,0.487,235,248,3.0,3.13,2.87,6,6
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,crypto,2,inverted_hammer,1,downtrend,176,957,464,2738,-0.050000000000000044,-0.050000000000000044,0.48,0.315,146,318,5.9,9.07,4.45,5,7
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,crypto,3,inverted_hammer,1,downtrend,176,943,453,3548,-0.04600000000000004,-0.04600000000000004,0.48,0.238,108,345,7.83,14.71,5.68,5,7
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,crypto,4,inverted_hammer,1,downtrend,176,936,447,5020,-0.04200000000000004,-0.04200000000000004,0.48,0.192,86,361,11.23,20.64,8.99,3,7
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,crypto,5,inverted_hammer,1,downtrend,176,928,442,7499,-0.03499999999999992,-0.03499999999999992,0.48,0.161,71,371,16.97,29.06,14.65,3,6
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,forex,1,inverted_hammer,1,downtrend,697,4409,1826,12649,0.16299999999999998,0.16299999999999998,0.41,0.583,1065,761,6.93,7.47,6.17,18,8
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,forex,2,inverted_hammer,1,downtrend,697,4236,1709,27687,0.11199999999999999,0.11199999999999999,0.4,0.371,634,1075,16.2,19.65,14.17,12,8
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,forex,3,inverted_hammer,1,downtrend,697,4166,1665,37826,0.16300000000000003,0.16300000000000003,0.4,0.291,484,1181,22.72,33.29,18.39,9,8
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,forex,4,inverted_hammer,1,downtrend,697,4110,1634,47924,0.11199999999999999,0.11199999999999999,0.4,0.223,365,1269,29.33,44.76,24.89,8,12
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,forex,5,inverted_hammer,1,downtrend,697,4080,1619,54009,0.1050000000000001,0.1050000000000001,0.4,0.185,299,1320,33.36,56.09,28.21,8,14
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,stock,1,inverted_hammer,1,downtrend,5725,168723,84514,265964,0.05900000000000005,0.05900000000000005,0.5,0.529,44703,39811,3.15,3.09,3.22,45,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,stock,2,inverted_hammer,1,downtrend,5725,163221,81521,468881,0.08799999999999997,0.08799999999999997,0.5,0.364,29635,51886,5.75,6.71,5.2,34,21
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,stock,3,inverted_hammer,1,downtrend,5725,159034,79246,645372,0.08600000000000008,0.08600000000000008,0.5,0.272,21573,57673,8.14,10.94,7.1,24,28
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,stock,4,inverted_hammer,1,downtrend,5725,155466,77304,808642,0.07999999999999996,0.07999999999999996,0.5,0.215,16652,60652,10.46,15.8,8.99,20,30
-CDLINVERTEDHAMMER,bullish,reversal,bearish mean reversion,stock,5,inverted_hammer,1,downtrend,5725,152537,75675,950232,0.05500000000000005,0.05500000000000005,0.5,0.175,13270,62405,12.56,22.02,10.55,17,35
+version https://git-lfs.github.com/spec/v1
+oid sha256:939a51ce101c89d0ba176ccf6a5d6398b298a21e892aba0cc54811898a277768
+size 3188

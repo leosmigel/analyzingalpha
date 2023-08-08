@@ -1,5 +1,3 @@
-Backtest for [bearish three line strike](https://analyzingalpha.com/bearish-three-line-strike-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:44de0d3543928cfe4d04390cf7601404c2af8607c76585824fad2c35c85cc572
+size 249

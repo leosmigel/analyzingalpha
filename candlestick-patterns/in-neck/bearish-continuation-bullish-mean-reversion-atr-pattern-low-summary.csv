@@ -1,11 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLINNECK,bearish,continuation,bullish mean reversion,forex,1,in_neck,2,downtrend,2,4,3,4,-0.337,-0.1685,0.75,0.333,1,2,1.33,1.0,1.5,0,1
-CDLINNECK,bearish,continuation,bullish mean reversion,forex,2,in_neck,2,downtrend,2,4,3,9,-0.0040000000000000036,-0.0020000000000000018,0.75,0.333,1,2,3.0,6.0,1.5,0,1
-CDLINNECK,bearish,continuation,bullish mean reversion,forex,3,in_neck,2,downtrend,2,4,3,9,0.32900000000000007,0.16450000000000004,0.75,0.333,1,2,3.0,6.0,1.5,0,1
-CDLINNECK,bearish,continuation,bullish mean reversion,forex,4,in_neck,2,downtrend,2,4,3,10,0.662,0.331,0.75,0.333,1,2,3.33,7.0,1.5,0,1
-CDLINNECK,bearish,continuation,bullish mean reversion,forex,5,in_neck,2,downtrend,2,4,3,10,0.995,0.4975,0.75,0.333,1,2,3.33,7.0,1.5,0,1
-CDLINNECK,bearish,continuation,bullish mean reversion,stock,1,in_neck,2,downtrend,3123,13414,6273,22124,0.16099999999999998,0.08049999999999999,0.47,0.581,3642,2631,3.53,3.37,3.75,9,5
-CDLINNECK,bearish,continuation,bullish mean reversion,stock,2,in_neck,2,downtrend,3123,13381,6241,44310,0.20800000000000007,0.10400000000000004,0.47,0.404,2522,3719,7.1,8.51,6.15,5,6
-CDLINNECK,bearish,continuation,bullish mean reversion,stock,3,in_neck,2,downtrend,3123,13352,6212,65417,0.2430000000000001,0.12150000000000005,0.47,0.311,1934,4278,10.53,15.37,8.34,4,7
-CDLINNECK,bearish,continuation,bullish mean reversion,stock,4,in_neck,2,downtrend,3123,13326,6194,85609,0.29600000000000004,0.14800000000000002,0.46,0.259,1602,4592,13.82,23.26,10.53,4,7
-CDLINNECK,bearish,continuation,bullish mean reversion,stock,5,in_neck,2,downtrend,3123,13308,6179,106471,0.33499999999999996,0.16749999999999998,0.46,0.223,1376,4803,17.23,34.35,12.33,3,7
+version https://git-lfs.github.com/spec/v1
+oid sha256:557e6a5f462feb04f85389a224f5de935481d50542faf51d364195657ac34529
+size 1900

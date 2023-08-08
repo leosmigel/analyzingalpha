@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLCLOSINGMARUBOZU,bearish,,bullish,crypto,1,bearish_closing_marubozu,1,none,247,19270,17828,20266,-0.238,-0.238,0.93,0.382,6815,11013,1.14,1.19,1.1,17,62
-CDLCLOSINGMARUBOZU,bearish,,bullish,crypto,2,bearish_closing_marubozu,1,none,247,19267,17825,20386,0.14200000000000002,0.14200000000000002,0.93,0.381,6787,11038,1.14,1.2,1.11,17,62
-CDLCLOSINGMARUBOZU,bearish,,bullish,crypto,3,bearish_closing_marubozu,1,none,247,19263,17821,20515,0.517,0.517,0.93,0.379,6754,11067,1.15,1.2,1.12,17,62
-CDLCLOSINGMARUBOZU,bearish,,bullish,crypto,4,bearish_closing_marubozu,1,none,247,19259,17818,20630,0.888,0.888,0.93,0.377,6723,11095,1.16,1.21,1.12,17,62
-CDLCLOSINGMARUBOZU,bearish,,bullish,crypto,5,bearish_closing_marubozu,1,none,247,19255,17814,20775,1.255,1.255,0.93,0.375,6680,11134,1.17,1.22,1.13,16,62
-CDLCLOSINGMARUBOZU,bearish,,bullish,forex,1,bearish_closing_marubozu,1,none,1279,333412,288524,314533,0.020000000000000018,0.020000000000000018,0.87,0.51,147027,141497,1.09,1.07,1.11,88,35
-CDLCLOSINGMARUBOZU,bearish,,bullish,forex,2,bearish_closing_marubozu,1,none,1279,333330,288443,316422,0.524,0.524,0.87,0.507,146217,142226,1.1,1.07,1.12,88,43
-CDLCLOSINGMARUBOZU,bearish,,bullish,forex,3,bearish_closing_marubozu,1,none,1279,333280,288393,317975,1.0150000000000001,1.0150000000000001,0.87,0.505,145566,142827,1.1,1.08,1.13,88,43
-CDLCLOSINGMARUBOZU,bearish,,bullish,forex,4,bearish_closing_marubozu,1,none,1279,333246,288357,319274,1.512,1.512,0.87,0.503,144991,143366,1.11,1.08,1.14,88,43
-CDLCLOSINGMARUBOZU,bearish,,bullish,forex,5,bearish_closing_marubozu,1,none,1279,333203,288313,320640,2.005,2.005,0.87,0.501,144378,143935,1.11,1.08,1.14,88,43
-CDLCLOSINGMARUBOZU,bearish,,bullish,stock,1,bearish_closing_marubozu,1,none,6434,1141558,1057083,1202658,-0.437,-0.437,0.93,0.283,298758,758325,1.14,1.24,1.1,10,30
-CDLCLOSINGMARUBOZU,bearish,,bullish,stock,2,bearish_closing_marubozu,1,none,6434,1141308,1056845,1206959,-0.15799999999999992,-0.15799999999999992,0.93,0.281,296993,759852,1.14,1.25,1.1,10,30
-CDLCLOSINGMARUBOZU,bearish,,bullish,stock,3,bearish_closing_marubozu,1,none,6434,1141083,1056634,1212541,0.1170000000000001,0.1170000000000001,0.93,0.279,294754,761880,1.15,1.26,1.1,10,30
-CDLCLOSINGMARUBOZU,bearish,,bullish,stock,4,bearish_closing_marubozu,1,none,6434,1140856,1056417,1219777,0.3840000000000001,0.3840000000000001,0.93,0.276,291923,764494,1.15,1.28,1.11,10,30
-CDLCLOSINGMARUBOZU,bearish,,bullish,stock,5,bearish_closing_marubozu,1,none,6434,1140569,1056137,1228935,0.6350000000000002,0.6350000000000002,0.93,0.273,288465,767672,1.16,1.29,1.11,10,30
+version https://git-lfs.github.com/spec/v1
+oid sha256:18aa7e8f4fb2990f90cec31100d71063ea6429042b0242478c3d281cfe23035b
+size 2809

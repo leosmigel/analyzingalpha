@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLHARAMI,bullish,reversal,bullish mean reversion,crypto,1,bullish_harami,2,downtrend,229,2656,1196,7549,0.182,0.091,0.45,0.592,708,488,6.31,6.55,5.97,6,5
-CDLHARAMI,bullish,reversal,bullish mean reversion,crypto,2,bullish_harami,2,downtrend,229,2541,1128,13888,0.17600000000000005,0.08800000000000002,0.44,0.393,443,685,12.31,15.13,10.49,5,7
-CDLHARAMI,bullish,reversal,bullish mean reversion,crypto,3,bullish_harami,2,downtrend,229,2468,1080,17208,0.18799999999999994,0.09399999999999997,0.44,0.296,320,760,15.93,24.28,12.42,3,8
-CDLHARAMI,bullish,reversal,bullish mean reversion,crypto,4,bullish_harami,2,downtrend,229,2428,1054,19549,0.21999999999999997,0.10999999999999999,0.43,0.245,258,796,18.55,33.19,13.8,3,9
-CDLHARAMI,bullish,reversal,bullish mean reversion,crypto,5,bullish_harami,2,downtrend,229,2410,1038,20895,0.2649999999999999,0.13249999999999995,0.43,0.211,219,819,20.13,40.85,14.59,3,14
-CDLHARAMI,bullish,reversal,bullish mean reversion,forex,1,bullish_harami,2,downtrend,839,20757,9062,39520,0.21699999999999997,0.10849999999999999,0.44,0.607,5499,3563,4.36,4.13,4.71,14,7
-CDLHARAMI,bullish,reversal,bullish mean reversion,forex,2,bullish_harami,2,downtrend,839,20105,8737,88736,0.19000000000000006,0.09500000000000003,0.43,0.395,3453,5284,10.16,12.37,8.71,8,14
-CDLHARAMI,bullish,reversal,bullish mean reversion,forex,3,bullish_harami,2,downtrend,839,19694,8518,131004,0.16599999999999993,0.08299999999999996,0.43,0.292,2486,6032,15.38,22.23,12.56,6,17
-CDLHARAMI,bullish,reversal,bullish mean reversion,forex,4,bullish_harami,2,downtrend,839,19335,8357,169782,0.15400000000000003,0.07700000000000001,0.43,0.231,1930,6427,20.32,34.83,15.96,6,19
-CDLHARAMI,bullish,reversal,bullish mean reversion,forex,5,bullish_harami,2,downtrend,839,19089,8233,208058,0.1399999999999999,0.06999999999999995,0.43,0.19,1561,6672,25.27,50.86,19.28,3,33
-CDLHARAMI,bullish,reversal,bullish mean reversion,stock,1,bullish_harami,2,downtrend,5851,287494,130534,510162,0.16299999999999998,0.08149999999999999,0.45,0.583,76068,54466,3.91,3.74,4.15,15,12
-CDLHARAMI,bullish,reversal,bullish mean reversion,stock,2,bullish_harami,2,downtrend,5851,275694,124795,935196,0.238,0.119,0.45,0.414,51677,73118,7.49,8.77,6.59,8,15
-CDLHARAMI,bullish,reversal,bullish mean reversion,stock,3,bullish_harami,2,downtrend,5851,266753,120287,1329025,0.30799999999999994,0.15399999999999997,0.45,0.326,39210,81077,11.05,15.6,8.85,7,21
-CDLHARAMI,bullish,reversal,bullish mean reversion,stock,4,bullish_harami,2,downtrend,5851,260395,117128,1694388,0.3580000000000001,0.17900000000000005,0.45,0.272,31903,85225,14.47,23.97,10.91,7,26
-CDLHARAMI,bullish,reversal,bullish mean reversion,stock,5,bullish_harami,2,downtrend,5851,255080,114478,2042596,0.41999999999999993,0.20999999999999996,0.45,0.236,26991,87487,17.84,33.78,12.93,5,26
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0419b8a662bac00709e8be47575f449a78b2304badf66795e81fe31031345f
+size 3038

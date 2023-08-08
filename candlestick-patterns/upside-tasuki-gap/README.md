@@ -1,5 +1,3 @@
-Backtest for [upside tasuki gap](https://analyzingalpha.com/upside-tasuki-gap-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbf6b2b654d388ee9b760387344dffac505fa1c530c687fb66449e93b4a239f
+size 233

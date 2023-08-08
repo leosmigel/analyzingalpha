@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,crypto,1,rising_three_methods,5,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,crypto,2,rising_three_methods,5,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,crypto,3,rising_three_methods,5,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,crypto,4,rising_three_methods,5,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,crypto,5,rising_three_methods,5,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,forex,1,rising_three_methods,5,uptrend,12,27,7,13,0.424,0.0848,0.26,0.714,5,2,1.86,1.8,2.0,1,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,forex,2,rising_three_methods,5,uptrend,12,27,7,48,0.28800000000000003,0.057600000000000005,0.26,0.429,3,4,6.86,7.33,6.5,1,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,forex,3,rising_three_methods,5,uptrend,12,27,7,65,0.717,0.1434,0.26,0.429,3,4,9.29,13.0,6.5,1,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,forex,4,rising_three_methods,5,uptrend,12,27,7,73,1.146,0.2292,0.26,0.429,3,4,10.43,15.67,6.5,1,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,forex,5,rising_three_methods,5,uptrend,12,27,7,119,0.72,0.144,0.26,0.286,2,5,17.0,43.0,6.6,1,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,stock,1,rising_three_methods,5,uptrend,146,316,40,129,0.30000000000000004,0.06000000000000001,0.13,0.65,26,14,3.22,2.96,3.71,2,1
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,stock,2,rising_three_methods,5,uptrend,146,315,40,252,0.72,0.144,0.13,0.575,23,17,6.3,6.57,5.94,2,2
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,stock,3,rising_three_methods,5,uptrend,146,315,40,403,0.6000000000000002,0.12000000000000004,0.13,0.4,16,24,10.07,11.94,8.83,2,2
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,stock,4,rising_three_methods,5,uptrend,146,315,40,571,0.5,0.1,0.13,0.3,12,28,14.28,16.33,13.39,2,2
-CDLRISEFALL3METHODS,bullish,continuation,bullish mean reversion,stock,5,rising_three_methods,5,uptrend,146,315,40,627,0.8,0.16,0.13,0.3,12,28,15.68,21.0,13.39,2,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd067d2ea3bd85e403a893098a79c27a5f90c87a83f0f23772ea397a19ffbc63
+size 2591

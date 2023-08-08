@@ -1,5 +1,3 @@
-Backtest for [gravestone doji](https://analyzingalpha.com/gravestone-doji-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e4567f8607c74d3c6be975f84ff1d401cea6e392017e7d25e4882283c3c0ce
+size 229

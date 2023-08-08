@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,crypto,1,three_outside_up,3,downtrend,157,999,203,1297,0.09700000000000003,0.032333333333333346,0.2,0.547,111,92,6.39,4.05,9.21,4,3
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,crypto,2,three_outside_up,3,downtrend,157,995,199,1715,0.264,0.08800000000000001,0.2,0.422,84,115,8.62,7.38,9.52,3,6
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,crypto,3,three_outside_up,3,downtrend,157,985,191,2305,0.29500000000000004,0.09833333333333334,0.19,0.325,62,129,12.07,11.19,12.49,3,6
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,crypto,4,three_outside_up,3,downtrend,157,983,188,2537,0.43799999999999994,0.146,0.19,0.287,54,134,13.49,13.54,13.48,3,6
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,crypto,5,three_outside_up,3,downtrend,157,979,188,2871,0.5650000000000002,0.18833333333333338,0.19,0.261,49,139,15.27,17.53,14.47,3,6
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,forex,1,three_outside_up,3,downtrend,731,8851,1465,5078,0.245,0.08166666666666667,0.17,0.625,915,550,3.47,3.57,3.29,7,5
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,forex,2,three_outside_up,3,downtrend,731,8794,1454,12744,0.254,0.08466666666666667,0.17,0.417,606,848,8.76,9.73,8.07,4,5
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,forex,3,three_outside_up,3,downtrend,731,8765,1448,18936,0.252,0.084,0.17,0.314,454,994,13.08,17.97,10.84,4,7
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,forex,4,three_outside_up,3,downtrend,731,8749,1445,24342,0.242,0.08066666666666666,0.17,0.248,358,1087,16.85,27.35,13.39,2,7
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,forex,5,three_outside_up,3,downtrend,731,8741,1441,30357,0.24,0.08,0.16,0.206,297,1144,21.07,42.52,15.5,2,7
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,stock,1,three_outside_up,3,downtrend,4824,73348,12832,42401,0.18,0.06,0.17,0.59,7575,5257,3.3,3.17,3.49,9,7
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,stock,2,three_outside_up,3,downtrend,4824,72786,12690,81613,0.252,0.084,0.17,0.416,5277,7413,6.43,7.51,5.66,9,9
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,stock,3,three_outside_up,3,downtrend,4824,72454,12608,121001,0.28900000000000003,0.09633333333333334,0.17,0.323,4070,8538,9.6,13.3,7.83,6,11
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,stock,4,three_outside_up,3,downtrend,4824,72282,12555,160844,0.31600000000000006,0.10533333333333335,0.17,0.264,3318,9237,12.81,20.3,10.12,5,11
-CDL3OUTSIDE,bullish,reversal,bullish mean reversion,stock,5,three_outside_up,3,downtrend,4824,72179,12528,197479,0.3400000000000001,0.11333333333333336,0.17,0.224,2810,9718,15.76,28.79,12.0,5,11
+version https://git-lfs.github.com/spec/v1
+oid sha256:72cda41529d63ea94d987b5c402da748ec5054cdab9a4d38caa66931644bacb3
+size 2888

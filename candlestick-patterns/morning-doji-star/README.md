@@ -1,5 +1,3 @@
-Backtest for [morning doji star](https://analyzingalpha.com/morning-doji-star-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:27de3b232567efe14d5e741df24b5f52ecca0c7cdea6ad040f56011fbab36b9e
+size 233

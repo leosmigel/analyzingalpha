@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLTAKURI,bullish,reversal,bearish continuation,crypto,1,takuri,1,downtrend,229,3623,2155,4979,-0.324,-0.324,0.59,0.336,725,1430,2.31,2.8,2.06,11,13
-CDLTAKURI,bullish,reversal,bearish continuation,crypto,2,takuri,1,downtrend,229,3511,2090,8467,-0.28400000000000003,-0.28400000000000003,0.6,0.238,498,1592,4.05,5.4,3.63,9,18
-CDLTAKURI,bullish,reversal,bearish continuation,crypto,3,takuri,1,downtrend,229,3391,2012,11359,-0.2739999999999999,-0.2739999999999999,0.59,0.182,367,1645,5.65,9.65,4.75,7,18
-CDLTAKURI,bullish,reversal,bearish continuation,crypto,4,takuri,1,downtrend,229,3314,1962,15758,-0.28400000000000003,-0.28400000000000003,0.59,0.144,282,1680,8.03,18.82,6.22,5,20
-CDLTAKURI,bullish,reversal,bearish continuation,crypto,5,takuri,1,downtrend,229,3244,1911,16274,-0.275,-0.275,0.59,0.121,231,1680,8.52,16.95,7.36,4,20
-CDLTAKURI,bullish,reversal,bearish continuation,forex,1,takuri,1,downtrend,1173,53594,35427,60752,-0.5820000000000001,-0.5820000000000001,0.66,0.208,7368,28059,1.71,2.76,1.44,56,79
-CDLTAKURI,bullish,reversal,bearish continuation,forex,2,takuri,1,downtrend,1173,52565,34852,77056,-0.49399999999999994,-0.49399999999999994,0.66,0.168,5839,29013,2.21,4.22,1.81,43,123
-CDLTAKURI,bullish,reversal,bearish continuation,forex,3,takuri,1,downtrend,1173,51783,34423,93506,-0.43400000000000005,-0.43400000000000005,0.66,0.142,4871,29552,2.72,6.48,2.1,37,123
-CDLTAKURI,bullish,reversal,bearish continuation,forex,4,takuri,1,downtrend,1173,51180,34106,107152,-0.392,-0.392,0.67,0.122,4154,29952,3.14,9.11,2.31,29,123
-CDLTAKURI,bullish,reversal,bearish continuation,forex,5,takuri,1,downtrend,1173,50699,33875,117516,-0.36,-0.36,0.67,0.106,3599,30276,3.47,10.88,2.59,26,123
-CDLTAKURI,bullish,reversal,bearish continuation,stock,1,takuri,1,downtrend,5963,161293,97476,200143,-0.277,-0.277,0.6,0.363,35347,62129,2.05,2.45,1.83,53,24
-CDLTAKURI,bullish,reversal,bearish continuation,stock,2,takuri,1,downtrend,5963,158108,95563,287188,-0.19599999999999995,-0.19599999999999995,0.6,0.267,25470,70093,3.01,4.31,2.53,36,27
-CDLTAKURI,bullish,reversal,bearish continuation,stock,3,takuri,1,downtrend,5963,155573,94011,363930,-0.16000000000000003,-0.16000000000000003,0.6,0.21,19747,74264,3.87,6.44,3.19,31,31
-CDLTAKURI,bullish,reversal,bearish continuation,stock,4,takuri,1,downtrend,5963,153569,92797,440301,-0.14200000000000002,-0.14200000000000002,0.6,0.172,15990,76807,4.74,8.94,3.87,25,40
-CDLTAKURI,bullish,reversal,bearish continuation,stock,5,takuri,1,downtrend,5963,151761,91703,515088,-0.135,-0.135,0.6,0.145,13324,78379,5.62,12.01,4.53,21,40
+version https://git-lfs.github.com/spec/v1
+oid sha256:278573882bbc92f5feef134bb0e794d51e73883eb9fbd56ba7ef076ab4c3bbeb
+size 2797

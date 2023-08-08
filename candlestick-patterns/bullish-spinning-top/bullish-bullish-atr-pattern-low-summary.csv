@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSPINNINGTOP,bullish,,bullish,crypto,1,bullish_spinning_top,1,none,253,14928,8091,46848,0.14499999999999996,0.14499999999999996,0.54,0.575,4653,3438,5.79,6.29,5.11,9,6
-CDLSPINNINGTOP,bullish,,bullish,crypto,2,bullish_spinning_top,1,none,253,12510,6703,65429,0.258,0.258,0.54,0.419,2811,3892,9.76,12.11,8.06,5,8
-CDLSPINNINGTOP,bullish,,bullish,crypto,3,bullish_spinning_top,1,none,253,11116,5917,76809,0.348,0.348,0.53,0.336,1988,3929,12.98,17.94,10.47,3,9
-CDLSPINNINGTOP,bullish,,bullish,crypto,4,bullish_spinning_top,1,none,253,10254,5442,82337,0.4159999999999999,0.4159999999999999,0.53,0.284,1547,3895,15.13,22.88,12.05,3,9
-CDLSPINNINGTOP,bullish,,bullish,crypto,5,bullish_spinning_top,1,none,253,9679,5119,88400,0.4849999999999999,0.4849999999999999,0.53,0.247,1264,3855,17.27,29.17,13.37,3,18
-CDLSPINNINGTOP,bullish,,bullish,forex,1,bullish_spinning_top,1,none,1126,246095,134607,522050,0.06300000000000006,0.06300000000000006,0.55,0.533,71748,62859,3.88,4.07,3.65,16,20
-CDLSPINNINGTOP,bullish,,bullish,forex,2,bullish_spinning_top,1,none,1126,201064,109144,898328,0.04399999999999993,0.04399999999999993,0.54,0.347,37873,71271,8.23,10.41,7.07,8,61
-CDLSPINNINGTOP,bullish,,bullish,forex,3,bullish_spinning_top,1,none,1126,178047,95995,1128403,0.009000000000000008,0.009000000000000008,0.54,0.253,24270,71725,11.75,18.7,9.4,6,168
-CDLSPINNINGTOP,bullish,,bullish,forex,4,bullish_spinning_top,1,none,1126,162030,87106,1293458,0.0,0.0,0.54,0.2,17400,69706,14.85,27.76,11.63,5,168
-CDLSPINNINGTOP,bullish,,bullish,forex,5,bullish_spinning_top,1,none,1126,149004,79803,1420974,-0.019999999999999907,-0.019999999999999907,0.54,0.164,13121,66682,17.81,38.54,13.73,9,168
-CDLSPINNINGTOP,bullish,,bullish,stock,1,bullish_spinning_top,1,none,6203,1218286,661732,2293104,0.14099999999999996,0.14099999999999996,0.54,0.571,377736,283996,3.47,3.37,3.59,16,10
-CDLSPINNINGTOP,bullish,,bullish,stock,2,bullish_spinning_top,1,none,6203,1077311,582876,3657149,0.2220000000000001,0.2220000000000001,0.54,0.406,236837,346039,6.27,7.4,5.51,10,21
-CDLSPINNINGTOP,bullish,,bullish,stock,3,bullish_spinning_top,1,none,6203,975912,525886,4701985,0.277,0.277,0.54,0.319,167569,358317,8.94,12.66,7.2,7,26
-CDLSPINNINGTOP,bullish,,bullish,stock,4,bullish_spinning_top,1,none,6203,895502,480912,5526232,0.31600000000000006,0.31600000000000006,0.54,0.264,127127,353785,11.49,19.08,8.77,6,49
-CDLSPINNINGTOP,bullish,,bullish,stock,5,bullish_spinning_top,1,none,6203,829243,443803,6190567,0.365,0.365,0.54,0.227,100907,342896,13.95,26.48,10.26,7,49
+version https://git-lfs.github.com/spec/v1
+oid sha256:14fa41fd5ed7981cffec403892bd814ca89e3c50339b5a8f5a00b457875fac5e
+size 2755

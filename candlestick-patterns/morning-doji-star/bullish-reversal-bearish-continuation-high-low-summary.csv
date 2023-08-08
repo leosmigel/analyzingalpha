@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,crypto,1,morning_doji_star,3,downtrend,22,48,16,18,-0.8779999999999999,-0.29266666666666663,0.33,0.062,1,15,1.12,1.0,1.13,1,2
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,crypto,2,morning_doji_star,3,downtrend,22,48,16,18,-0.816,-0.27199999999999996,0.33,0.062,1,15,1.12,1.0,1.13,1,2
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,crypto,3,morning_doji_star,3,downtrend,22,48,16,18,-0.754,-0.25133333333333335,0.33,0.062,1,15,1.12,1.0,1.13,1,2
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,crypto,4,morning_doji_star,3,downtrend,22,48,16,33,-0.692,-0.23066666666666666,0.33,0.062,1,15,2.06,16.0,1.13,1,2
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,crypto,5,morning_doji_star,3,downtrend,22,48,16,41,-0.6299999999999999,-0.20999999999999996,0.33,0.062,1,15,2.56,24.0,1.13,1,2
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,forex,1,morning_doji_star,3,downtrend,221,593,181,405,-0.758,-0.25266666666666665,0.31,0.122,22,159,2.24,5.18,1.83,1,3
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,forex,2,morning_doji_star,3,downtrend,221,593,181,504,-0.754,-0.25133333333333335,0.31,0.083,15,166,2.78,10.53,2.08,1,3
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,forex,3,morning_doji_star,3,downtrend,221,593,181,1155,-0.7749999999999999,-0.2583333333333333,0.31,0.055,10,171,6.38,16.9,5.77,1,3
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,forex,4,morning_doji_star,3,downtrend,221,593,181,1363,-0.8039999999999999,-0.26799999999999996,0.31,0.039,7,174,7.53,12.86,7.32,1,3
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,forex,5,morning_doji_star,3,downtrend,221,593,181,1615,-0.8049999999999999,-0.2683333333333333,0.31,0.033,6,175,8.92,31.0,8.17,1,3
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,stock,1,morning_doji_star,3,downtrend,2904,11224,4229,7300,-0.657,-0.219,0.38,0.173,731,3498,1.73,2.57,1.55,3,6
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,stock,2,morning_doji_star,3,downtrend,2904,11222,4226,10031,-0.614,-0.20466666666666666,0.38,0.128,539,3687,2.37,5.76,1.88,3,6
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,stock,3,morning_doji_star,3,downtrend,2904,11216,4225,13028,-0.597,-0.19899999999999998,0.38,0.101,425,3800,3.08,8.59,2.47,2,6
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,stock,4,morning_doji_star,3,downtrend,2904,11211,4223,17160,-0.5880000000000001,-0.19600000000000004,0.38,0.083,349,3874,4.06,11.86,3.36,2,6
-CDLMORNINGDOJISTAR,bullish,reversal,bearish continuation,stock,5,morning_doji_star,3,downtrend,2904,11205,4221,19055,-0.5700000000000001,-0.19000000000000003,0.38,0.072,302,3919,4.51,12.95,3.86,2,7
+version https://git-lfs.github.com/spec/v1
+oid sha256:08435d85d215cbb7b7931c1c9fb6a05c6663e4658456994a6b0c954b3b00157a
+size 2968

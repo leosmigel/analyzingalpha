@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,crypto,1,rising_three_methods,5,uptrend,1,2,2,2,-1.0,-0.2,1.0,0.0,0,2,1.0,,1.0,0,2
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,crypto,2,rising_three_methods,5,uptrend,1,2,2,2,-1.0,-0.2,1.0,0.0,0,2,1.0,,1.0,0,2
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,crypto,3,rising_three_methods,5,uptrend,1,2,2,2,-1.0,-0.2,1.0,0.0,0,2,1.0,,1.0,0,2
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,crypto,4,rising_three_methods,5,uptrend,1,2,2,2,-1.0,-0.2,1.0,0.0,0,2,1.0,,1.0,0,2
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,crypto,5,rising_three_methods,5,uptrend,1,2,2,2,-1.0,-0.2,1.0,0.0,0,2,1.0,,1.0,0,2
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,forex,1,rising_three_methods,5,uptrend,12,27,27,28,-0.8560000000000001,-0.17120000000000002,1.0,0.074,2,25,1.04,1.0,1.04,1,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,forex,2,rising_three_methods,5,uptrend,12,27,27,28,-0.782,-0.1564,1.0,0.074,2,25,1.04,1.0,1.04,1,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,forex,3,rising_three_methods,5,uptrend,12,27,27,28,-0.7080000000000001,-0.1416,1.0,0.074,2,25,1.04,1.0,1.04,1,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,forex,4,rising_three_methods,5,uptrend,12,27,27,30,-0.6340000000000001,-0.12680000000000002,1.0,0.074,2,25,1.11,2.0,1.04,1,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,forex,5,rising_three_methods,5,uptrend,12,27,27,30,-0.56,-0.11200000000000002,1.0,0.074,2,25,1.11,2.0,1.04,1,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,stock,1,rising_three_methods,5,uptrend,146,316,280,289,-0.762,-0.1524,0.89,0.118,33,247,1.03,1.15,1.02,2,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,stock,2,rising_three_methods,5,uptrend,146,316,280,300,-0.668,-0.1336,0.89,0.111,31,249,1.07,1.26,1.05,2,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,stock,3,rising_three_methods,5,uptrend,146,315,279,316,-0.631,-0.1262,0.89,0.093,26,253,1.13,1.38,1.11,2,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,stock,4,rising_three_methods,5,uptrend,146,315,279,330,-0.55,-0.11000000000000001,0.89,0.09,25,254,1.18,1.88,1.11,2,4
-CDLRISEFALL3METHODS,bullish,continuation,bearish reversal,stock,5,rising_three_methods,5,uptrend,146,315,279,358,-0.4800000000000001,-0.09600000000000002,0.89,0.086,24,255,1.28,3.04,1.12,1,4
+version https://git-lfs.github.com/spec/v1
+oid sha256:c336238fb47bbbdfd2bf93f0e05c5614588b942db4edd8d4accd43d0089b6786
+size 2666

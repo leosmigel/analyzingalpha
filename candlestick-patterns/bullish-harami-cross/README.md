@@ -1,5 +1,3 @@
-Backtest for [bullish harami cross](https://analyzingalpha.com/bullish-harami-cross-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e334b777e89d3f5b34ed9b67f0c2ada851fdf0029b3736806a16768689d5a35
+size 239

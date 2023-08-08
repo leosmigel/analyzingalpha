@@ -1,12 +1,3 @@
-ticker,name,figi
-XLB,SSgA Materials Select Sector SPDR,BBG000BHNSW7
-XLC,Communication Services Select Sector SPDR Fund,BBG00L5F9F83
-XLE,SSgA Energy Select Sector SPDR,BBG000BJ2H05
-XLF,SSgA Financial Select Sector SPDR,BBG000BJ2H05
-XLI,SSgA Industrial Select Sector SPDR,BBG000BJ2TK7
-XLK,SSgA Technology Select Sector SPDR,BBG000BJ7356
-XLP,SSgA Consumer Staples Select Sector SPDR,BBG000BJ13H9
-XLRE,SSgA Real Estate Select Sector SPDR Fund (The),BBG00B597191
-XLU,SSgA Utilities Select Sector SPDR,BBG000BJ7HX4
-XLV,SSgA Health Care Select Sector SPDR,BBG000BHVW68
-XLY,SSgA Consumer Discretionary Select Sector SPDR,BBG000BJ1NZ5
+version https://git-lfs.github.com/spec/v1
+oid sha256:b326fb6b543d367aa48333bfe47c4baa750d8b8cde98952d7ad7a84e8a10d2ef
+size 626

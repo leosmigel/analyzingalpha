@@ -1,5 +1,3 @@
-Backtest for [unique three river bottom](https://analyzingalpha.com/unique-three-river-bottom-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a8d3abcc0a77f28a2bc549ba0a2f459bee6dcf85107a0c503774c4600c7e15
+size 249

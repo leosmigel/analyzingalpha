@@ -1,5 +1,3 @@
-Backtest for [bullish high wave](https://analyzingalpha.com/bullish-high-wave-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2531b344de8d5a660969b9ea4cecfd31e1e7f98b3c8973f79d5a301cefa447f
+size 233

@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLTHRUSTING,bearish,continuation,bullish reversal,crypto,1,thrusting,2,downtrend,3,6,4,4,-1.0,-0.5,0.67,0.0,0,4,1.0,,1.0,0,2
-CDLTHRUSTING,bearish,continuation,bullish reversal,crypto,2,thrusting,2,downtrend,3,6,4,4,-1.0,-0.5,0.67,0.0,0,4,1.0,,1.0,0,2
-CDLTHRUSTING,bearish,continuation,bullish reversal,crypto,3,thrusting,2,downtrend,3,6,4,4,-1.0,-0.5,0.67,0.0,0,4,1.0,,1.0,0,2
-CDLTHRUSTING,bearish,continuation,bullish reversal,crypto,4,thrusting,2,downtrend,3,6,4,4,-1.0,-0.5,0.67,0.0,0,4,1.0,,1.0,0,2
-CDLTHRUSTING,bearish,continuation,bullish reversal,crypto,5,thrusting,2,downtrend,3,6,4,4,-1.0,-0.5,0.67,0.0,0,4,1.0,,1.0,0,2
-CDLTHRUSTING,bearish,continuation,bullish reversal,forex,1,thrusting,2,downtrend,57,143,90,198,-0.484,-0.242,0.63,0.256,23,67,2.2,3.43,1.78,2,3
-CDLTHRUSTING,bearish,continuation,bullish reversal,forex,2,thrusting,2,downtrend,57,143,90,332,-0.46399999999999997,-0.23199999999999998,0.63,0.178,16,74,3.69,10.12,2.3,2,3
-CDLTHRUSTING,bearish,continuation,bullish reversal,forex,3,thrusting,2,downtrend,57,143,90,662,-0.471,-0.2355,0.63,0.133,12,78,7.36,38.67,2.54,2,3
-CDLTHRUSTING,bearish,continuation,bullish reversal,forex,4,thrusting,2,downtrend,57,143,90,803,-0.554,-0.277,0.63,0.089,8,82,8.92,69.62,3.0,1,3
-CDLTHRUSTING,bearish,continuation,bullish reversal,forex,5,thrusting,2,downtrend,57,143,90,868,-0.6599999999999999,-0.32999999999999996,0.63,0.056,5,85,9.64,114.4,3.48,1,3
-CDLTHRUSTING,bearish,continuation,bullish reversal,stock,1,thrusting,2,downtrend,4471,51753,40375,76000,-0.20299999999999996,-0.10149999999999998,0.78,0.397,16016,24359,1.88,2.09,1.75,8,14
-CDLTHRUSTING,bearish,continuation,bullish reversal,stock,2,thrusting,2,downtrend,4471,51650,40250,115480,-0.122,-0.061,0.78,0.294,11851,28399,2.87,3.97,2.41,7,16
-CDLTHRUSTING,bearish,continuation,bullish reversal,stock,3,thrusting,2,downtrend,4471,51515,40118,154925,-0.07399999999999995,-0.03699999999999998,0.78,0.232,9327,30791,3.86,6.43,3.08,6,21
-CDLTHRUSTING,bearish,continuation,bullish reversal,stock,4,thrusting,2,downtrend,4471,51419,40022,193324,-0.016000000000000014,-0.008000000000000007,0.78,0.196,7842,32180,4.83,9.39,3.72,6,22
-CDLTHRUSTING,bearish,continuation,bullish reversal,stock,5,thrusting,2,downtrend,4471,51319,39929,231627,0.025000000000000133,0.012500000000000067,0.78,0.171,6810,33119,5.8,13.22,4.28,5,30
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ecb2dceb7056f098671f2486dcbc9d04ec0b83423aca0b452eb0dae92a53f0
+size 2567

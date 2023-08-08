@@ -1,6 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLABANDONEDBABY,bearish,reversal,bearish mean reversion,stock,1,bearish_abandoned_baby,3,uptrend,36,87,19,92,0.05600000000000005,0.018666666666666682,0.22,0.526,10,9,4.84,6.1,3.44,1,2
-CDLABANDONEDBABY,bearish,reversal,bearish mean reversion,stock,2,bearish_abandoned_baby,3,uptrend,36,87,19,186,-0.04800000000000004,-0.016000000000000014,0.22,0.316,6,13,9.79,8.83,10.23,1,2
-CDLABANDONEDBABY,bearish,reversal,bearish mean reversion,stock,3,bearish_abandoned_baby,3,uptrend,36,87,19,210,0.2679999999999999,0.0893333333333333,0.22,0.316,6,13,11.05,12.83,10.23,1,2
-CDLABANDONEDBABY,bearish,reversal,bearish mean reversion,stock,4,bearish_abandoned_baby,3,uptrend,36,87,19,313,-0.48000000000000004,-0.16,0.22,0.105,2,17,16.47,24.5,15.53,1,2
-CDLABANDONEDBABY,bearish,reversal,bearish mean reversion,stock,5,bearish_abandoned_baby,3,uptrend,36,87,19,404,-0.6849999999999999,-0.2283333333333333,0.22,0.053,1,18,21.26,49.0,19.72,1,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e4b6ee32f9781db3d1c44c7222b2488c0f196046bd8b9a78f40ce136cdd726
+size 1162

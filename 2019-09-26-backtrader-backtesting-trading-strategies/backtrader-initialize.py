@@ -1,12 +1,3 @@
-import backtrader as bt
-
-
-if __name__ == '__main__':
-    cerebro = bt.Cerebro()
-    cerebro.broker.setcash(100000.0)
-
-    print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
-
-    cerebro.run()
-
-    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f8b586b08bb22652c471585d6c2b6f067adfbcb911bcae1920014162e0f0037
+size 279

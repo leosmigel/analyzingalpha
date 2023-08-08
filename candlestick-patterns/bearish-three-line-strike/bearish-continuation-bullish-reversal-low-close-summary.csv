@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,crypto,1,bearish_three_line_strike,4,downtrend,26,75,74,444,-0.02400000000000002,-0.006000000000000005,0.99,0.486,36,38,6.0,4.64,7.29,3,2
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,crypto,2,bearish_three_line_strike,4,downtrend,26,72,71,854,-0.06999999999999995,-0.017499999999999988,0.99,0.31,22,49,12.03,13.64,11.31,2,3
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,crypto,3,bearish_three_line_strike,4,downtrend,26,72,71,955,-0.04300000000000004,-0.01075000000000001,0.99,0.239,17,54,13.45,20.53,11.22,2,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,crypto,4,bearish_three_line_strike,4,downtrend,26,72,71,1088,0.19599999999999995,0.04899999999999999,0.99,0.239,17,54,15.32,28.35,11.22,2,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,crypto,5,bearish_three_line_strike,4,downtrend,26,71,70,1279,0.28,0.07,0.99,0.214,15,55,18.27,42.47,11.67,2,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,forex,1,bearish_three_line_strike,4,downtrend,287,849,832,7134,-0.16299999999999998,-0.040749999999999995,0.98,0.417,347,485,8.57,8.46,8.66,4,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,forex,2,bearish_three_line_strike,4,downtrend,287,847,828,11958,-0.21799999999999997,-0.05449999999999999,0.98,0.261,216,612,14.44,18.81,12.9,3,6
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,forex,3,bearish_three_line_strike,4,downtrend,287,845,826,17280,-0.21500000000000008,-0.05375000000000002,0.98,0.195,161,665,20.92,30.2,18.67,2,8
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,forex,4,bearish_three_line_strike,4,downtrend,287,844,822,21564,-0.19199999999999995,-0.04799999999999999,0.97,0.162,133,689,26.23,47.03,22.22,2,8
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,forex,5,bearish_three_line_strike,4,downtrend,287,844,821,25114,-0.14500000000000002,-0.036250000000000004,0.97,0.143,117,704,30.59,72.56,23.62,2,8
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,stock,1,bearish_three_line_strike,4,downtrend,702,1706,1527,10789,0.07900000000000001,0.019750000000000004,0.9,0.539,823,704,7.07,6.57,7.65,4,4
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,stock,2,bearish_three_line_strike,4,downtrend,702,1703,1522,21177,0.10999999999999999,0.027499999999999997,0.89,0.37,563,959,13.91,16.01,12.69,3,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,stock,3,bearish_three_line_strike,4,downtrend,702,1702,1522,29076,0.16300000000000003,0.04075000000000001,0.89,0.291,443,1079,19.1,26.91,15.9,3,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,stock,4,bearish_three_line_strike,4,downtrend,702,1701,1521,37470,0.25,0.0625,0.89,0.25,380,1141,24.64,41.47,19.03,3,5
-CDL3LINESTRIKE,bearish,continuation,bullish reversal,stock,5,bearish_three_line_strike,4,downtrend,702,1699,1520,44453,0.2649999999999999,0.06624999999999998,0.89,0.211,321,1199,29.25,58.0,21.55,3,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:0237592503726c0521e32b62950ebf4c903d3edf7bb8c7166eaaab9b64074be7
+size 3135

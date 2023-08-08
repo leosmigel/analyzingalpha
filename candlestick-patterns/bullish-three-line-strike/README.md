@@ -1,5 +1,3 @@
-Backtest for [bullish three line strike](https://analyzingalpha.com/bullish-three-line-strike-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:848ed1d8dce4c7762f973ff8159b6e00b587c30704e42580ec7ab45fba1e6622
+size 249

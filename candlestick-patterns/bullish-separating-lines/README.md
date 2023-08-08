@@ -1,5 +1,3 @@
-Backtest for [bullish separating lines](https://analyzingalpha.com/bullish-separating-lines-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:031e3485eacbf03d7bb7b21198ae43b67af1f4f70445de8bccf36654b5ab6513
+size 247

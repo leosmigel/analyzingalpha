@@ -1,5 +1,3 @@
-Backtest for [bullish belt hold](https://analyzingalpha.com/bullish-belt-hold-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:11c5463284d56544613f8659c1fbf33aec7d7a6b0dcc3456aec97ca6d482cf49
+size 233

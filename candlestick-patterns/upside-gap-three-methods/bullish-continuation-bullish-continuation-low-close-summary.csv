@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,crypto,1,upside_gap_three_methods,3,uptrend,78,266,260,532,-0.05700000000000005,-0.019000000000000017,0.98,0.473,123,137,2.05,2.22,1.89,3,3
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,crypto,2,upside_gap_three_methods,3,uptrend,78,259,253,1000,0.027999999999999914,0.009333333333333305,0.98,0.344,87,166,3.95,5.26,3.27,3,4
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,crypto,3,upside_gap_three_methods,3,uptrend,78,256,250,1211,0.15399999999999991,0.05133333333333331,0.98,0.288,72,178,4.84,6.03,4.37,3,8
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,crypto,4,upside_gap_three_methods,3,uptrend,78,255,249,1355,0.21999999999999997,0.07333333333333332,0.98,0.245,61,188,5.44,7.75,4.69,3,8
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,crypto,5,upside_gap_three_methods,3,uptrend,78,254,248,1537,0.28,0.09333333333333334,0.98,0.214,53,195,6.2,8.43,5.59,1,8
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,forex,1,upside_gap_three_methods,3,uptrend,469,2691,2663,10478,-0.14199999999999996,-0.04733333333333332,0.99,0.428,1139,1524,3.93,4.77,3.31,6,8
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,forex,2,upside_gap_three_methods,3,uptrend,469,2667,2636,14635,-0.10999999999999999,-0.03666666666666666,0.99,0.295,778,1858,5.55,7.47,4.75,4,9
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,forex,3,upside_gap_three_methods,3,uptrend,469,2644,2610,21422,-0.14800000000000002,-0.04933333333333334,0.99,0.214,559,2051,8.21,13.34,6.81,3,13
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,forex,4,upside_gap_three_methods,3,uptrend,469,2639,2604,25830,-0.14200000000000002,-0.04733333333333334,0.99,0.172,447,2157,9.92,19.33,7.97,3,15
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,forex,5,upside_gap_three_methods,3,uptrend,469,2631,2596,29183,-0.10999999999999999,-0.03666666666666666,0.99,0.148,384,2212,11.24,24.66,8.91,3,15
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,stock,1,upside_gap_three_methods,3,uptrend,3320,23736,22065,59841,-0.065,-0.021666666666666667,0.93,0.465,10262,11803,2.71,2.82,2.62,9,9
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,stock,2,upside_gap_three_methods,3,uptrend,3320,23626,21949,97473,0.020000000000000018,0.006666666666666672,0.93,0.34,7472,14477,4.44,5.63,3.82,6,12
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,stock,3,upside_gap_three_methods,3,uptrend,3320,23498,21817,129499,0.07700000000000007,0.02566666666666669,0.93,0.269,5862,15955,5.94,9.12,4.77,5,17
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,stock,4,upside_gap_three_methods,3,uptrend,3320,23391,21716,159932,0.11199999999999999,0.03733333333333333,0.93,0.223,4838,16878,7.36,13.12,5.72,5,17
-CDLXSIDEGAP3METHODS,bullish,continuation,bullish continuation,stock,5,upside_gap_three_methods,3,uptrend,3320,23311,21634,190277,0.1499999999999999,0.04999999999999997,0.93,0.192,4156,17478,8.8,18.28,6.54,4,17
+version https://git-lfs.github.com/spec/v1
+oid sha256:980b736303ad36aa613c7c61a2b11951c1a44356de222250068b924311e164d5
+size 3302

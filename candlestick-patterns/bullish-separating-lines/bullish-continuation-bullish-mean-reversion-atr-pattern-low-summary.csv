@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,crypto,1,bullish_separating_lines,2,uptrend,143,553,195,1691,0.40299999999999997,0.20149999999999998,0.35,0.703,137,58,8.67,10.09,5.31,4,3
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,crypto,2,bullish_separating_lines,2,uptrend,143,540,188,2843,0.46799999999999997,0.23399999999999999,0.35,0.489,92,96,15.12,20.39,10.07,2,4
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,crypto,3,bullish_separating_lines,2,uptrend,143,536,185,3421,0.6150000000000001,0.30750000000000005,0.35,0.405,75,110,18.49,29.79,10.79,2,4
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,crypto,4,bullish_separating_lines,2,uptrend,143,531,182,3807,0.7579999999999999,0.37899999999999995,0.34,0.352,64,118,20.92,37.83,11.75,2,4
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,crypto,5,bullish_separating_lines,2,uptrend,143,529,180,4435,0.76,0.38,0.34,0.294,53,127,24.64,38.45,18.87,2,4
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,forex,1,bullish_separating_lines,2,uptrend,913,7389,2885,15224,0.178,0.089,0.39,0.588,1695,1190,5.28,5.3,5.24,17,7
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,forex,2,bullish_separating_lines,2,uptrend,913,7078,2670,47501,0.10399999999999998,0.05199999999999999,0.38,0.367,981,1689,17.79,23.05,14.74,8,9
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,forex,3,bullish_separating_lines,2,uptrend,913,6969,2607,65945,0.01200000000000001,0.006000000000000005,0.37,0.254,663,1944,25.3,44.78,18.65,4,11
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,forex,4,bullish_separating_lines,2,uptrend,913,6909,2571,73864,0.0,0.0,0.37,0.2,515,2056,28.73,58.43,21.29,4,11
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,forex,5,bullish_separating_lines,2,uptrend,913,6875,2557,77254,0.025000000000000133,0.012500000000000067,0.37,0.171,436,2121,30.21,66.68,22.72,3,13
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,stock,1,bullish_separating_lines,2,uptrend,3616,24216,5245,19162,0.21599999999999997,0.10799999999999998,0.22,0.606,3177,2068,3.65,3.48,3.92,5,5
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,stock,2,bullish_separating_lines,2,uptrend,3616,24166,5228,37934,0.28200000000000003,0.14100000000000001,0.22,0.426,2229,2999,7.26,8.35,6.44,5,7
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,stock,3,bullish_separating_lines,2,uptrend,3616,24129,5220,55582,0.3690000000000001,0.18450000000000005,0.22,0.343,1792,3428,10.65,14.98,8.38,5,7
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,stock,4,bullish_separating_lines,2,uptrend,3616,24093,5208,73769,0.44199999999999995,0.22099999999999997,0.22,0.288,1498,3710,14.16,22.67,10.73,5,7
-CDLSEPARATINGLINES,bullish,continuation,bullish mean reversion,stock,5,bullish_separating_lines,2,uptrend,3616,24055,5197,91562,0.4849999999999999,0.24249999999999994,0.22,0.247,1282,3915,17.62,31.39,13.11,4,7
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c622643a6848fe30f62cea671c0faf9402ecd1b8943518aef591dded1d791b4
+size 3249

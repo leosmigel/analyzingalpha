@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,crypto,1,downside_gap_three_methods,3,downtrend,87,308,115,521,0.181,0.06033333333333333,0.37,0.591,68,47,4.53,5.65,2.91,4,2
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,crypto,2,downside_gap_three_methods,3,downtrend,87,303,110,1607,0.029999999999999916,0.009999999999999972,0.36,0.345,38,72,14.61,21.58,10.93,4,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,crypto,3,downside_gap_three_methods,3,downtrend,87,299,105,1771,-0.16000000000000003,-0.053333333333333344,0.35,0.21,22,83,16.87,20.27,15.96,3,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,crypto,4,downside_gap_three_methods,3,downtrend,87,299,104,2131,-0.18799999999999994,-0.06266666666666665,0.35,0.163,17,87,20.49,41.35,16.41,2,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,crypto,5,downside_gap_three_methods,3,downtrend,87,294,101,2531,-0.22499999999999998,-0.075,0.34,0.129,13,88,25.06,75.38,17.62,2,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,forex,1,downside_gap_three_methods,3,downtrend,454,2202,833,3848,0.259,0.08633333333333333,0.38,0.629,524,309,4.62,4.2,5.33,7,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,forex,2,downside_gap_three_methods,3,downtrend,454,2189,828,8399,0.28200000000000003,0.09400000000000001,0.38,0.426,353,475,10.14,11.41,9.2,5,3
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,forex,3,downside_gap_three_methods,3,downtrend,454,2179,826,13811,0.252,0.084,0.38,0.314,259,567,16.72,24.51,13.16,4,6
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,forex,4,downside_gap_three_methods,3,downtrend,454,2172,820,18575,0.254,0.08466666666666667,0.38,0.251,206,614,22.65,43.24,15.75,3,6
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,forex,5,downside_gap_three_methods,3,downtrend,454,2166,815,20670,0.22499999999999987,0.07499999999999996,0.38,0.205,167,648,25.36,49.8,19.06,3,8
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,stock,1,downside_gap_three_methods,3,downtrend,3631,22811,10292,41787,0.12399999999999994,0.04133333333333331,0.45,0.564,5802,4490,4.06,3.72,4.49,7,7
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,stock,2,downside_gap_three_methods,3,downtrend,3631,22672,10208,80265,0.06999999999999995,0.023333333333333317,0.45,0.355,3621,6587,7.86,8.93,7.28,7,10
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,stock,3,downside_gap_three_methods,3,downtrend,3631,22548,10135,114739,0.040000000000000036,0.013333333333333345,0.45,0.26,2636,7499,11.32,15.92,9.7,6,10
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,stock,4,downside_gap_three_methods,3,downtrend,3631,22418,10059,156962,0.0,0.0,0.45,0.2,2007,8052,15.6,26.06,13.0,5,10
-CDLXSIDEGAP3METHODS,bearish,continuation,bearish mean reversion,stock,5,downside_gap_three_methods,3,downtrend,3631,22287,9980,205645,-0.029999999999999916,-0.009999999999999972,0.45,0.162,1620,8360,20.61,40.61,16.73,4,10
+version https://git-lfs.github.com/spec/v1
+oid sha256:c89c19454f3a59558e588c819fb75b5f57fb1711defd0693352d0a6461c18be3
+size 3291

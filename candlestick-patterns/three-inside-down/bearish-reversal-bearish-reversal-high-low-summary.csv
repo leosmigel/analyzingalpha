@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3INSIDE,bearish,reversal,bearish reversal,crypto,1,three_inside_down,3,uptrend,66,197,134,1278,-0.14499999999999996,-0.04833333333333332,0.68,0.425,57,77,9.54,6.53,11.77,5,3
-CDL3INSIDE,bearish,reversal,bearish reversal,crypto,2,three_inside_down,3,uptrend,66,196,132,2756,-0.29000000000000004,-0.09666666666666668,0.67,0.235,31,101,20.88,34.81,16.6,3,9
-CDL3INSIDE,bearish,reversal,bearish reversal,crypto,3,three_inside_down,3,uptrend,66,190,126,3829,-0.489,-0.163,0.66,0.127,16,110,30.39,23.69,31.36,2,9
-CDL3INSIDE,bearish,reversal,bearish reversal,crypto,4,three_inside_down,3,uptrend,66,190,126,4197,-0.446,-0.14866666666666667,0.66,0.111,14,112,33.31,27.21,34.07,2,9
-CDL3INSIDE,bearish,reversal,bearish reversal,crypto,5,three_inside_down,3,uptrend,66,189,125,4717,-0.52,-0.17333333333333334,0.66,0.08,10,115,37.74,57.2,36.04,2,9
-CDL3INSIDE,bearish,reversal,bearish reversal,forex,1,three_inside_down,3,uptrend,498,2107,1524,14283,-0.05600000000000005,-0.018666666666666682,0.72,0.474,722,802,9.37,10.14,8.68,7,9
-CDL3INSIDE,bearish,reversal,bearish reversal,forex,2,three_inside_down,3,uptrend,498,2083,1506,31512,-0.10799999999999998,-0.036,0.72,0.296,446,1060,20.92,29.91,17.14,5,9
-CDL3INSIDE,bearish,reversal,bearish reversal,forex,3,three_inside_down,3,uptrend,498,2070,1491,46782,-0.15400000000000003,-0.05133333333333334,0.72,0.212,316,1175,31.38,53.17,25.51,3,9
-CDL3INSIDE,bearish,reversal,bearish reversal,forex,4,three_inside_down,3,uptrend,498,2060,1479,56720,-0.15799999999999992,-0.05266666666666664,0.72,0.168,248,1231,38.35,77.51,30.46,3,9
-CDL3INSIDE,bearish,reversal,bearish reversal,forex,5,three_inside_down,3,uptrend,498,2055,1468,66002,-0.17499999999999993,-0.05833333333333331,0.71,0.137,201,1267,44.96,104.6,35.5,3,9
-CDL3INSIDE,bearish,reversal,bearish reversal,stock,1,three_inside_down,3,uptrend,3832,38710,29986,257095,-0.04400000000000004,-0.01466666666666668,0.77,0.476,14286,15700,8.57,8.12,8.99,18,9
-CDL3INSIDE,bearish,reversal,bearish reversal,stock,2,three_inside_down,3,uptrend,3832,38272,29575,464097,-0.10599999999999998,-0.03533333333333333,0.77,0.297,8798,20777,15.69,18.9,14.33,11,19
-CDL3INSIDE,bearish,reversal,bearish reversal,stock,3,three_inside_down,3,uptrend,3832,37954,29247,644193,-0.15700000000000003,-0.05233333333333334,0.77,0.211,6167,23080,22.03,33.86,18.86,9,22
-CDL3INSIDE,bearish,reversal,bearish reversal,stock,4,three_inside_down,3,uptrend,3832,37540,28866,822234,-0.19599999999999995,-0.06533333333333331,0.77,0.161,4638,24228,28.48,52.82,23.83,8,23
-CDL3INSIDE,bearish,reversal,bearish reversal,stock,5,three_inside_down,3,uptrend,3832,37067,28431,988409,-0.22999999999999998,-0.07666666666666666,0.77,0.128,3634,24797,34.77,78.63,28.34,7,24
+version https://git-lfs.github.com/spec/v1
+oid sha256:5707776f4a22965df65e88d25f64c7c2d01424898b006c25ab52cee5d1cf2058
+size 2940

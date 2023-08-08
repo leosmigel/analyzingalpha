@@ -1,5 +1,3 @@
-Backtest for [stick sandwich](https://analyzingalpha.com/stick-sandwich-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:69f588166d6545ffd29ae201c268dcaeabfe7d085588dae25936cd0d695670fb
+size 227

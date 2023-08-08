@@ -1,5 +1,3 @@
-Backtest for [bearish short line](https://analyzingalpha.com/bearish-short-line-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d699674c3d5219a52949c887dee2dbbd4cf4c1010e198dbf6a6b37fa5deaa24
+size 235

@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLTRISTAR,bullish,reversal,bullish mean reversion,crypto,1,bullish_tri_star,3,downtrend,10,24,13,83,0.38199999999999995,0.12733333333333333,0.54,0.692,9,4,6.38,5.44,8.5,2,2
-CDLTRISTAR,bullish,reversal,bullish mean reversion,crypto,2,bullish_tri_star,3,downtrend,10,23,12,506,0.746,0.24866666666666667,0.52,0.583,7,5,42.17,66.29,8.4,2,2
-CDLTRISTAR,bullish,reversal,bullish mean reversion,crypto,3,bullish_tri_star,3,downtrend,10,23,12,540,1.0,0.3333333333333333,0.52,0.5,6,6,45.0,80.0,10.0,2,2
-CDLTRISTAR,bullish,reversal,bullish mean reversion,crypto,4,bullish_tri_star,3,downtrend,10,23,12,561,1.088,0.3626666666666667,0.52,0.417,5,7,46.75,97.0,10.86,1,2
-CDLTRISTAR,bullish,reversal,bullish mean reversion,crypto,5,bullish_tri_star,3,downtrend,10,23,12,572,1.505,0.5016666666666666,0.52,0.417,5,7,47.67,99.2,10.86,1,2
-CDLTRISTAR,bullish,reversal,bullish mean reversion,forex,1,bullish_tri_star,3,downtrend,67,228,96,1274,0.20399999999999996,0.06799999999999999,0.42,0.604,58,38,13.27,19.14,4.32,5,5
-CDLTRISTAR,bullish,reversal,bullish mean reversion,forex,2,bullish_tri_star,3,downtrend,67,218,88,2260,0.22799999999999998,0.076,0.4,0.409,36,52,25.68,41.97,14.4,2,5
-CDLTRISTAR,bullish,reversal,bullish mean reversion,forex,3,bullish_tri_star,3,downtrend,67,207,81,4152,0.03700000000000003,0.012333333333333344,0.39,0.259,21,60,51.26,95.86,35.65,1,8
-CDLTRISTAR,bullish,reversal,bullish mean reversion,forex,4,bullish_tri_star,3,downtrend,67,205,81,5216,0.10799999999999998,0.036,0.4,0.222,18,63,64.4,136.61,43.76,1,8
-CDLTRISTAR,bullish,reversal,bullish mean reversion,forex,5,bullish_tri_star,3,downtrend,67,205,81,6285,0.03500000000000003,0.011666666666666678,0.4,0.173,14,67,77.59,155.36,61.34,1,8
-CDLTRISTAR,bullish,reversal,bullish mean reversion,stock,1,bullish_tri_star,3,downtrend,2137,11127,3965,14468,0.07600000000000001,0.025333333333333336,0.36,0.536,2127,1838,3.65,3.76,3.53,6,6
-CDLTRISTAR,bullish,reversal,bullish mean reversion,stock,2,bullish_tri_star,3,downtrend,2137,11021,3917,24413,0.16400000000000003,0.054666666666666676,0.36,0.387,1517,2400,6.23,7.63,5.35,4,8
-CDLTRISTAR,bullish,reversal,bullish mean reversion,stock,3,bullish_tri_star,3,downtrend,2137,10951,3891,34893,0.19999999999999996,0.06666666666666665,0.36,0.3,1169,2722,8.97,13.29,7.11,4,8
-CDLTRISTAR,bullish,reversal,bullish mean reversion,stock,4,bullish_tri_star,3,downtrend,2137,10899,3871,45912,0.254,0.08466666666666667,0.36,0.251,973,2898,11.86,21.67,8.57,3,11
-CDLTRISTAR,bullish,reversal,bullish mean reversion,stock,5,bullish_tri_star,3,downtrend,2137,10869,3860,54443,0.32000000000000006,0.10666666666666669,0.36,0.22,850,3010,14.1,29.91,9.64,3,11
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e6f8c5082ce7db14e4453538ae78c765004208d4c5ba9a70bf4e0c4f504069
+size 2876

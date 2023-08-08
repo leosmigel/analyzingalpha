@@ -1,5 +1,3 @@
-Backtest for [concealing baby swallow](https://analyzingalpha.com/concealing-baby-swallow-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb2a1a0ee0d793e779f781eb7b71c42890f93b8d86a0bc182c4fae7e4c06041
+size 245

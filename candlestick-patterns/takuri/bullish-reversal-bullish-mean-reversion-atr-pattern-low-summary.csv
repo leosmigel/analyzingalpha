@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLTAKURI,bullish,reversal,bullish mean reversion,crypto,1,takuri,1,downtrend,229,3552,1818,4790,-0.019000000000000017,-0.019000000000000017,0.51,0.491,892,926,2.63,2.8,2.47,12,8
-CDLTAKURI,bullish,reversal,bullish mean reversion,crypto,2,takuri,1,downtrend,229,3426,1735,8056,0.138,0.138,0.51,0.379,658,1077,4.64,6.19,3.7,7,9
-CDLTAKURI,bullish,reversal,bullish mean reversion,crypto,3,takuri,1,downtrend,229,3341,1683,11481,0.19100000000000006,0.19100000000000006,0.5,0.297,500,1183,6.82,10.38,5.32,7,10
-CDLTAKURI,bullish,reversal,bullish mean reversion,crypto,4,takuri,1,downtrend,229,3305,1661,13632,0.254,0.254,0.5,0.251,417,1244,8.21,13.24,6.52,6,11
-CDLTAKURI,bullish,reversal,bullish mean reversion,crypto,5,takuri,1,downtrend,229,3269,1638,15123,0.33499999999999996,0.33499999999999996,0.5,0.223,365,1273,9.23,16.89,7.04,6,12
-CDLTAKURI,bullish,reversal,bullish mean reversion,forex,1,takuri,1,downtrend,1173,52721,31266,59652,-0.31500000000000006,-0.31500000000000006,0.59,0.345,10778,20488,1.91,2.3,1.7,36,17
-CDLTAKURI,bullish,reversal,bullish mean reversion,forex,2,takuri,1,downtrend,1173,49991,29654,116756,-0.246,-0.246,0.59,0.252,7469,22185,3.94,5.97,3.25,7,29
-CDLTAKURI,bullish,reversal,bullish mean reversion,forex,3,takuri,1,downtrend,1173,49013,29093,154947,-0.2310000000000001,-0.2310000000000001,0.59,0.193,5627,23466,5.33,9.58,4.31,4,31
-CDLTAKURI,bullish,reversal,bullish mean reversion,forex,4,takuri,1,downtrend,1173,48353,28743,188922,-0.21999999999999997,-0.21999999999999997,0.59,0.155,4451,24292,6.57,13.63,5.28,4,48
-CDLTAKURI,bullish,reversal,bullish mean reversion,forex,5,takuri,1,downtrend,1173,47849,28436,215558,-0.21999999999999997,-0.21999999999999997,0.59,0.13,3703,24733,7.58,18.54,5.94,4,48
-CDLTAKURI,bullish,reversal,bullish mean reversion,stock,1,takuri,1,downtrend,5963,157264,80820,218985,0.020000000000000018,0.020000000000000018,0.51,0.51,41196,39624,2.71,2.76,2.66,11,11
-CDLTAKURI,bullish,reversal,bullish mean reversion,stock,2,takuri,1,downtrend,5963,153655,78732,356821,0.13,0.13,0.51,0.375,29544,49188,4.53,5.48,3.96,8,14
-CDLTAKURI,bullish,reversal,bullish mean reversion,stock,3,takuri,1,downtrend,5963,151593,77526,480257,0.19399999999999995,0.19399999999999995,0.51,0.298,23070,54456,6.19,8.82,5.08,7,20
-CDLTAKURI,bullish,reversal,bullish mean reversion,stock,4,takuri,1,downtrend,5963,149995,76616,602527,0.246,0.246,0.51,0.249,19057,57559,7.86,13.22,6.09,7,29
-CDLTAKURI,bullish,reversal,bullish mean reversion,stock,5,takuri,1,downtrend,5963,148823,75967,713352,0.29499999999999993,0.29499999999999993,0.51,0.215,16315,59652,9.39,17.99,7.04,5,29
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d4eae0c2eea86594ffcb91a82c96e24abafd9358f4de9ef27bd73f574c0e72a
+size 2835

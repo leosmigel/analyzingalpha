@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,crypto,1,stalled,3,uptrend,77,233,215,421,-0.11800000000000005,-0.03933333333333335,0.92,0.442,95,120,1.96,1.88,2.02,3,5
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,crypto,2,stalled,3,uptrend,77,232,214,731,0.07999999999999996,0.026666666666666655,0.92,0.36,77,137,3.42,4.94,2.56,2,5
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,crypto,3,stalled,3,uptrend,77,232,214,875,0.2490000000000001,0.08300000000000003,0.92,0.313,67,147,4.09,6.82,2.84,2,8
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,crypto,4,stalled,3,uptrend,77,231,213,1035,0.3880000000000001,0.12933333333333338,0.92,0.277,59,154,4.86,8.42,3.49,2,8
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,crypto,5,stalled,3,uptrend,77,228,210,1292,0.49,0.16333333333333333,0.92,0.248,52,158,6.15,11.06,4.54,2,8
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,forex,1,stalled,3,uptrend,961,7300,5188,12938,0.09500000000000003,0.031666666666666676,0.71,0.545,2826,2362,2.49,2.29,2.74,42,9
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,forex,2,stalled,3,uptrend,961,7294,5180,19286,0.262,0.08733333333333333,0.71,0.421,2182,2998,3.72,3.81,3.66,42,12
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,forex,3,stalled,3,uptrend,961,7285,5169,24327,0.4029999999999999,0.1343333333333333,0.71,0.351,1814,3355,4.71,5.43,4.31,38,12
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,forex,4,stalled,3,uptrend,961,7267,5152,29906,0.534,0.17800000000000002,0.71,0.306,1578,3574,5.8,7.41,5.1,38,12
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,forex,5,stalled,3,uptrend,961,7255,5138,34955,0.655,0.21833333333333335,0.71,0.275,1415,3723,6.8,10.06,5.57,36,12
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,stock,1,stalled,3,uptrend,3365,26144,23612,47159,-0.10400000000000004,-0.03466666666666668,0.9,0.446,10540,13072,2.0,2.06,1.95,12,10
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,stock,2,stalled,3,uptrend,3365,26106,23552,71539,-0.01200000000000001,-0.0040000000000000036,0.9,0.329,7741,15811,3.04,3.83,2.65,9,13
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,stock,3,stalled,3,uptrend,3365,26038,23479,94621,0.04300000000000004,0.014333333333333345,0.9,0.261,6128,17351,4.03,6.1,3.3,5,17
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,stock,4,stalled,3,uptrend,3365,25974,23412,116452,0.09199999999999997,0.030666666666666658,0.9,0.218,5107,18305,4.97,8.9,3.88,5,18
-CDLSTALLEDPATTERN,bearish,reversal,bullish continuation,stock,5,stalled,3,uptrend,3365,25931,23365,135406,0.14500000000000002,0.04833333333333334,0.9,0.191,4452,18913,5.8,11.9,4.36,5,21
+version https://git-lfs.github.com/spec/v1
+oid sha256:def4feff3bb0f5806504eed729b4a2b29fa8ed33552b3599a4bed6e8999494f7
+size 2911

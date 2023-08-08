@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,1,bearish_belt_hold,1,uptrend,236,6286,5525,26237,-0.08300000000000002,-0.08300000000000002,0.88,0.457,2526,2999,4.75,4.67,4.82,34,8
-CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,2,bearish_belt_hold,1,uptrend,236,5437,4796,46667,-0.10199999999999998,-0.10199999999999998,0.88,0.299,1435,3361,9.73,12.74,8.44,29,11
-CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,3,bearish_belt_hold,1,uptrend,236,4636,4070,54611,-0.16000000000000003,-0.16000000000000003,0.88,0.21,854,3216,13.42,17.49,12.34,26,22
-CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,4,bearish_belt_hold,1,uptrend,236,4308,3775,63373,-0.21199999999999997,-0.21199999999999997,0.88,0.157,592,3183,16.79,28.66,14.58,24,29
-CDLBELTHOLD,bearish,reversal,bearish reversal,crypto,5,bearish_belt_hold,1,uptrend,236,3948,3447,70440,-0.275,-0.275,0.87,0.121,416,3031,20.44,34.41,18.52,21,29
-CDLBELTHOLD,bearish,reversal,bearish reversal,forex,1,bearish_belt_hold,1,uptrend,1259,120969,96857,445674,0.06300000000000006,0.06300000000000006,0.8,0.533,51658,45199,4.6,4.51,4.7,129,20
-CDLBELTHOLD,bearish,reversal,bearish reversal,forex,2,bearish_belt_hold,1,uptrend,1259,104837,84707,738464,0.13,0.13,0.81,0.375,31789,52918,8.72,10.19,7.83,82,26
-CDLBELTHOLD,bearish,reversal,bearish reversal,forex,3,bearish_belt_hold,1,uptrend,1259,96719,78360,974695,0.135,0.135,0.81,0.285,22346,56014,12.44,17.43,10.45,73,74
-CDLBELTHOLD,bearish,reversal,bearish reversal,forex,4,bearish_belt_hold,1,uptrend,1259,90516,73521,1190315,0.14200000000000002,0.14200000000000002,0.81,0.228,16782,56739,16.19,27.3,12.9,66,74
-CDLBELTHOLD,bearish,reversal,bearish reversal,forex,5,bearish_belt_hold,1,uptrend,1259,85693,69600,1362995,0.14500000000000002,0.14500000000000002,0.81,0.191,13271,56329,19.58,37.9,15.27,49,74
-CDLBELTHOLD,bearish,reversal,bearish reversal,stock,1,bearish_belt_hold,1,uptrend,5825,574798,512195,1923042,0.017000000000000015,0.017000000000000015,0.89,0.507,259673,252522,3.75,3.62,3.89,158,14
-CDLBELTHOLD,bearish,reversal,bearish reversal,stock,2,bearish_belt_hold,1,uptrend,5825,505186,449870,3037574,0.029999999999999916,0.029999999999999916,0.89,0.345,155354,294516,6.75,8.01,6.09,94,24
-CDLBELTHOLD,bearish,reversal,bearish reversal,stock,3,bearish_belt_hold,1,uptrend,5825,463911,412810,4010208,0.03400000000000003,0.03400000000000003,0.89,0.258,106556,306254,9.71,13.72,8.32,76,29
-CDLBELTHOLD,bearish,reversal,bearish reversal,stock,4,bearish_belt_hold,1,uptrend,5825,434720,386366,4813826,0.01200000000000001,0.01200000000000001,0.89,0.203,78429,307937,12.46,20.6,10.39,65,56
-CDLBELTHOLD,bearish,reversal,bearish reversal,stock,5,bearish_belt_hold,1,uptrend,5825,411234,365064,5481441,1.1102230246251565e-16,1.1102230246251565e-16,0.89,0.166,60453,304611,15.02,28.58,12.32,52,56
+version https://git-lfs.github.com/spec/v1
+oid sha256:c693d172aaab5d8d7a3b4563001e9e463516fd259aaf10df54d9345b508bd497
+size 3040

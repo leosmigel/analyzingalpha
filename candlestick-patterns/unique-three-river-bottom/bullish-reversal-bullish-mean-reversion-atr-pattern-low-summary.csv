@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,crypto,1,unique_three_river_bottom,3,downtrend,7,15,5,20,0.19999999999999996,0.06666666666666665,0.33,0.6,3,2,4.0,5.0,2.5,1,1
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,crypto,2,unique_three_river_bottom,3,downtrend,7,14,5,35,0.20000000000000007,0.0666666666666667,0.36,0.4,2,3,7.0,9.0,5.67,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,crypto,3,unique_three_river_bottom,3,downtrend,7,14,5,48,-0.19999999999999996,-0.06666666666666665,0.36,0.2,1,4,9.6,6.0,10.5,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,crypto,4,unique_three_river_bottom,3,downtrend,7,13,5,64,0.0,0.0,0.38,0.2,1,4,12.8,22.0,10.5,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,crypto,5,unique_three_river_bottom,3,downtrend,7,13,5,64,0.19999999999999996,0.06666666666666665,0.38,0.2,1,4,12.8,22.0,10.5,1,2
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,forex,1,unique_three_river_bottom,3,downtrend,100,332,166,500,0.21799999999999997,0.07266666666666666,0.5,0.608,101,65,3.01,2.71,3.48,4,3
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,forex,2,unique_three_river_bottom,3,downtrend,100,329,166,1665,0.04799999999999993,0.015999999999999976,0.5,0.349,58,108,10.03,15.66,7.01,3,5
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,forex,3,unique_three_river_bottom,3,downtrend,100,327,164,2888,-0.15100000000000002,-0.05033333333333334,0.5,0.213,35,129,17.61,30.49,14.12,2,6
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,forex,4,unique_three_river_bottom,3,downtrend,100,326,163,3346,-0.19999999999999996,-0.06666666666666665,0.5,0.16,26,137,20.53,35.04,17.77,2,6
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,forex,5,unique_three_river_bottom,3,downtrend,100,325,162,3677,-0.15000000000000002,-0.05000000000000001,0.5,0.142,23,139,22.7,40.78,19.71,2,6
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,stock,1,unique_three_river_bottom,3,downtrend,2778,10238,4020,14256,0.176,0.058666666666666666,0.39,0.586,2356,1664,3.55,3.48,3.63,5,4
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,stock,2,unique_three_river_bottom,3,downtrend,2778,10223,4005,26939,0.254,0.08466666666666667,0.39,0.417,1669,2336,6.73,7.78,5.98,4,5
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,stock,3,unique_three_river_bottom,3,downtrend,2778,10214,3994,39359,0.2859999999999999,0.09533333333333331,0.39,0.322,1285,2709,9.85,13.62,8.07,4,6
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,stock,4,unique_three_river_bottom,3,downtrend,2778,10206,3990,51392,0.3460000000000001,0.11533333333333336,0.39,0.269,1074,2916,12.88,21.01,9.89,4,6
-CDLUNIQUE3RIVER,bullish,reversal,bullish mean reversion,stock,5,unique_three_river_bottom,3,downtrend,2778,10193,3980,65378,0.3900000000000001,0.13000000000000003,0.39,0.232,923,3057,16.43,31.69,11.82,4,6
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f1750e11d423dbca1bac38ed901f95ebe2eff681758b479388056d217775e2
+size 3109

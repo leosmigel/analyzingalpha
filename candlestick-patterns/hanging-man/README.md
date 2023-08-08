@@ -1,5 +1,3 @@
-Backtest for [hanging man](https://analyzingalpha.com/hanging-man-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:94c2bf69266c9d164396b1b986704ee32a8202b99da6bb078a161107b97630e0
+size 221

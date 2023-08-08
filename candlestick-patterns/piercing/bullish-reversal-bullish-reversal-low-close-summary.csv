@@ -1,11 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLPIERCING,bullish,reversal,bullish reversal,forex,1,piercing,2,downtrend,22,53,52,476,-0.38199999999999995,-0.19099999999999998,0.98,0.308,16,36,9.15,9.5,9.0,2,2
-CDLPIERCING,bullish,reversal,bullish reversal,forex,2,piercing,2,downtrend,22,53,52,1074,-0.484,-0.242,0.98,0.173,9,43,20.65,51.67,14.16,2,3
-CDLPIERCING,bullish,reversal,bullish reversal,forex,3,piercing,2,downtrend,22,53,52,1580,-0.5349999999999999,-0.26749999999999996,0.98,0.115,6,46,30.38,159.17,13.59,1,5
-CDLPIERCING,bullish,reversal,bullish reversal,forex,4,piercing,2,downtrend,22,53,52,1775,-0.708,-0.354,0.98,0.058,3,49,34.13,270.33,19.67,1,5
-CDLPIERCING,bullish,reversal,bullish reversal,forex,5,piercing,2,downtrend,22,53,52,1803,-0.6499999999999999,-0.32499999999999996,0.98,0.058,3,49,34.67,279.67,19.67,1,5
-CDLPIERCING,bullish,reversal,bullish reversal,stock,1,piercing,2,downtrend,3541,21401,19311,95671,0.05800000000000005,0.029000000000000026,0.9,0.528,10196,9115,4.95,4.83,5.09,9,7
-CDLPIERCING,bullish,reversal,bullish reversal,stock,2,piercing,2,downtrend,3541,21265,19147,174415,0.11399999999999999,0.056999999999999995,0.9,0.372,7126,12021,9.11,11.24,7.84,8,11
-CDLPIERCING,bullish,reversal,bullish reversal,stock,3,piercing,2,downtrend,3541,21143,19017,258119,0.18500000000000005,0.09250000000000003,0.9,0.295,5613,13404,13.57,21.32,10.33,6,14
-CDLPIERCING,bullish,reversal,bullish reversal,stock,4,piercing,2,downtrend,3541,21045,18911,334573,0.242,0.121,0.9,0.248,4689,14222,17.69,32.58,12.78,5,14
-CDLPIERCING,bullish,reversal,bullish reversal,stock,5,piercing,2,downtrend,3541,20972,18822,406539,0.30000000000000004,0.15000000000000002,0.9,0.216,4065,14757,21.6,45.68,14.97,4,14
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a72c1462e0854547246e8ad923cc5379733575e30b27f32cf9750d99fbfe37
+size 1903

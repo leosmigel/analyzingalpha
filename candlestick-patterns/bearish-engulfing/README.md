@@ -1,5 +1,3 @@
-Backtest for [bearish engulfing](https://analyzingalpha.com/bearish-engulfing-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2a49f81268789ba0e53bd2a0b5291dda3fca05a29f38ded4cfda2825c481eb
+size 233

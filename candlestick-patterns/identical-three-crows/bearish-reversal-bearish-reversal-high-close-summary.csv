@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,1,identical_three_crows,3,uptrend,75,197,146,2717,-0.14499999999999996,-0.04833333333333332,0.74,0.425,62,84,18.61,11.97,23.51,3,4
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,2,identical_three_crows,3,uptrend,75,195,142,5001,-0.19399999999999995,-0.06466666666666665,0.73,0.268,38,104,35.22,30.95,36.78,2,5
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,3,identical_three_crows,3,uptrend,75,188,135,7383,-0.351,-0.11699999999999999,0.72,0.163,22,113,54.69,27.27,60.03,2,5
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,4,identical_three_crows,3,uptrend,75,186,131,8166,-0.42,-0.13999999999999999,0.7,0.115,15,116,62.34,37.07,65.6,1,5
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,crypto,5,identical_three_crows,3,uptrend,75,184,128,8695,-0.44000000000000006,-0.1466666666666667,0.7,0.094,12,116,67.93,71.17,67.59,1,5
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,1,identical_three_crows,3,uptrend,518,6519,3849,46383,0.14499999999999996,0.04833333333333332,0.59,0.575,2212,1637,12.05,10.29,14.43,22,7
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,2,identical_three_crows,3,uptrend,518,6299,3720,81288,0.26,0.08666666666666667,0.59,0.42,1563,2157,21.85,24.27,20.1,19,9
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,3,identical_three_crows,3,uptrend,518,6157,3631,114087,0.31700000000000006,0.10566666666666669,0.59,0.329,1193,2438,31.42,42.45,26.02,19,19
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,4,identical_three_crows,3,uptrend,518,5996,3525,139193,0.3580000000000001,0.11933333333333336,0.59,0.272,960,2565,39.49,56.97,32.94,19,19
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,forex,5,identical_three_crows,3,uptrend,518,5774,3384,167721,0.41999999999999993,0.13999999999999999,0.59,0.236,800,2584,49.56,76.46,41.24,19,21
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,1,identical_three_crows,3,uptrend,121,237,205,2650,0.15999999999999998,0.05333333333333332,0.86,0.58,119,86,12.93,13.29,12.42,3,3
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,2,identical_three_crows,3,uptrend,121,235,199,5196,0.22399999999999998,0.07466666666666666,0.85,0.407,81,118,26.11,33.12,21.3,2,4
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,3,identical_three_crows,3,uptrend,121,235,198,7916,0.19399999999999995,0.06466666666666665,0.84,0.298,59,139,39.98,48.08,36.54,2,4
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,4,identical_three_crows,3,uptrend,121,233,195,12791,0.07999999999999996,0.026666666666666655,0.84,0.215,42,153,65.59,53.95,68.79,2,4
-CDLIDENTICAL3CROWS,bearish,reversal,bearish reversal,stock,5,identical_three_crows,3,uptrend,121,233,195,15400,-0.04499999999999993,-0.014999999999999977,0.84,0.159,31,164,78.97,85.42,77.76,1,4
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcfa7ac2afbd024ba34b9deca26a26f12c61a329eadf944be62662a775ef7b30
+size 3088

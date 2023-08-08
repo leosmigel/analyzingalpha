@@ -1,5 +1,3 @@
-Backtest for [bullish spinning top](https://analyzingalpha.com/bullish-spinning-top-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdb62d0fc704fca4749f1df8cfe285c4bdbffc89e7f521106fd5abd41cec0ef9
+size 239

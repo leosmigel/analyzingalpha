@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,crypto,1,bullish_harami_cross,2,uptrend,168,896,270,1023,0.04200000000000004,0.02100000000000002,0.3,0.522,141,129,3.79,3.61,3.98,5,4
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,crypto,2,bullish_harami_cross,2,uptrend,168,885,265,2063,0.06999999999999995,0.034999999999999976,0.3,0.355,94,171,7.78,9.4,6.89,5,5
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,crypto,3,bullish_harami_cross,2,uptrend,168,872,258,3461,-0.028000000000000025,-0.014000000000000012,0.3,0.244,63,195,13.41,23.3,10.22,3,5
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,crypto,4,bullish_harami_cross,2,uptrend,168,850,248,5774,-0.11199999999999999,-0.055999999999999994,0.29,0.177,44,204,23.28,56.36,16.15,2,5
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,crypto,5,bullish_harami_cross,2,uptrend,168,832,241,6224,-0.22499999999999998,-0.11249999999999999,0.29,0.129,31,210,25.83,45.13,22.98,1,7
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,forex,1,bullish_harami_cross,2,uptrend,705,6986,1959,8486,0.29700000000000004,0.14850000000000002,0.28,0.647,1268,691,4.33,4.1,4.76,20,5
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,forex,2,bullish_harami_cross,2,uptrend,705,6870,1922,22192,0.266,0.133,0.28,0.423,813,1109,11.55,12.14,11.11,15,7
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,forex,3,bullish_harami_cross,2,uptrend,705,6771,1879,33000,0.2310000000000001,0.11550000000000005,0.28,0.307,576,1303,17.56,22.06,15.57,13,13
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,forex,4,bullish_harami_cross,2,uptrend,705,6707,1851,41399,0.16600000000000004,0.08300000000000002,0.28,0.234,433,1418,22.37,34.3,18.72,10,13
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,forex,5,bullish_harami_cross,2,uptrend,705,6638,1830,50125,0.11999999999999988,0.05999999999999994,0.28,0.186,341,1489,27.39,46.77,22.95,9,13
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,stock,1,bullish_harami_cross,2,uptrend,5305,108623,40794,145380,0.10400000000000004,0.05200000000000002,0.38,0.554,22596,18198,3.56,3.39,3.78,20,11
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,stock,2,bullish_harami_cross,2,uptrend,5305,106839,39976,273249,0.08199999999999996,0.04099999999999998,0.37,0.361,14445,25531,6.84,8.14,6.1,14,15
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,stock,3,bullish_harami_cross,2,uptrend,5305,105348,39281,386557,0.05500000000000005,0.027500000000000024,0.37,0.265,10392,28889,9.84,13.98,8.35,11,23
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,stock,4,bullish_harami_cross,2,uptrend,5305,104046,38722,494266,0.03399999999999992,0.01699999999999996,0.37,0.206,7980,30742,12.76,21.35,10.54,9,23
-CDLHARAMICROSS,bullish,reversal,bearish mean reversion,stock,5,bullish_harami_cross,2,uptrend,5305,102907,38238,596700,0.0050000000000001155,0.0025000000000000577,0.37,0.167,6394,31844,15.6,30.48,12.62,8,24
+version https://git-lfs.github.com/spec/v1
+oid sha256:f186f0bddbfefc41403c71168d432da0b51c5abe49747cc2cd31922d35709b36
+size 3170

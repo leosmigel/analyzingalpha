@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,crypto,1,matching_low,2,downtrend,236,3806,1767,11048,0.13799999999999996,0.06899999999999998,0.46,0.568,1003,764,6.25,7.52,4.59,16,7
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,crypto,2,matching_low,2,downtrend,236,3557,1617,20962,0.20000000000000007,0.10000000000000003,0.45,0.4,646,971,12.96,19.26,8.77,8,7
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,crypto,3,matching_low,2,downtrend,236,3415,1542,27263,0.2490000000000001,0.12450000000000006,0.45,0.313,482,1060,17.68,32.45,10.96,6,13
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,crypto,4,matching_low,2,downtrend,236,3354,1504,27232,0.3580000000000001,0.17900000000000005,0.45,0.272,409,1095,18.11,33.1,12.51,5,13
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,crypto,5,matching_low,2,downtrend,236,3293,1468,30420,0.43499999999999983,0.21749999999999992,0.45,0.239,351,1117,20.72,40.01,14.66,4,13
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,forex,1,matching_low,2,downtrend,1193,55103,29565,104194,0.15599999999999997,0.07799999999999999,0.54,0.576,17043,12522,3.52,3.79,3.16,28,23
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,forex,2,matching_low,2,downtrend,1193,51858,27710,218126,0.136,0.068,0.53,0.378,10469,17241,7.87,9.83,6.68,18,30
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,forex,3,matching_low,2,downtrend,1193,49764,26482,296304,0.09200000000000008,0.04600000000000004,0.53,0.274,7258,19224,11.19,16.26,9.27,18,30
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,forex,4,matching_low,2,downtrend,1193,48326,25647,358801,0.08399999999999996,0.04199999999999998,0.53,0.216,5534,20113,13.99,24.88,10.99,18,30
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,forex,5,matching_low,2,downtrend,1193,47153,24942,416658,0.05999999999999994,0.02999999999999997,0.53,0.176,4387,20555,16.71,35.48,12.7,4,50
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,stock,1,matching_low,2,downtrend,5670,146607,81454,302712,0.13699999999999996,0.06849999999999998,0.56,0.567,46199,35255,3.72,3.58,3.9,14,10
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,stock,2,matching_low,2,downtrend,5670,142857,79183,540237,0.20200000000000007,0.10100000000000003,0.55,0.401,31790,47393,6.82,7.99,6.04,9,15
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,stock,3,matching_low,2,downtrend,5670,140153,77479,752242,0.2679999999999999,0.13399999999999995,0.55,0.316,24487,52992,9.71,13.73,7.85,8,18
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,stock,4,matching_low,2,downtrend,5670,138161,76238,957644,0.31200000000000006,0.15600000000000003,0.55,0.263,20046,56192,12.56,20.87,9.6,8,26
-CDLMATCHINGLOW,bullish,reversal,bullish mean reversion,stock,5,matching_low,2,downtrend,5670,136519,75238,1149733,0.365,0.1825,0.55,0.227,17046,58192,15.28,28.62,11.37,6,26
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f1b3c08cfa1eea5c6313f12d2a711f6da47dc1a4c947dfedbe36b11e6caa28
+size 3099

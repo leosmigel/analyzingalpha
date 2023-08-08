@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLBELTHOLD,bearish,reversal,bullish continuation,crypto,1,bearish_belt_hold,1,uptrend,236,6023,2616,10107,-0.14399999999999996,-0.14399999999999996,0.43,0.426,1115,1501,3.86,4.93,3.07,5,11
-CDLBELTHOLD,bearish,reversal,bullish continuation,crypto,2,bearish_belt_hold,1,uptrend,236,5769,2495,14458,-0.03400000000000003,-0.03400000000000003,0.43,0.323,806,1689,5.79,8.2,4.65,5,16
-CDLBELTHOLD,bearish,reversal,bullish continuation,crypto,3,bearish_belt_hold,1,uptrend,236,5581,2410,17894,0.040000000000000036,0.040000000000000036,0.43,0.26,627,1783,7.42,11.1,6.13,4,16
-CDLBELTHOLD,bearish,reversal,bullish continuation,crypto,4,bearish_belt_hold,1,uptrend,236,5436,2345,20219,0.10399999999999998,0.10399999999999998,0.43,0.221,519,1826,8.62,13.64,7.2,3,16
-CDLBELTHOLD,bearish,reversal,bullish continuation,crypto,5,bearish_belt_hold,1,uptrend,236,5329,2300,22269,0.19999999999999996,0.19999999999999996,0.43,0.2,460,1840,9.68,16.61,7.95,3,19
-CDLBELTHOLD,bearish,reversal,bullish continuation,forex,1,bearish_belt_hold,1,uptrend,1259,116534,44883,195594,-0.256,-0.256,0.39,0.374,16792,28091,4.36,5.16,3.88,14,46
-CDLBELTHOLD,bearish,reversal,bullish continuation,forex,2,bearish_belt_hold,1,uptrend,1259,109414,41940,303922,-0.21599999999999997,-0.21599999999999997,0.38,0.262,10990,30950,7.25,10.99,5.92,5,62
-CDLBELTHOLD,bearish,reversal,bullish continuation,forex,3,bearish_belt_hold,1,uptrend,1259,104012,39855,396817,-0.19999999999999996,-0.19999999999999996,0.38,0.2,7968,31887,9.96,18.77,7.75,6,62
-CDLBELTHOLD,bearish,reversal,bullish continuation,forex,4,bearish_belt_hold,1,uptrend,1259,99649,38239,471273,-0.19599999999999995,-0.19599999999999995,0.38,0.161,6161,32078,12.32,27.51,9.41,5,62
-CDLBELTHOLD,bearish,reversal,bullish continuation,forex,5,bearish_belt_hold,1,uptrend,1259,96292,36984,536393,-0.18499999999999994,-0.18499999999999994,0.38,0.135,5001,31983,14.5,37.02,10.98,5,85
-CDLBELTHOLD,bearish,reversal,bullish continuation,stock,1,bearish_belt_hold,1,uptrend,5825,538640,238175,877118,-0.16199999999999998,-0.16199999999999998,0.44,0.418,99505,138670,3.68,4.2,3.31,11,17
-CDLBELTHOLD,bearish,reversal,bullish continuation,stock,2,bearish_belt_hold,1,uptrend,5825,507047,223763,1334213,-0.09999999999999998,-0.09999999999999998,0.44,0.3,67139,156624,5.96,8.73,4.78,6,29
-CDLBELTHOLD,bearish,reversal,bullish continuation,stock,3,bearish_belt_hold,1,uptrend,5825,481614,212446,1715433,-0.04600000000000004,-0.04600000000000004,0.44,0.238,50578,161868,8.07,14.37,6.11,5,37
-CDLBELTHOLD,bearish,reversal,bullish continuation,stock,4,bearish_belt_hold,1,uptrend,5825,460586,202884,2052193,0.0040000000000000036,0.0040000000000000036,0.44,0.201,40681,162203,10.12,21.22,7.33,5,36
-CDLBELTHOLD,bearish,reversal,bullish continuation,stock,5,bearish_belt_hold,1,uptrend,5825,442970,194821,2350912,0.039999999999999925,0.039999999999999925,0.44,0.174,33995,160826,12.07,29.15,8.46,4,46
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a46e51abacf6f44734f2dea8af2566e0e7e54414d839b40f68af993ea65e899
+size 3127

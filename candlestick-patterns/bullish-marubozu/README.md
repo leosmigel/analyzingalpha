@@ -1,5 +1,3 @@
-Backtest for [bullish marubozu](https://analyzingalpha.com/bullish-marubozu-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:387f88955213e74749639e1888a28f9d55889ad7541ac98cd531515ae10cf46b
+size 231

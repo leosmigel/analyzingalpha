@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,1,advance_block,3,uptrend,178,1159,1122,2466,-0.18,-0.06,0.97,0.41,460,662,2.2,2.39,2.06,9,6
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,2,advance_block,3,uptrend,178,1150,1113,3850,-0.07199999999999995,-0.023999999999999983,0.97,0.309,344,769,3.46,3.99,3.22,8,10
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,3,advance_block,3,uptrend,178,1141,1101,4994,-0.03700000000000003,-0.012333333333333344,0.96,0.241,265,836,4.54,4.98,4.39,7,24
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,4,advance_block,3,uptrend,178,1116,1071,5575,0.01200000000000001,0.0040000000000000036,0.96,0.203,217,854,5.21,6.13,4.97,6,24
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,crypto,5,advance_block,3,uptrend,178,1112,1066,6446,0.039999999999999925,0.013333333333333308,0.96,0.174,185,881,6.05,7.38,5.77,4,24
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,1,advance_block,3,uptrend,1072,20542,19167,27849,-0.09600000000000003,-0.03200000000000001,0.93,0.454,8702,10465,1.45,1.48,1.43,31,10
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,2,advance_block,3,uptrend,1072,20456,19078,38373,0.14400000000000002,0.04800000000000001,0.93,0.382,7279,11799,2.01,2.08,1.97,29,21
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,3,advance_block,3,uptrend,1072,20388,19009,48013,0.31999999999999995,0.10666666666666665,0.93,0.33,6277,12732,2.53,2.62,2.48,26,25
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,4,advance_block,3,uptrend,1072,20343,18966,58242,0.45399999999999996,0.15133333333333332,0.93,0.291,5514,13452,3.07,3.57,2.87,25,28
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,forex,5,advance_block,3,uptrend,1072,20296,18917,68857,0.6000000000000001,0.20000000000000004,0.93,0.266,5040,13877,3.64,4.62,3.28,24,35
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,1,advance_block,3,uptrend,4086,61937,57682,78039,-0.245,-0.08166666666666667,0.93,0.375,21654,36028,1.35,1.44,1.3,23,21
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,2,advance_block,3,uptrend,4086,61695,57442,103152,-0.07599999999999996,-0.02533333333333332,0.93,0.307,17629,39813,1.8,2.14,1.64,19,21
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,3,advance_block,3,uptrend,4086,61628,57365,129522,0.03700000000000003,0.012333333333333344,0.93,0.259,14867,42498,2.26,3.04,1.99,17,25
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,4,advance_block,3,uptrend,4086,61545,57276,156739,0.11599999999999999,0.03866666666666666,0.93,0.224,12812,44464,2.74,4.13,2.33,16,27
-CDLADVANCEBLOCK,bearish,reversal,bearish reversal,stock,5,advance_block,3,uptrend,4086,61467,57194,184015,0.18500000000000005,0.06166666666666668,0.93,0.197,11250,45944,3.22,5.37,2.69,15,27
+version https://git-lfs.github.com/spec/v1
+oid sha256:470b33881e5d751a3ff28aba297ef81528db549a3b5c473579dff07fdd0d81b7
+size 2999

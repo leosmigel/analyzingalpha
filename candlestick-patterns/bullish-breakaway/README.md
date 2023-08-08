@@ -1,5 +1,3 @@
-Backtest for [bullish breakaway](https://analyzingalpha.com/bullish-breakaway-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:eec31f0d93a458616c96d6c595565ac38278e4f33c5964571827e3d6eb47a041
+size 233

@@ -1,5 +1,3 @@
-Backtest for [bearish harami cross](https://analyzingalpha.com/bearish-harami-cross-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:1af05c43cf51a0b21a9cab672b878ec9659733ea7c1eba3fdad3083b0dbac396
+size 239

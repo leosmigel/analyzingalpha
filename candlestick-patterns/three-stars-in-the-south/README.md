@@ -1,5 +1,3 @@
-Backtest for [three stars in the south](https://analyzingalpha.com/three-stars-in-the-south-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da31a490fc0d2e244fce7dbcf8f160068f7191f2c9294942e0450323aa515f9
+size 247

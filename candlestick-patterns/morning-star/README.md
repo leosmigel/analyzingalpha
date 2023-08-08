@@ -1,5 +1,3 @@
-Backtest for [morning star](https://analyzingalpha.com/morning-star-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea9134b926bb537fadf78cabf733f1987a837f80eba81a11718c0370ee62cb60
+size 223

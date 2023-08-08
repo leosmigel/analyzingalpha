@@ -1,5 +1,3 @@
-Backtest for [bullish abandoned baby](https://analyzingalpha.com/bullish-abandoned-baby-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a71fa0a62b5422389d866fff8631083a53d63a963d34f9a33ee9f0aa3a3e63f
+size 243

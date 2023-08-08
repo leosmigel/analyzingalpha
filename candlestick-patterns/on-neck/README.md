@@ -1,5 +1,3 @@
-Backtest for [on neck](https://analyzingalpha.com/on-neck-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5e174cfc5d8e8f8e31719dd807cbd1f18f97df8c56d2db96cf0c5c441941ba
+size 213

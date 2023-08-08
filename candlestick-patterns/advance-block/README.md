@@ -1,5 +1,3 @@
-Backtest for [advance block](https://analyzingalpha.com/advance-block-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c3675663e38182eba7286bf834e9562f8594db79231c493b5add2d40c1888ed
+size 225

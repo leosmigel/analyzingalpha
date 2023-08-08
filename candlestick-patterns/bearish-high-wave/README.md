@@ -1,5 +1,3 @@
-Backtest for [bearish high wave](https://analyzingalpha.com/bearish-high-wave-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:e95600951e2a80688a8733082aa622bb4a3dde966f3109a5dd6157395002467e
+size 233

@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,crypto,1,inverted_hammer,1,downtrend,176,971,764,3275,-0.19799999999999995,-0.19799999999999995,0.79,0.402,307,457,4.29,4.77,3.96,6,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,crypto,2,inverted_hammer,1,downtrend,176,937,733,5233,-0.22999999999999998,-0.22999999999999998,0.78,0.255,187,546,7.14,8.4,6.71,4,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,crypto,3,inverted_hammer,1,downtrend,176,926,726,7782,-0.2370000000000001,-0.2370000000000001,0.78,0.191,139,587,10.72,9.48,11.01,3,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,crypto,4,inverted_hammer,1,downtrend,176,914,712,9173,-0.21599999999999997,-0.21599999999999997,0.78,0.156,111,601,12.88,16.36,12.24,3,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,crypto,5,inverted_hammer,1,downtrend,176,900,702,11314,-0.20999999999999996,-0.20999999999999996,0.78,0.132,93,609,16.12,26.16,14.58,3,13
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,forex,1,inverted_hammer,1,downtrend,697,4417,3243,14414,-0.18399999999999994,-0.18399999999999994,0.73,0.406,1316,1927,4.44,4.33,4.52,19,16
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,forex,2,inverted_hammer,1,downtrend,697,4351,3194,22872,-0.18399999999999994,-0.18399999999999994,0.73,0.273,872,2322,7.16,9.17,6.41,15,28
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,forex,3,inverted_hammer,1,downtrend,697,4308,3163,31410,-0.18500000000000005,-0.18500000000000005,0.73,0.205,647,2516,9.93,16.89,8.14,11,33
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,forex,4,inverted_hammer,1,downtrend,697,4285,3147,37544,-0.19199999999999995,-0.19199999999999995,0.73,0.162,510,2637,11.93,22.21,9.94,9,33
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,forex,5,inverted_hammer,1,downtrend,697,4246,3120,43073,-0.20499999999999996,-0.20499999999999996,0.73,0.133,414,2706,13.81,31.99,11.02,7,33
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,stock,1,inverted_hammer,1,downtrend,5725,170168,133438,383724,-0.10000000000000003,-0.10000000000000003,0.78,0.45,60101,73337,2.88,2.97,2.8,56,16
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,stock,2,inverted_hammer,1,downtrend,5725,164754,129154,598939,-0.06399999999999995,-0.06399999999999995,0.78,0.313,40455,88699,4.64,5.8,4.11,36,32
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,stock,3,inverted_hammer,1,downtrend,5725,159933,125317,805832,-0.049000000000000044,-0.049000000000000044,0.78,0.237,29661,95656,6.43,9.58,5.45,30,35
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,stock,4,inverted_hammer,1,downtrend,5725,155929,122178,992942,-0.05400000000000005,-0.05400000000000005,0.78,0.189,23031,99147,8.13,13.86,6.8,26,40
-CDLINVERTEDHAMMER,bullish,reversal,bearish continuation,stock,5,inverted_hammer,1,downtrend,5725,152278,119276,1166623,-0.06499999999999995,-0.06499999999999995,0.78,0.155,18515,100761,9.78,19.03,8.08,22,54
+version https://git-lfs.github.com/spec/v1
+oid sha256:1165daf1677a0b8f179cb448892aed8fcca00855866764474dd63be72d21c335
+size 3199

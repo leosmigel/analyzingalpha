@@ -1,5 +1,3 @@
-Backtest for [rickshaw man](https://analyzingalpha.com/rickshaw-man-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cb2e0d61a7b5e4274462cd67e28e5565f762416565b3523810de4d023d20048
+size 223

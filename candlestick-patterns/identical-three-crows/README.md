@@ -1,5 +1,3 @@
-Backtest for [identical three crows](https://analyzingalpha.com/identical-three-crows-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:22baffc80abd6ccad404cdf0215da99c5dc41943eafb62aadb8be1f866efd0ba
+size 241

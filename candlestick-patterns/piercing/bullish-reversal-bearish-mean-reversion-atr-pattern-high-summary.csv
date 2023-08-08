@@ -1,11 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLPIERCING,bullish,reversal,bearish mean reversion,forex,1,piercing,2,downtrend,22,54,27,204,0.481,0.2405,0.5,0.741,20,7,7.56,7.8,6.86,3,1
-CDLPIERCING,bullish,reversal,bearish mean reversion,forex,2,piercing,2,downtrend,22,52,26,547,0.6160000000000001,0.30800000000000005,0.5,0.538,14,12,21.04,19.07,23.33,2,1
-CDLPIERCING,bullish,reversal,bearish mean reversion,forex,3,piercing,2,downtrend,22,51,25,762,0.9199999999999999,0.45999999999999996,0.49,0.48,12,13,30.48,36.17,25.23,2,1
-CDLPIERCING,bullish,reversal,bearish mean reversion,forex,4,piercing,2,downtrend,22,50,25,1095,0.40000000000000013,0.20000000000000007,0.5,0.28,7,18,43.8,50.43,41.22,2,2
-CDLPIERCING,bullish,reversal,bearish mean reversion,forex,5,piercing,2,downtrend,22,50,25,1500,0.43999999999999995,0.21999999999999997,0.5,0.24,6,19,60.0,97.67,48.11,2,2
-CDLPIERCING,bullish,reversal,bearish mean reversion,stock,1,piercing,2,downtrend,3541,21393,11371,54198,0.13599999999999995,0.06799999999999998,0.53,0.566,6433,4938,4.77,4.42,5.22,9,6
-CDLPIERCING,bullish,reversal,bearish mean reversion,stock,2,piercing,2,downtrend,3541,21206,11242,112098,0.07799999999999996,0.03899999999999998,0.53,0.359,4040,7202,9.97,11.53,9.1,6,8
-CDLPIERCING,bullish,reversal,bearish mean reversion,stock,3,piercing,2,downtrend,3541,21034,11126,176154,0.03400000000000003,0.017000000000000015,0.53,0.258,2875,8251,15.83,21.45,13.88,5,11
-CDLPIERCING,bullish,reversal,bearish mean reversion,stock,4,piercing,2,downtrend,3541,20833,11003,248777,-0.020000000000000018,-0.010000000000000009,0.53,0.195,2143,8860,22.61,32.94,20.11,5,11
-CDLPIERCING,bullish,reversal,bearish mean reversion,stock,5,piercing,2,downtrend,3541,20700,10907,308304,-0.07999999999999996,-0.03999999999999998,0.53,0.154,1680,9227,28.27,46.8,24.89,4,11
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45c9b683b5135c83fec4eb8784877f6714fedd3ca2ef51b40edb9f23868f3dc
+size 2001

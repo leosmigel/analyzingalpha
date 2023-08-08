@@ -1,5 +1,3 @@
-Backtest for [hammer](https://analyzingalpha.com/hammer-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:0458455422c64b0afdb3b940a539f2abdf641b2f84e2cc18b2706194e1f8c672
+size 211

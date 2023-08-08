@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,crypto,1,homing_pigeon,2,downtrend,97,332,315,951,-0.11600000000000005,-0.058000000000000024,0.95,0.444,140,175,3.02,2.24,3.65,4,4
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,crypto,2,homing_pigeon,2,downtrend,97,329,311,1151,0.04399999999999993,0.021999999999999964,0.95,0.347,108,203,3.7,2.78,4.19,3,5
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,crypto,3,homing_pigeon,2,downtrend,97,328,309,1238,0.16300000000000003,0.08150000000000002,0.94,0.291,90,219,4.01,2.76,4.52,3,11
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,crypto,4,homing_pigeon,2,downtrend,97,328,309,1544,0.3460000000000001,0.17300000000000004,0.94,0.269,83,226,5.0,5.55,4.79,3,11
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,crypto,5,homing_pigeon,2,downtrend,97,328,309,1665,0.48,0.24,0.94,0.246,76,233,5.39,4.58,5.65,3,11
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,forex,1,homing_pigeon,2,downtrend,380,1920,1870,4542,-0.28400000000000003,-0.14200000000000002,0.97,0.356,666,1204,2.43,2.58,2.34,3,12
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,forex,2,homing_pigeon,2,downtrend,380,1910,1860,7369,-0.248,-0.124,0.97,0.251,467,1393,3.96,5.06,3.59,3,18
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,forex,3,homing_pigeon,2,downtrend,380,1902,1851,9702,-0.21199999999999997,-0.10599999999999998,0.97,0.196,362,1489,5.24,8.28,4.5,3,28
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,forex,4,homing_pigeon,2,downtrend,380,1898,1847,12099,-0.21599999999999997,-0.10799999999999998,0.97,0.156,289,1558,6.55,12.52,5.44,3,28
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,forex,5,homing_pigeon,2,downtrend,380,1895,1844,13631,-0.20499999999999996,-0.10249999999999998,0.97,0.133,246,1598,7.39,16.21,6.03,3,35
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,stock,1,homing_pigeon,2,downtrend,5103,102224,93483,144181,-0.178,-0.089,0.91,0.412,38519,54964,1.54,1.65,1.47,9,17
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,stock,2,homing_pigeon,2,downtrend,5103,101835,93109,199940,0.014000000000000012,0.007000000000000006,0.91,0.337,31375,61734,2.15,2.6,1.92,8,18
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,stock,3,homing_pigeon,2,downtrend,5103,101384,92676,255832,0.15100000000000002,0.07550000000000001,0.91,0.287,26610,66066,2.76,3.78,2.35,8,20
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,stock,4,homing_pigeon,2,downtrend,5103,100987,92295,309055,0.258,0.129,0.91,0.252,23290,69005,3.35,5.18,2.73,5,26
-CDLHOMINGPIGEON,bullish,reversal,bullish reversal,stock,5,homing_pigeon,2,downtrend,5103,100599,91927,365807,0.345,0.1725,0.91,0.225,20720,71207,3.98,6.77,3.17,5,30
+version https://git-lfs.github.com/spec/v1
+oid sha256:bba488b0ee35e3cb774f42a2baa41edea2e6c199ca73ba267a9912aec8ebc64b
+size 2882

@@ -1,11 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL2CROWS,bearish,reversal,bullish mean reversion,forex,1,two_crows,3,uptrend,4,8,3,11,0.337,0.11233333333333334,0.38,0.667,2,1,3.67,4.5,2.0,2,1
-CDL2CROWS,bearish,reversal,bullish mean reversion,forex,2,two_crows,3,uptrend,4,8,3,28,-1.0,-0.3333333333333333,0.38,0.0,0,3,9.33,,9.33,0,2
-CDL2CROWS,bearish,reversal,bullish mean reversion,forex,3,two_crows,3,uptrend,4,8,3,28,-1.0,-0.3333333333333333,0.38,0.0,0,3,9.33,,9.33,0,2
-CDL2CROWS,bearish,reversal,bullish mean reversion,forex,4,two_crows,3,uptrend,4,8,3,28,-1.0,-0.3333333333333333,0.38,0.0,0,3,9.33,,9.33,0,2
-CDL2CROWS,bearish,reversal,bullish mean reversion,forex,5,two_crows,3,uptrend,4,8,3,28,-1.0,-0.3333333333333333,0.38,0.0,0,3,9.33,,9.33,0,2
-CDL2CROWS,bearish,reversal,bullish mean reversion,stock,1,two_crows,3,uptrend,1665,4910,2001,8104,0.15699999999999997,0.05233333333333332,0.41,0.577,1154,847,4.05,3.77,4.43,5,4
-CDL2CROWS,bearish,reversal,bullish mean reversion,stock,2,two_crows,3,uptrend,1665,4902,1997,14882,0.19000000000000006,0.06333333333333335,0.41,0.395,788,1209,7.45,8.51,6.76,3,5
-CDL2CROWS,bearish,reversal,bullish mean reversion,stock,3,two_crows,3,uptrend,1665,4894,1993,20464,0.23399999999999999,0.078,0.41,0.308,613,1380,10.27,14.02,8.6,3,5
-CDL2CROWS,bearish,reversal,bullish mean reversion,stock,4,two_crows,3,uptrend,1665,4886,1990,25475,0.28400000000000003,0.09466666666666668,0.41,0.256,510,1480,12.8,21.35,9.86,2,5
-CDL2CROWS,bearish,reversal,bullish mean reversion,stock,5,two_crows,3,uptrend,1665,4884,1987,30456,0.33499999999999996,0.11166666666666665,0.41,0.223,443,1544,15.33,28.09,11.67,2,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:f93c00369b5ae2a8729d9a5cf077b7e0f31475be1af7c9988981efb67b071585
+size 1822

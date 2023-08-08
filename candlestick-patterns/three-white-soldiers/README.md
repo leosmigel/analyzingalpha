@@ -1,5 +1,3 @@
-Backtest for [three white soldiers](https://analyzingalpha.com/three-white-soldiers-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dfcde737c332fb66dc7d3a8d4c8ccd12d65b671262717f2333078089cbaaab3
+size 239

@@ -1,5 +1,3 @@
-Backtest for [down gap side by side](https://analyzingalpha.com/down-gap-side-by-side-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8018441c820b484d094eb69214ad33a5cd0eda04abfbe019c7fb4b42043f433
+size 241

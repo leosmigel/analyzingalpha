@@ -1,21 +1,3 @@
-polygon = {
-    'api_key':'YOUR_API_KEY'
-}
-
-postgresql = {'pguser':'alpha',
-              'pgpasswd':'password',
-              'pghost':'localhost',
-              'pgport': 5432,
-              'pgdb': 'alpha'
-             }
-
-quandl = {
-    'api_key': 'YOUR_API_KEY',
-    'number_of_retries': 5,
-    'max_wait_between_retries': 8,
-    'retry_backoff_factor': 1,
-    'retry_status_codes': [429, 500, 501, 502, 503,
-                           504, 505, 506, 507, 508,
-                           509, 510, 511]
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7cb58d58990000357ab0866f827edad946b81f64f64cfe13b6e4b356b74cc7
+size 510

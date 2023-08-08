@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLLONGLINE,bullish,,bullish,crypto,1,bullish_long_line,1,none,245,17395,12883,54475,0.018000000000000016,0.018000000000000016,0.74,0.508,6542,6341,4.23,4.02,4.44,14,13
-CDLLONGLINE,bullish,,bullish,crypto,2,bullish_long_line,1,none,245,14984,10963,74539,0.134,0.134,0.73,0.377,4131,6832,6.8,7.79,6.2,7,17
-CDLLONGLINE,bullish,,bullish,crypto,3,bullish_long_line,1,none,245,13425,9728,88577,0.20900000000000007,0.20900000000000007,0.72,0.303,2945,6783,9.11,12.51,7.63,4,32
-CDLLONGLINE,bullish,,bullish,crypto,4,bullish_long_line,1,none,245,12424,8922,98405,0.28,0.28,0.72,0.255,2279,6643,11.03,17.19,8.92,3,47
-CDLLONGLINE,bullish,,bullish,crypto,5,bullish_long_line,1,none,245,11837,8437,104534,0.345,0.345,0.71,0.225,1899,6538,12.39,21.68,9.69,3,47
-CDLLONGLINE,bullish,,bullish,forex,1,bullish_long_line,1,none,1273,226765,167300,1165560,-0.11900000000000005,-0.11900000000000005,0.74,0.441,73700,93600,6.97,7.03,6.91,14,69
-CDLLONGLINE,bullish,,bullish,forex,2,bullish_long_line,1,none,1273,177877,132185,1605526,-0.13,-0.13,0.74,0.29,38394,93791,12.15,16.18,10.49,6,76
-CDLLONGLINE,bullish,,bullish,forex,3,bullish_long_line,1,none,1273,150774,111981,1867705,-0.135,-0.135,0.74,0.215,24053,87928,16.68,27.72,13.66,6,164
-CDLLONGLINE,bullish,,bullish,forex,4,bullish_long_line,1,none,1273,133876,99039,2042036,-0.1459999999999999,-0.1459999999999999,0.74,0.171,16908,82131,20.62,41.6,16.3,5,203
-CDLLONGLINE,bullish,,bullish,forex,5,bullish_long_line,1,none,1273,121123,89241,2184221,-0.15999999999999992,-0.15999999999999992,0.74,0.14,12527,76714,24.48,58.42,18.93,7,206
-CDLLONGLINE,bullish,,bullish,stock,1,bullish_long_line,1,none,6449,1199039,982056,4387358,0.019000000000000017,0.019000000000000017,0.82,0.509,500282,481774,4.47,4.43,4.5,11,12
-CDLLONGLINE,bullish,,bullish,stock,2,bullish_long_line,1,none,6449,974051,793950,6196774,0.08799999999999997,0.08799999999999997,0.82,0.364,289184,504766,7.8,9.82,6.65,11,19
-CDLLONGLINE,bullish,,bullish,stock,3,bullish_long_line,1,none,6449,834281,677049,7450180,0.15399999999999991,0.15399999999999991,0.81,0.288,194714,482335,11.0,16.83,8.65,7,22
-CDLLONGLINE,bullish,,bullish,stock,4,bullish_long_line,1,none,6449,732786,592485,8392276,0.20399999999999996,0.20399999999999996,0.81,0.241,142732,449753,14.16,25.52,10.56,5,29
-CDLLONGLINE,bullish,,bullish,stock,5,bullish_long_line,1,none,6449,657427,529529,9099751,0.2549999999999999,0.2549999999999999,0.81,0.209,110609,418920,17.18,35.42,12.37,5,33
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a86b3aa1f5a48abb7e2ca68a4feace63076c877d5941eebab62482765072e82
+size 2683

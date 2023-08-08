@@ -1,5 +1,3 @@
-Backtest for [doji](https://analyzingalpha.com/doji-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3d75243881c7f166e34f8c466c0db9296349b8095e2cb6d2a6b6fd82f98e84
+size 207

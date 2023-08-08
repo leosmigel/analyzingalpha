@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,crypto,1,advance_block,3,uptrend,178,1117,147,903,0.239,0.07966666666666666,0.13,0.619,91,56,6.14,7.6,3.77,4,2
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,crypto,2,advance_block,3,uptrend,178,1108,147,1795,0.32399999999999995,0.10799999999999998,0.13,0.442,65,82,12.21,15.89,9.29,2,2
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,crypto,3,advance_block,3,uptrend,178,1102,146,2294,0.5910000000000001,0.19700000000000004,0.13,0.397,58,88,15.71,23.64,10.49,2,2
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,crypto,4,advance_block,3,uptrend,178,1094,144,2691,0.662,0.22066666666666668,0.13,0.333,48,96,18.69,27.27,14.4,2,2
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,crypto,5,advance_block,3,uptrend,178,1091,144,3083,0.625,0.20833333333333334,0.13,0.271,39,105,21.41,31.95,17.5,1,2
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,forex,1,advance_block,3,uptrend,1072,19815,1557,4646,0.22099999999999997,0.07366666666666666,0.08,0.611,952,605,2.98,3.0,2.96,9,5
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,forex,2,advance_block,3,uptrend,1072,19664,1516,16662,0.22599999999999998,0.07533333333333332,0.08,0.408,618,898,10.99,13.91,8.98,5,6
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,forex,3,advance_block,3,uptrend,1072,19560,1497,28669,0.19999999999999996,0.06666666666666665,0.08,0.3,449,1048,19.15,33.46,13.02,4,6
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,forex,4,advance_block,3,uptrend,1072,19455,1477,34546,0.138,0.046000000000000006,0.08,0.227,335,1142,23.39,42.16,17.88,4,6
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,forex,5,advance_block,3,uptrend,1072,19390,1471,40869,0.1299999999999999,0.0433333333333333,0.08,0.188,276,1195,27.78,61.05,20.1,3,7
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,stock,1,advance_block,3,uptrend,4086,59207,6200,18261,0.22099999999999997,0.07366666666666666,0.1,0.611,3786,2414,2.95,2.78,3.21,7,4
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,stock,2,advance_block,3,uptrend,4086,59156,6185,36643,0.30999999999999994,0.10333333333333332,0.1,0.435,2692,3493,5.92,6.85,5.21,6,8
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,stock,3,advance_block,3,uptrend,4086,59048,6169,54421,0.3570000000000001,0.11900000000000004,0.1,0.339,2091,4078,8.82,12.14,7.12,6,8
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,stock,4,advance_block,3,uptrend,4086,58931,6149,71309,0.40400000000000014,0.1346666666666667,0.1,0.281,1730,4419,11.6,18.92,8.73,4,8
-CDLADVANCEBLOCK,bearish,reversal,bullish mean reversion,stock,5,advance_block,3,uptrend,4086,58824,6135,87596,0.43499999999999983,0.14499999999999993,0.1,0.239,1464,4671,14.28,26.01,10.6,4,8
+version https://git-lfs.github.com/spec/v1
+oid sha256:f429169942f698c740c9daa377168157778288705028e20561c5e9bbf05dc964
+size 2998

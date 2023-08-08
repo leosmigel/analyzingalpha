@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,crypto,1,dark_cloud_cover,2,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,crypto,2,dark_cloud_cover,2,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,crypto,3,dark_cloud_cover,2,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,crypto,4,dark_cloud_cover,2,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,crypto,5,dark_cloud_cover,2,uptrend,1,2,0,0,,,0.0,,0,0,,,,0,0
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,forex,1,dark_cloud_cover,2,uptrend,32,72,25,78,-0.19999999999999996,-0.09999999999999998,0.35,0.4,10,15,3.12,2.6,3.47,2,2
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,forex,2,dark_cloud_cover,2,uptrend,32,72,25,143,-0.040000000000000036,-0.020000000000000018,0.35,0.32,8,17,5.72,7.0,5.12,2,2
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,forex,3,dark_cloud_cover,2,uptrend,32,72,25,209,-0.19999999999999996,-0.09999999999999998,0.35,0.2,5,20,8.36,8.2,8.4,1,2
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,forex,4,dark_cloud_cover,2,uptrend,32,72,25,254,0.0,0.0,0.35,0.2,5,20,10.16,17.2,8.4,1,2
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,forex,5,dark_cloud_cover,2,uptrend,32,72,25,276,0.19999999999999996,0.09999999999999998,0.35,0.2,5,20,11.04,21.6,8.4,1,2
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,stock,1,dark_cloud_cover,2,uptrend,3834,31987,10620,41274,0.13999999999999996,0.06999999999999998,0.33,0.57,6056,4564,3.89,3.74,4.08,10,8
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,stock,2,dark_cloud_cover,2,uptrend,3834,31838,10549,80380,0.11199999999999999,0.055999999999999994,0.33,0.371,3911,6638,7.62,8.76,6.95,7,11
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,stock,3,dark_cloud_cover,2,uptrend,3834,31736,10500,119511,0.04600000000000004,0.02300000000000002,0.33,0.262,2755,7745,11.38,16.16,9.68,6,12
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,stock,4,dark_cloud_cover,2,uptrend,3834,31666,10462,153194,0.0,0.0,0.33,0.2,2093,8369,14.64,24.45,12.19,6,12
-CDLDARKCLOUDCOVER,bearish,reversal,bearish mean reversion,stock,5,dark_cloud_cover,2,uptrend,3834,31598,10420,190764,-0.04499999999999993,-0.022499999999999964,0.33,0.159,1654,8766,18.31,36.3,14.91,6,12
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c46b06d012219169b5627fb739f2c6cb7839f4559d2e17931cc51477b73fea
+size 2669

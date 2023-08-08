@@ -1,5 +1,3 @@
-Backtest for [three outside up](https://analyzingalpha.com/three-outside-up-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:2800d0e39a30746505730eb8814bdb76e1adbc2d962ca1edb50eaabdcb299848
+size 231

@@ -1,6 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLKICKING,bearish,,bullish,stock,1,bearish_kicking,2,none,176,508,249,391,-0.8360000000000001,-0.41800000000000004,0.49,0.084,21,228,1.57,2.19,1.51,1,5
-CDLKICKING,bearish,,bullish,stock,2,bearish_kicking,2,none,176,508,249,420,-0.8119999999999999,-0.40599999999999997,0.49,0.064,16,233,1.69,2.56,1.63,1,5
-CDLKICKING,bearish,,bullish,stock,3,bearish_kicking,2,none,176,508,249,446,-0.7719999999999999,-0.38599999999999995,0.49,0.056,14,235,1.79,2.93,1.72,1,5
-CDLKICKING,bearish,,bullish,stock,4,bearish_kicking,2,none,176,508,249,448,-0.716,-0.358,0.49,0.056,14,235,1.8,3.07,1.72,1,5
-CDLKICKING,bearish,,bullish,stock,5,bearish_kicking,2,none,176,508,249,474,-0.6599999999999999,-0.32999999999999996,0.49,0.056,14,235,1.9,4.93,1.72,1,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:3539b5f56d473359d091b1d69882934cc2312c8278855949222f09806c7885d8
+size 973

@@ -1,5 +1,3 @@
-Backtest for [downside gap three methods](https://analyzingalpha.com/downside-gap-three-methods-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:1931da21dfea9072b2b03bf1c70224c99e761fedd4733e43beac34b4f726afa8
+size 251

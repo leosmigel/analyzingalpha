@@ -1,5 +1,3 @@
-Backtest for [bullish counterattack](https://analyzingalpha.com/bullish-counterattack-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:0071c04be57043c71aed9a74d18fb3991fc3d34b4947592225855a8c9c77f0c9
+size 241

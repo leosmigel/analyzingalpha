@@ -1,5 +1,3 @@
-Backtest for [bullish kicking](https://analyzingalpha.com/bullish-kicking-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fae72c81a607b1c69f90c6d3781490de6cf245fdc28bf4e8975759b7ce03bdb
+size 229

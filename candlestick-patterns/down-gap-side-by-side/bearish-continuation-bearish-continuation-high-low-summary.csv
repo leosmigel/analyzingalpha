@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,crypto,1,down_gap_side_by_side,3,downtrend,11,26,9,36,-0.558,-0.18600000000000003,0.35,0.222,2,7,4.0,2.5,4.43,1,1
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,crypto,2,down_gap_side_by_side,3,downtrend,11,25,9,64,-1.0,-0.3333333333333333,0.36,0.0,0,9,7.11,,7.11,0,2
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,crypto,3,down_gap_side_by_side,3,downtrend,11,25,9,64,-1.0,-0.3333333333333333,0.36,0.0,0,9,7.11,,7.11,0,2
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,crypto,4,down_gap_side_by_side,3,downtrend,11,25,9,64,-1.0,-0.3333333333333333,0.36,0.0,0,9,7.11,,7.11,0,2
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,crypto,5,down_gap_side_by_side,3,downtrend,11,25,9,64,-1.0,-0.3333333333333333,0.36,0.0,0,9,7.11,,7.11,0,2
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,forex,1,down_gap_side_by_side,3,downtrend,200,744,482,2884,-0.018000000000000016,-0.006000000000000005,0.65,0.492,237,245,5.98,5.63,6.32,6,5
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,forex,2,down_gap_side_by_side,3,downtrend,200,738,478,5261,0.051999999999999935,0.01733333333333331,0.65,0.351,168,310,11.01,14.24,9.25,6,6
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,forex,3,down_gap_side_by_side,3,downtrend,200,731,472,7731,0.07100000000000006,0.023666666666666687,0.65,0.267,126,346,16.38,28.83,11.85,5,6
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,forex,4,down_gap_side_by_side,3,downtrend,200,731,471,10138,0.138,0.046000000000000006,0.64,0.227,107,364,21.52,46.54,14.17,4,8
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,forex,5,down_gap_side_by_side,3,downtrend,200,728,469,12142,0.025000000000000133,0.008333333333333378,0.64,0.171,80,389,25.89,58.11,19.26,3,8
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,stock,1,down_gap_side_by_side,3,downtrend,3417,36970,18335,170245,-0.0030000000000000027,-0.0010000000000000009,0.5,0.497,9109,9226,9.29,8.3,10.26,39,15
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,stock,2,down_gap_side_by_side,3,downtrend,3417,35022,17463,256463,0.10399999999999998,0.03466666666666666,0.5,0.367,6408,11055,14.69,14.9,14.56,35,15
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,stock,3,down_gap_side_by_side,3,downtrend,3417,33603,16824,332015,0.129,0.043000000000000003,0.5,0.283,4764,12060,19.73,20.82,19.31,27,15
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,stock,4,down_gap_side_by_side,3,downtrend,3417,32465,16318,401312,0.15800000000000003,0.052666666666666674,0.5,0.232,3793,12525,24.59,30.19,22.9,20,16
-CDLGAPSIDESIDEWHITE,bearish,continuation,bearish continuation,stock,5,down_gap_side_by_side,3,downtrend,3417,31503,15873,461673,0.15999999999999992,0.05333333333333331,0.5,0.194,3079,12794,29.09,40.06,26.44,18,28
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fe12b7b1916f26219bb53a1774d203a1fa8bfb3923db90124f47b6d09d3cd7b
+size 3144

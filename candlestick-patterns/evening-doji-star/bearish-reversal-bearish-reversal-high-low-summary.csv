@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,1,evening_doji_star,3,uptrend,23,50,38,533,0.0,0.0,0.76,0.5,19,19,14.03,16.16,11.89,2,2
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,2,evening_doji_star,3,uptrend,23,50,38,778,-0.36800000000000005,-0.12266666666666669,0.76,0.211,8,30,20.47,15.12,21.9,2,2
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,3,evening_doji_star,3,uptrend,23,50,37,887,-0.45499999999999996,-0.15166666666666664,0.74,0.135,5,32,23.97,22.6,24.19,1,2
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,4,evening_doji_star,3,uptrend,23,48,35,1220,-0.712,-0.2373333333333333,0.73,0.057,2,33,34.86,130.5,29.06,1,2
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,crypto,5,evening_doji_star,3,uptrend,23,48,35,1395,-0.825,-0.27499999999999997,0.73,0.029,1,34,39.86,1.0,41.0,1,2
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,1,evening_doji_star,3,uptrend,297,890,610,5154,0.0,0.0,0.69,0.5,305,305,8.45,8.6,8.3,4,4
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,2,evening_doji_star,3,uptrend,297,888,608,8752,0.027999999999999914,0.009333333333333305,0.68,0.344,209,399,14.39,20.21,11.35,4,5
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,3,evening_doji_star,3,uptrend,297,887,603,13552,-0.028000000000000025,-0.009333333333333341,0.68,0.244,147,456,22.47,37.5,17.63,3,6
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,4,evening_doji_star,3,uptrend,297,886,601,18102,0.0,0.0,0.68,0.2,120,481,30.12,65.99,21.17,3,6
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,forex,5,evening_doji_star,3,uptrend,297,883,598,24529,0.0050000000000001155,0.0016666666666667052,0.68,0.167,100,498,41.02,108.53,27.46,2,6
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,1,evening_doji_star,3,uptrend,3034,13756,10704,78368,-0.02400000000000002,-0.008000000000000007,0.78,0.486,5200,5504,7.32,7.06,7.57,9,7
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,2,evening_doji_star,3,uptrend,3034,13714,10655,148808,-0.061999999999999944,-0.02066666666666665,0.78,0.314,3342,7313,13.97,17.45,12.37,6,9
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,3,evening_doji_star,3,uptrend,3034,13674,10600,211144,-0.08599999999999997,-0.028666666666666656,0.78,0.228,2418,8182,19.92,31.87,16.39,5,10
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,4,evening_doji_star,3,uptrend,3034,13610,10519,261752,-0.134,-0.04466666666666667,0.77,0.174,1834,8685,24.88,45.85,20.46,5,11
-CDLEVENINGDOJISTAR,bearish,reversal,bearish reversal,stock,5,evening_doji_star,3,uptrend,3034,13538,10433,318038,-0.17999999999999994,-0.05999999999999998,0.77,0.136,1421,9012,30.48,64.9,25.06,5,11
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5adefce376fcdedb9b210082665a26d16c7b487f55c4923a4172c77c728ffd7
+size 2937

@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,crypto,1,bearish_separating_lines,2,downtrend,191,2263,1212,14481,-0.15999999999999998,-0.07999999999999999,0.54,0.42,509,703,11.95,11.32,12.4,10,13
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,crypto,2,bearish_separating_lines,2,downtrend,191,1857,1019,24213,-0.18399999999999994,-0.09199999999999997,0.55,0.273,278,741,23.76,23.01,24.04,6,13
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,crypto,3,bearish_separating_lines,2,downtrend,191,1703,933,29731,-0.271,-0.1355,0.55,0.183,171,762,31.87,33.66,31.46,4,14
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,crypto,4,bearish_separating_lines,2,downtrend,191,1556,868,35298,-0.346,-0.173,0.56,0.131,114,754,40.67,45.08,40.0,4,14
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,crypto,5,bearish_separating_lines,2,downtrend,191,1464,815,36655,-0.44500000000000006,-0.22250000000000003,0.56,0.093,76,739,44.98,51.58,44.3,3,14
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,forex,1,bearish_separating_lines,2,downtrend,1239,74121,41941,259890,-0.16299999999999998,-0.08149999999999999,0.57,0.417,17480,24461,6.2,7.19,5.49,92,87
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,forex,2,bearish_separating_lines,2,downtrend,1239,67647,38072,384721,-0.122,-0.061,0.56,0.294,11193,26879,10.11,14.3,8.36,61,133
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,forex,3,bearish_separating_lines,2,downtrend,1239,63482,35639,491381,-0.08899999999999997,-0.044499999999999984,0.56,0.227,8107,27532,13.79,24.14,10.74,43,133
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,forex,4,bearish_separating_lines,2,downtrend,1239,60424,33878,568367,-0.08399999999999996,-0.04199999999999998,0.56,0.184,6247,27631,16.78,35.02,12.65,33,133
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,forex,5,bearish_separating_lines,2,downtrend,1239,57777,32211,646559,-0.07999999999999996,-0.03999999999999998,0.56,0.154,4971,27240,20.07,48.34,14.91,29,133
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,stock,1,bearish_separating_lines,2,downtrend,4213,39178,25857,205607,0.0010000000000000009,0.0005000000000000004,0.66,0.501,12949,12908,7.95,7.41,8.49,29,10
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,stock,2,bearish_separating_lines,2,downtrend,4213,37892,25091,356224,0.010000000000000009,0.0050000000000000044,0.66,0.335,8412,16679,14.2,16.19,13.19,18,14
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,stock,3,bearish_separating_lines,2,downtrend,4213,36704,24384,496042,0.0,0.0,0.66,0.25,6091,18293,20.34,27.89,17.83,16,20
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,stock,4,bearish_separating_lines,2,downtrend,4213,35832,23832,631848,-0.03400000000000003,-0.017000000000000015,0.67,0.194,4620,19212,26.51,39.8,23.32,10,20
-CDLSEPARATINGLINES,bearish,continuation,bearish continuation,stock,5,bearish_separating_lines,2,downtrend,4213,35126,23388,762973,-0.05999999999999994,-0.02999999999999997,0.67,0.156,3639,19749,32.62,57.06,28.12,9,22
+version https://git-lfs.github.com/spec/v1
+oid sha256:44be2c9997e6a072e6e7183c509584625d3dfe912611a86bf767245f7cbd907f
+size 3347

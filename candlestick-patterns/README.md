@@ -1,5 +1,3 @@
-I backtested 81+ [Japanese Candlestick Patterns](https://analyzingalpha.com/candlestick-patterns) in the following markets:
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18bb5d9b16191eb13d25a29381534e5b1cd72bf307abed17d9c0cefdf55ecfc
+size 258

@@ -1,5 +1,3 @@
-Backtest for [bearish closing marubozu](https://analyzingalpha.com/bearish-closing-marubozu-candlestick-pattern).
-
- - stock from 2000-01-01 through 2021-12-31
- - crypto from 2015-01-01 through 2021-12-31
- - forex from 2010-01-01 through 2021-12-31
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6041eaede0d6547b7e490b471926c8b98b2e300f447af4e4fd1fac88a011f3f
+size 247

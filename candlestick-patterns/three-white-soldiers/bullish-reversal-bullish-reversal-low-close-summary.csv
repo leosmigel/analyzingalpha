@@ -1,16 +1,3 @@
-pattern,direction,category,strategy,market,rr,pattern_name,pattern_bars,required_trend,tickers,signals,trades,trade_bars,edge,edge_per_bar,confirm_perc,win_perc,wins,losses,avg_trade_bars,avg_win_bars,avg_loss_bars,cons_wins,cons_losses
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,crypto,1,three_white_soldiers,3,downtrend,18,40,34,255,-0.05900000000000005,-0.019666666666666683,0.85,0.471,16,18,7.5,4.81,9.89,2,3
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,crypto,2,three_white_soldiers,3,downtrend,18,39,33,370,0.08799999999999997,0.029333333333333322,0.85,0.364,12,21,11.21,9.5,12.19,2,4
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,crypto,3,three_white_soldiers,3,downtrend,18,38,32,407,0.12300000000000011,0.041000000000000036,0.84,0.281,9,23,12.72,10.67,13.52,2,4
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,crypto,4,three_white_soldiers,3,downtrend,18,38,32,457,0.09599999999999997,0.031999999999999994,0.84,0.219,7,25,14.28,10.57,15.32,2,4
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,crypto,5,three_white_soldiers,3,downtrend,18,38,32,469,0.31499999999999995,0.10499999999999998,0.84,0.219,7,25,14.66,12.29,15.32,2,4
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,forex,1,three_white_soldiers,3,downtrend,292,2003,1053,12445,0.245,0.08166666666666667,0.53,0.625,658,395,11.82,9.48,15.71,10,5
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,forex,2,three_white_soldiers,3,downtrend,292,1939,1021,21960,0.42999999999999994,0.1433333333333333,0.53,0.475,485,536,21.51,19.49,23.33,6,10
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,forex,3,three_white_soldiers,3,downtrend,292,1920,1003,30153,0.606,0.20199999999999999,0.52,0.402,403,600,30.06,30.94,29.48,5,9
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,forex,4,three_white_soldiers,3,downtrend,292,1893,991,41493,0.7879999999999999,0.26266666666666666,0.52,0.357,354,637,41.87,57.89,32.97,4,9
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,forex,5,three_white_soldiers,3,downtrend,292,1861,977,54685,0.875,0.2916666666666667,0.52,0.313,306,671,55.97,73.66,47.91,4,9
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,stock,1,three_white_soldiers,3,downtrend,436,945,804,12345,0.16199999999999998,0.05399999999999999,0.85,0.582,468,336,15.35,15.88,14.62,5,3
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,stock,2,three_white_soldiers,3,downtrend,436,936,794,23779,0.266,0.08866666666666667,0.85,0.423,336,458,29.95,43.15,20.26,5,3
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,stock,3,three_white_soldiers,3,downtrend,436,931,791,35645,0.33199999999999996,0.11066666666666665,0.85,0.334,264,527,45.06,69.79,32.68,5,3
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,stock,4,three_white_soldiers,3,downtrend,436,928,789,44187,0.3920000000000001,0.1306666666666667,0.85,0.278,219,570,56.0,102.8,38.02,3,4
-CDL3WHITESOLDIERS,bullish,reversal,bullish reversal,stock,5,three_white_soldiers,3,downtrend,436,926,788,51649,0.44999999999999996,0.15,0.85,0.242,191,597,65.54,135.06,43.3,3,4
+version https://git-lfs.github.com/spec/v1
+oid sha256:98017197ec9ccfdfa8d4922cbdbff1b425ff266ec6df69d1cd340692480fefa6
+size 3016
